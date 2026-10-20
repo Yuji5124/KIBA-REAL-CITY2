@@ -1,0 +1,17 @@
+{
+  "phase": "KIBA PARK DRIVE Phase D3",
+  "result": "PASS",
+  "checks": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "browserReportPresent": true
+}

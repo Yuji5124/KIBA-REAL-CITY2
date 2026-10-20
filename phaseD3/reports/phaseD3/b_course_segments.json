@@ -1,0 +1,1495 @@
+{
+  "phase": "KIBA PARK DRIVE Phase D3",
+  "vehicle": {
+    "lengthMetres": 3.164,
+    "widthMetres": 1.904,
+    "wheelbaseMetres": 1.68,
+    "steeringAngleDegrees": 18
+  },
+  "candidateWays": {
+    "742189607": {
+      "lengthMetres": 984.23,
+      "widthMetres": 3.6,
+      "statusCounts": {
+        "walkable": 2373,
+        "review": 2,
+        "blocked": 0
+      },
+      "reviewDistanceMetres": 0.764,
+      "reviewStationMetres": [
+        230.066,
+        230.83
+      ],
+      "maxGradeWalkablePercent": 11.74,
+      "minRawNodeRadiusMetres": 0.23,
+      "nodesBelowVehicleTurningRadius": 61,
+      "intervalLengthMetres": 20.0,
+      "intervalCount": 50,
+      "intervals": [
+        {
+          "stationRangeMetres": [
+            0.0,
+            20.0
+          ],
+          "status": "REVIEW_NOT_RUNTIME_TESTED",
+          "sourceReviewDistanceMetres": 0.0,
+          "minRoadWidthMetres": 3.599,
+          "maxSourceGradePercent": 10.61,
+          "minThreePointRadiusMetres": 15.14,
+          "vehicleMinTurnRadiusMetres": 5.171,
+          "sweptEnvelope": {
+            "status": "PASS",
+            "probes": 1245,
+            "maxFootprintOffsetMetres": 0.988,
+            "allowedOffsetMetres": 1.679,
+            "issue": null
+          },
+          "fourWheelRuntimeTest": "NOT_RUN",
+          "reasonCodes": [
+            "runtime_4wheel_and_obstacle_test_not_done_for_this_interval"
+          ]
+        },
+        {
+          "stationRangeMetres": [
+            20.0,
+            40.0
+          ],
+          "status": "BLOCK",
+          "sourceReviewDistanceMetres": 0.0,
+          "minRoadWidthMetres": 3.599,
+          "maxSourceGradePercent": 6.37,
+          "minThreePointRadiusMetres": 2.985,
+          "vehicleMinTurnRadiusMetres": 5.171,
+          "sweptEnvelope": {
+            "status": "PASS",
+            "probes": 1245,
+            "maxFootprintOffsetMetres": 1.267,
+            "allowedOffsetMetres": 1.679,
+            "issue": null
+          },
+          "fourWheelRuntimeTest": "NOT_RUN",
+          "reasonCodes": [
+            "curve_below_vehicle_turn_radius"
+          ]
+        },
+        {
+          "stationRangeMetres": [
+            40.0,
+            60.0
+          ],
+          "status": "OPENED_MANUAL_BROWSER_PASS",
+          "sourceReviewDistanceMetres": 0.0,
+          "minRoadWidthMetres": 3.599,
+          "maxSourceGradePercent": 8.55,
+          "minThreePointRadiusMetres": 37.495,
+          "vehicleMinTurnRadiusMetres": 5.171,
+          "sweptEnvelope": {
+            "status": "PASS",
+            "probes": 1245,
+            "maxFootprintOffsetMetres": 0.974,
+            "allowedOffsetMetres": 1.679,
+            "issue": null
+          },
+          "fourWheelRuntimeTest": "PASS",
+          "reasonCodes": []
+        },
+        {
+          "stationRangeMetres": [
+            60.0,
+            80.0
+          ],
+          "status": "REVIEW_NOT_RUNTIME_TESTED",
+          "sourceReviewDistanceMetres": 0.0,
+          "minRoadWidthMetres": 3.599,
+          "maxSourceGradePercent": 0.0,
+          "minThreePointRadiusMetres": 46.162,
+          "vehicleMinTurnRadiusMetres": 5.171,
+          "sweptEnvelope": {
+            "status": "PASS",
+            "probes": 1245,
+            "maxFootprintOffsetMetres": 0.967,
+            "allowedOffsetMetres": 1.679,
+            "issue": null
+          },
+          "fourWheelRuntimeTest": "NOT_RUN",
+          "reasonCodes": [
+            "runtime_4wheel_and_obstacle_test_not_done_for_this_interval"
+          ]
+        },
+        {
+          "stationRangeMetres": [
+            80.0,
+            100.0
+          ],
+          "status": "REVIEW_NOT_RUNTIME_TESTED",
+          "sourceReviewDistanceMetres": 0.0,
+          "minRoadWidthMetres": 3.599,
+          "maxSourceGradePercent": 9.48,
+          "minThreePointRadiusMetres": 42.022,
+          "vehicleMinTurnRadiusMetres": 5.171,
+          "sweptEnvelope": {
+            "status": "PASS",
+            "probes": 1245,
+            "maxFootprintOffsetMetres": 0.977,
+            "allowedOffsetMetres": 1.679,
+            "issue": null
+          },
+          "fourWheelRuntimeTest": "NOT_RUN",
+          "reasonCodes": [
+            "runtime_4wheel_and_obstacle_test_not_done_for_this_interval"
+          ]
+        },
+        {
+          "stationRangeMetres": [
+            100.0,
+            120.0
+          ],
+          "status": "REVIEW_NOT_RUNTIME_TESTED",
+          "sourceReviewDistanceMetres": 0.0,
+          "minRoadWidthMetres": 3.599,
+          "maxSourceGradePercent": 8.54,
+          "minThreePointRadiusMetres": 54.762,
+          "vehicleMinTurnRadiusMetres": 5.171,
+          "sweptEnvelope": {
+            "status": "PASS",
+            "probes": 1245,
+            "maxFootprintOffsetMetres": 0.971,
+            "allowedOffsetMetres": 1.679,
+            "issue": null
+          },
+          "fourWheelRuntimeTest": "NOT_RUN",
+          "reasonCodes": [
+            "runtime_4wheel_and_obstacle_test_not_done_for_this_interval"
+          ]
+        },
+        {
+          "stationRangeMetres": [
+            120.0,
+            140.0
+          ],
+          "status": "REVIEW_NOT_RUNTIME_TESTED",
+          "sourceReviewDistanceMetres": 0.0,
+          "minRoadWidthMetres": 3.599,
+          "maxSourceGradePercent": 5.55,
+          "minThreePointRadiusMetres": 39.38,
+          "vehicleMinTurnRadiusMetres": 5.171,
+          "sweptEnvelope": {
+            "status": "PASS",
+            "probes": 1245,
+            "maxFootprintOffsetMetres": 0.978,
+            "allowedOffsetMetres": 1.679,
+            "issue": null
+          },
+          "fourWheelRuntimeTest": "NOT_RUN",
+          "reasonCodes": [
+            "runtime_4wheel_and_obstacle_test_not_done_for_this_interval"
+          ]
+        },
+        {
+          "stationRangeMetres": [
+            140.0,
+            160.0
+          ],
+          "status": "BLOCK",
+          "sourceReviewDistanceMetres": 0.0,
+          "minRoadWidthMetres": 3.599,
+          "maxSourceGradePercent": 6.43,
+          "minThreePointRadiusMetres": 4.116,
+          "vehicleMinTurnRadiusMetres": 5.171,
+          "sweptEnvelope": {
+            "status": "PASS",
+            "probes": 1245,
+            "maxFootprintOffsetMetres": 1.127,
+            "allowedOffsetMetres": 1.679,
+            "issue": null
+          },
+          "fourWheelRuntimeTest": "NOT_RUN",
+          "reasonCodes": [
+            "curve_below_vehicle_turn_radius"
+          ]
+        },
+        {
+          "stationRangeMetres": [
+            160.0,
+            180.0
+          ],
+          "status": "BLOCK",
+          "sourceReviewDistanceMetres": 0.0,
+          "minRoadWidthMetres": 3.6,
+          "maxSourceGradePercent": 2.38,
+          "minThreePointRadiusMetres": 3.814,
+          "vehicleMinTurnRadiusMetres": 5.171,
+          "sweptEnvelope": {
+            "status": "PASS",
+            "probes": 1245,
+            "maxFootprintOffsetMetres": 1.235,
+            "allowedOffsetMetres": 1.68,
+            "issue": null
+          },
+          "fourWheelRuntimeTest": "NOT_RUN",
+          "reasonCodes": [
+            "curve_below_vehicle_turn_radius"
+          ]
+        },
+        {
+          "stationRangeMetres": [
+            180.0,
+            200.0
+          ],
+          "status": "BLOCK",
+          "sourceReviewDistanceMetres": 0.0,
+          "minRoadWidthMetres": 3.599,
+          "maxSourceGradePercent": 11.74,
+          "minThreePointRadiusMetres": 3.891,
+          "vehicleMinTurnRadiusMetres": 5.171,
+          "sweptEnvelope": {
+            "status": "PASS",
+            "probes": 1245,
+            "maxFootprintOffsetMetres": 1.137,
+            "allowedOffsetMetres": 1.679,
+            "issue": null
+          },
+          "fourWheelRuntimeTest": "NOT_RUN",
+          "reasonCodes": [
+            "curve_below_vehicle_turn_radius"
+          ]
+        },
+        {
+          "stationRangeMetres": [
+            200.0,
+            220.0
+          ],
+          "status": "REVIEW_NOT_RUNTIME_TESTED",
+          "sourceReviewDistanceMetres": 0.0,
+          "minRoadWidthMetres": 3.599,
+          "maxSourceGradePercent": 0.0,
+          "minThreePointRadiusMetres": 34.704,
+          "vehicleMinTurnRadiusMetres": 5.171,
+          "sweptEnvelope": {
+            "status": "PASS",
+            "probes": 1245,
+            "maxFootprintOffsetMetres": 0.984,
+            "allowedOffsetMetres": 1.679,
+            "issue": null
+          },
+          "fourWheelRuntimeTest": "NOT_RUN",
+          "reasonCodes": [
+            "runtime_4wheel_and_obstacle_test_not_done_for_this_interval"
+          ]
+        },
+        {
+          "stationRangeMetres": [
+            220.0,
+            240.0
+          ],
+          "status": "BLOCK",
+          "sourceReviewDistanceMetres": 0.764,
+          "minRoadWidthMetres": 3.6,
+          "maxSourceGradePercent": 10.66,
+          "minThreePointRadiusMetres": 84.334,
+          "vehicleMinTurnRadiusMetres": 5.171,
+          "sweptEnvelope": {
+            "status": "PASS",
+            "probes": 1245,
+            "maxFootprintOffsetMetres": 0.961,
+            "allowedOffsetMetres": 1.68,
+            "issue": null
+          },
+          "fourWheelRuntimeTest": "NOT_RUN",
+          "reasonCodes": [
+            "source_DEM_or_mesh_review"
+          ]
+        },
+        {
+          "stationRangeMetres": [
+            240.0,
+            260.0
+          ],
+          "status": "REVIEW_NOT_RUNTIME_TESTED",
+          "sourceReviewDistanceMetres": 0.0,
+          "minRoadWidthMetres": 3.6,
+          "maxSourceGradePercent": 6.13,
+          "minThreePointRadiusMetres": 30.745,
+          "vehicleMinTurnRadiusMetres": 5.171,
+          "sweptEnvelope": {
+            "status": "PASS",
+            "probes": 1245,
+            "maxFootprintOffsetMetres": 0.987,
+            "allowedOffsetMetres": 1.68,
+            "issue": null
+          },
+          "fourWheelRuntimeTest": "NOT_RUN",
+          "reasonCodes": [
+            "runtime_4wheel_and_obstacle_test_not_done_for_this_interval"
+          ]
+        },
+        {
+          "stationRangeMetres": [
+            260.0,
+            280.0
+          ],
+          "status": "REVIEW_NOT_RUNTIME_TESTED",
+          "sourceReviewDistanceMetres": 0.0,
+          "minRoadWidthMetres": 3.599,
+          "maxSourceGradePercent": 7.17,
+          "minThreePointRadiusMetres": 14.05,
+          "vehicleMinTurnRadiusMetres": 5.171,
+          "sweptEnvelope": {
+            "status": "PASS",
+            "probes": 1245,
+            "maxFootprintOffsetMetres": 1.017,
+            "allowedOffsetMetres": 1.679,
+            "issue": null
+          },
+          "fourWheelRuntimeTest": "NOT_RUN",
+          "reasonCodes": [
+            "runtime_4wheel_and_obstacle_test_not_done_for_this_interval"
+          ]
+        },
+        {
+          "stationRangeMetres": [
+            280.0,
+            300.0
+          ],
+          "status": "REVIEW_NOT_RUNTIME_TESTED",
+          "sourceReviewDistanceMetres": 0.0,
+          "minRoadWidthMetres": 3.6,
+          "maxSourceGradePercent": 8.11,
+          "minThreePointRadiusMetres": 32.606,
+          "vehicleMinTurnRadiusMetres": 5.171,
+          "sweptEnvelope": {
+            "status": "PASS",
+            "probes": 1245,
+            "maxFootprintOffsetMetres": 0.971,
+            "allowedOffsetMetres": 1.68,
+            "issue": null
+          },
+          "fourWheelRuntimeTest": "NOT_RUN",
+          "reasonCodes": [
+            "runtime_4wheel_and_obstacle_test_not_done_for_this_interval"
+          ]
+        },
+        {
+          "stationRangeMetres": [
+            300.0,
+            320.0
+          ],
+          "status": "REVIEW_NOT_RUNTIME_TESTED",
+          "sourceReviewDistanceMetres": 0.0,
+          "minRoadWidthMetres": 3.6,
+          "maxSourceGradePercent": 9.44,
+          "minThreePointRadiusMetres": 50.208,
+          "vehicleMinTurnRadiusMetres": 5.171,
+          "sweptEnvelope": {
+            "status": "PASS",
+            "probes": 1245,
+            "maxFootprintOffsetMetres": 0.973,
+            "allowedOffsetMetres": 1.68,
+            "issue": null
+          },
+          "fourWheelRuntimeTest": "NOT_RUN",
+          "reasonCodes": [
+            "runtime_4wheel_and_obstacle_test_not_done_for_this_interval"
+          ]
+        },
+        {
+          "stationRangeMetres": [
+            320.0,
+            340.0
+          ],
+          "status": "BLOCK",
+          "sourceReviewDistanceMetres": 0.0,
+          "minRoadWidthMetres": 3.6,
+          "maxSourceGradePercent": 8.06,
+          "minThreePointRadiusMetres": 0.23,
+          "vehicleMinTurnRadiusMetres": 5.171,
+          "sweptEnvelope": {
+            "status": "BLOCK",
+            "probes": 1245,
+            "maxFootprintOffsetMetres": 1.813,
+            "allowedOffsetMetres": 1.68,
+            "issue": {
+              "reason": "swept envelope exceeds source path corridor",
+              "routeStationMetres": 10.0,
+              "offsetMetres": 1.813,
+              "allowedOffsetMetres": 1.68
+            }
+          },
+          "fourWheelRuntimeTest": "NOT_RUN",
+          "reasonCodes": [
+            "curve_below_vehicle_turn_radius",
+            "swept_body_outside_source_corridor"
+          ]
+        },
+        {
+          "stationRangeMetres": [
+            340.0,
+            360.0
+          ],
+          "status": "BLOCK",
+          "sourceReviewDistanceMetres": 0.0,
+          "minRoadWidthMetres": 3.599,
+          "maxSourceGradePercent": 5.3,
+          "minThreePointRadiusMetres": 3.045,
+          "vehicleMinTurnRadiusMetres": 5.171,
+          "sweptEnvelope": {
+            "status": "PASS",
+            "probes": 1245,
+            "maxFootprintOffsetMetres": 1.293,
+            "allowedOffsetMetres": 1.679,
+            "issue": null
+          },
+          "fourWheelRuntimeTest": "NOT_RUN",
+          "reasonCodes": [
+            "curve_below_vehicle_turn_radius"
+          ]
+        },
+        {
+          "stationRangeMetres": [
+            360.0,
+            380.0
+          ],
+          "status": "REVIEW_NOT_RUNTIME_TESTED",
+          "sourceReviewDistanceMetres": 0.0,
+          "minRoadWidthMetres": 3.6,
+          "maxSourceGradePercent": 2.98,
+          "minThreePointRadiusMetres": 40.088,
+          "vehicleMinTurnRadiusMetres": 5.171,
+          "sweptEnvelope": {
+            "status": "PASS",
+            "probes": 1245,
+            "maxFootprintOffsetMetres": 0.964,
+            "allowedOffsetMetres": 1.68,
+            "issue": null
+          },
+          "fourWheelRuntimeTest": "NOT_RUN",
+          "reasonCodes": [
+            "runtime_4wheel_and_obstacle_test_not_done_for_this_interval"
+          ]
+        },
+        {
+          "stationRangeMetres": [
+            380.0,
+            400.0
+          ],
+          "status": "REVIEW_NOT_RUNTIME_TESTED",
+          "sourceReviewDistanceMetres": 0.0,
+          "minRoadWidthMetres": 3.6,
+          "maxSourceGradePercent": 3.44,
+          "minThreePointRadiusMetres": 45.244,
+          "vehicleMinTurnRadiusMetres": 5.171,
+          "sweptEnvelope": {
+            "status": "PASS",
+            "probes": 1245,
+            "maxFootprintOffsetMetres": 0.961,
+            "allowedOffsetMetres": 1.68,
+            "issue": null
+          },
+          "fourWheelRuntimeTest": "NOT_RUN",
+          "reasonCodes": [
+            "runtime_4wheel_and_obstacle_test_not_done_for_this_interval"
+          ]
+        },
+        {
+          "stationRangeMetres": [
+            400.0,
+            420.0
+          ],
+          "status": "REVIEW_NOT_RUNTIME_TESTED",
+          "sourceReviewDistanceMetres": 0.0,
+          "minRoadWidthMetres": 3.599,
+          "maxSourceGradePercent": 3.39,
+          "minThreePointRadiusMetres": 86.059,
+          "vehicleMinTurnRadiusMetres": 5.171,
+          "sweptEnvelope": {
+            "status": "PASS",
+            "probes": 1245,
+            "maxFootprintOffsetMetres": 0.958,
+            "allowedOffsetMetres": 1.679,
+            "issue": null
+          },
+          "fourWheelRuntimeTest": "NOT_RUN",
+          "reasonCodes": [
+            "runtime_4wheel_and_obstacle_test_not_done_for_this_interval"
+          ]
+        },
+        {
+          "stationRangeMetres": [
+            420.0,
+            440.0
+          ],
+          "status": "REVIEW_NOT_RUNTIME_TESTED",
+          "sourceReviewDistanceMetres": 0.0,
+          "minRoadWidthMetres": 3.599,
+          "maxSourceGradePercent": 5.22,
+          "minThreePointRadiusMetres": 49.044,
+          "vehicleMinTurnRadiusMetres": 5.171,
+          "sweptEnvelope": {
+            "status": "PASS",
+            "probes": 1245,
+            "maxFootprintOffsetMetres": 0.959,
+            "allowedOffsetMetres": 1.679,
+            "issue": null
+          },
+          "fourWheelRuntimeTest": "NOT_RUN",
+          "reasonCodes": [
+            "runtime_4wheel_and_obstacle_test_not_done_for_this_interval"
+          ]
+        },
+        {
+          "stationRangeMetres": [
+            440.0,
+            460.0
+          ],
+          "status": "REVIEW_NOT_RUNTIME_TESTED",
+          "sourceReviewDistanceMetres": 0.0,
+          "minRoadWidthMetres": 3.599,
+          "maxSourceGradePercent": 1.03,
+          "minThreePointRadiusMetres": 78.505,
+          "vehicleMinTurnRadiusMetres": 5.171,
+          "sweptEnvelope": {
+            "status": "PASS",
+            "probes": 1245,
+            "maxFootprintOffsetMetres": 0.96,
+            "allowedOffsetMetres": 1.679,
+            "issue": null
+          },
+          "fourWheelRuntimeTest": "NOT_RUN",
+          "reasonCodes": [
+            "runtime_4wheel_and_obstacle_test_not_done_for_this_interval"
+          ]
+        },
+        {
+          "stationRangeMetres": [
+            460.0,
+            480.0
+          ],
+          "status": "BLOCK",
+          "sourceReviewDistanceMetres": 0.0,
+          "minRoadWidthMetres": 3.599,
+          "maxSourceGradePercent": 4.48,
+          "minThreePointRadiusMetres": 0.452,
+          "vehicleMinTurnRadiusMetres": 5.171,
+          "sweptEnvelope": {
+            "status": "BLOCK",
+            "probes": 1245,
+            "maxFootprintOffsetMetres": 1.681,
+            "allowedOffsetMetres": 1.679,
+            "issue": {
+              "reason": "swept envelope exceeds source path corridor",
+              "routeStationMetres": 12.391,
+              "offsetMetres": 1.681,
+              "allowedOffsetMetres": 1.679
+            }
+          },
+          "fourWheelRuntimeTest": "NOT_RUN",
+          "reasonCodes": [
+            "curve_below_vehicle_turn_radius",
+            "swept_body_outside_source_corridor"
+          ]
+        },
+        {
+          "stationRangeMetres": [
+            480.0,
+            500.0
+          ],
+          "status": "BLOCK",
+          "sourceReviewDistanceMetres": 0.0,
+          "minRoadWidthMetres": 3.6,
+          "maxSourceGradePercent": 4.08,
+          "minThreePointRadiusMetres": 1.615,
+          "vehicleMinTurnRadiusMetres": 5.171,
+          "sweptEnvelope": {
+            "status": "PASS",
+            "probes": 1245,
+            "maxFootprintOffsetMetres": 0.991,
+            "allowedOffsetMetres": 1.68,
+            "issue": null
+          },
+          "fourWheelRuntimeTest": "NOT_RUN",
+          "reasonCodes": [
+            "curve_below_vehicle_turn_radius"
+          ]
+        },
+        {
+          "stationRangeMetres": [
+            500.0,
+            520.0
+          ],
+          "status": "REVIEW_NOT_RUNTIME_TESTED",
+          "sourceReviewDistanceMetres": 0.0,
+          "minRoadWidthMetres": 3.599,
+          "maxSourceGradePercent": 6.17,
+          "minThreePointRadiusMetres": 54.689,
+          "vehicleMinTurnRadiusMetres": 5.171,
+          "sweptEnvelope": {
+            "status": "PASS",
+            "probes": 1245,
+            "maxFootprintOffsetMetres": 0.964,
+            "allowedOffsetMetres": 1.679,
+            "issue": null
+          },
+          "fourWheelRuntimeTest": "NOT_RUN",
+          "reasonCodes": [
+            "runtime_4wheel_and_obstacle_test_not_done_for_this_interval"
+          ]
+        },
+        {
+          "stationRangeMetres": [
+            520.0,
+            540.0
+          ],
+          "status": "BLOCK",
+          "sourceReviewDistanceMetres": 0.0,
+          "minRoadWidthMetres": 3.599,
+          "maxSourceGradePercent": 5.74,
+          "minThreePointRadiusMetres": 0.664,
+          "vehicleMinTurnRadiusMetres": 5.171,
+          "sweptEnvelope": {
+            "status": "PASS",
+            "probes": 1245,
+            "maxFootprintOffsetMetres": 1.567,
+            "allowedOffsetMetres": 1.679,
+            "issue": null
+          },
+          "fourWheelRuntimeTest": "NOT_RUN",
+          "reasonCodes": [
+            "curve_below_vehicle_turn_radius"
+          ]
+        },
+        {
+          "stationRangeMetres": [
+            540.0,
+            560.0
+          ],
+          "status": "REVIEW_NOT_RUNTIME_TESTED",
+          "sourceReviewDistanceMetres": 0.0,
+          "minRoadWidthMetres": 3.6,
+          "maxSourceGradePercent": 7.71,
+          "minThreePointRadiusMetres": 6.707,
+          "vehicleMinTurnRadiusMetres": 5.171,
+          "sweptEnvelope": {
+            "status": "PASS",
+            "probes": 1245,
+            "maxFootprintOffsetMetres": 1.091,
+            "allowedOffsetMetres": 1.68,
+            "issue": null
+          },
+          "fourWheelRuntimeTest": "NOT_RUN",
+          "reasonCodes": [
+            "runtime_4wheel_and_obstacle_test_not_done_for_this_interval"
+          ]
+        },
+        {
+          "stationRangeMetres": [
+            560.0,
+            580.0
+          ],
+          "status": "REVIEW_NOT_RUNTIME_TESTED",
+          "sourceReviewDistanceMetres": 0.0,
+          "minRoadWidthMetres": 3.599,
+          "maxSourceGradePercent": 0.0,
+          "minThreePointRadiusMetres": 35.081,
+          "vehicleMinTurnRadiusMetres": 5.171,
+          "sweptEnvelope": {
+            "status": "PASS",
+            "probes": 1245,
+            "maxFootprintOffsetMetres": 0.984,
+            "allowedOffsetMetres": 1.679,
+            "issue": null
+          },
+          "fourWheelRuntimeTest": "NOT_RUN",
+          "reasonCodes": [
+            "runtime_4wheel_and_obstacle_test_not_done_for_this_interval"
+          ]
+        },
+        {
+          "stationRangeMetres": [
+            580.0,
+            600.0
+          ],
+          "status": "REVIEW_NOT_RUNTIME_TESTED",
+          "sourceReviewDistanceMetres": 0.0,
+          "minRoadWidthMetres": 3.6,
+          "maxSourceGradePercent": 0.0,
+          "minThreePointRadiusMetres": 40.797,
+          "vehicleMinTurnRadiusMetres": 5.171,
+          "sweptEnvelope": {
+            "status": "PASS",
+            "probes": 1245,
+            "maxFootprintOffsetMetres": 0.968,
+            "allowedOffsetMetres": 1.68,
+            "issue": null
+          },
+          "fourWheelRuntimeTest": "NOT_RUN",
+          "reasonCodes": [
+            "runtime_4wheel_and_obstacle_test_not_done_for_this_interval"
+          ]
+        },
+        {
+          "stationRangeMetres": [
+            600.0,
+            620.0
+          ],
+          "status": "REVIEW_NOT_RUNTIME_TESTED",
+          "sourceReviewDistanceMetres": 0.0,
+          "minRoadWidthMetres": 3.599,
+          "maxSourceGradePercent": 8.34,
+          "minThreePointRadiusMetres": 13.463,
+          "vehicleMinTurnRadiusMetres": 5.171,
+          "sweptEnvelope": {
+            "status": "PASS",
+            "probes": 1245,
+            "maxFootprintOffsetMetres": 1.039,
+            "allowedOffsetMetres": 1.679,
+            "issue": null
+          },
+          "fourWheelRuntimeTest": "NOT_RUN",
+          "reasonCodes": [
+            "runtime_4wheel_and_obstacle_test_not_done_for_this_interval"
+          ]
+        },
+        {
+          "stationRangeMetres": [
+            620.0,
+            640.0
+          ],
+          "status": "REVIEW_NOT_RUNTIME_TESTED",
+          "sourceReviewDistanceMetres": 0.0,
+          "minRoadWidthMetres": 3.599,
+          "maxSourceGradePercent": 8.79,
+          "minThreePointRadiusMetres": 67.96,
+          "vehicleMinTurnRadiusMetres": 5.171,
+          "sweptEnvelope": {
+            "status": "PASS",
+            "probes": 1245,
+            "maxFootprintOffsetMetres": 0.962,
+            "allowedOffsetMetres": 1.679,
+            "issue": null
+          },
+          "fourWheelRuntimeTest": "NOT_RUN",
+          "reasonCodes": [
+            "runtime_4wheel_and_obstacle_test_not_done_for_this_interval"
+          ]
+        },
+        {
+          "stationRangeMetres": [
+            640.0,
+            660.0
+          ],
+          "status": "REVIEW_NOT_RUNTIME_TESTED",
+          "sourceReviewDistanceMetres": 0.0,
+          "minRoadWidthMetres": 3.6,
+          "maxSourceGradePercent": 6.71,
+          "minThreePointRadiusMetres": 12.625,
+          "vehicleMinTurnRadiusMetres": 5.171,
+          "sweptEnvelope": {
+            "status": "PASS",
+            "probes": 1245,
+            "maxFootprintOffsetMetres": 1.044,
+            "allowedOffsetMetres": 1.68,
+            "issue": null
+          },
+          "fourWheelRuntimeTest": "NOT_RUN",
+          "reasonCodes": [
+            "runtime_4wheel_and_obstacle_test_not_done_for_this_interval"
+          ]
+        },
+        {
+          "stationRangeMetres": [
+            660.0,
+            680.0
+          ],
+          "status": "REVIEW_NOT_RUNTIME_TESTED",
+          "sourceReviewDistanceMetres": 0.0,
+          "minRoadWidthMetres": 3.6,
+          "maxSourceGradePercent": 8.45,
+          "minThreePointRadiusMetres": 56.519,
+          "vehicleMinTurnRadiusMetres": 5.171,
+          "sweptEnvelope": {
+            "status": "PASS",
+            "probes": 1245,
+            "maxFootprintOffsetMetres": 0.971,
+            "allowedOffsetMetres": 1.68,
+            "issue": null
+          },
+          "fourWheelRuntimeTest": "NOT_RUN",
+          "reasonCodes": [
+            "runtime_4wheel_and_obstacle_test_not_done_for_this_interval"
+          ]
+        },
+        {
+          "stationRangeMetres": [
+            680.0,
+            700.0
+          ],
+          "status": "REVIEW_NOT_RUNTIME_TESTED",
+          "sourceReviewDistanceMetres": 0.0,
+          "minRoadWidthMetres": 3.6,
+          "maxSourceGradePercent": 5.1,
+          "minThreePointRadiusMetres": 33.194,
+          "vehicleMinTurnRadiusMetres": 5.171,
+          "sweptEnvelope": {
+            "status": "PASS",
+            "probes": 1245,
+            "maxFootprintOffsetMetres": 0.981,
+            "allowedOffsetMetres": 1.68,
+            "issue": null
+          },
+          "fourWheelRuntimeTest": "NOT_RUN",
+          "reasonCodes": [
+            "runtime_4wheel_and_obstacle_test_not_done_for_this_interval"
+          ]
+        },
+        {
+          "stationRangeMetres": [
+            700.0,
+            720.0
+          ],
+          "status": "REVIEW_NOT_RUNTIME_TESTED",
+          "sourceReviewDistanceMetres": 0.0,
+          "minRoadWidthMetres": 3.599,
+          "maxSourceGradePercent": 6.22,
+          "minThreePointRadiusMetres": 31.748,
+          "vehicleMinTurnRadiusMetres": 5.171,
+          "sweptEnvelope": {
+            "status": "PASS",
+            "probes": 1245,
+            "maxFootprintOffsetMetres": 0.985,
+            "allowedOffsetMetres": 1.679,
+            "issue": null
+          },
+          "fourWheelRuntimeTest": "NOT_RUN",
+          "reasonCodes": [
+            "runtime_4wheel_and_obstacle_test_not_done_for_this_interval"
+          ]
+        },
+        {
+          "stationRangeMetres": [
+            720.0,
+            740.0
+          ],
+          "status": "REVIEW_NOT_RUNTIME_TESTED",
+          "sourceReviewDistanceMetres": 0.0,
+          "minRoadWidthMetres": 3.599,
+          "maxSourceGradePercent": 0.0,
+          "minThreePointRadiusMetres": 16.844,
+          "vehicleMinTurnRadiusMetres": 5.171,
+          "sweptEnvelope": {
+            "status": "PASS",
+            "probes": 1245,
+            "maxFootprintOffsetMetres": 1.01,
+            "allowedOffsetMetres": 1.679,
+            "issue": null
+          },
+          "fourWheelRuntimeTest": "NOT_RUN",
+          "reasonCodes": [
+            "runtime_4wheel_and_obstacle_test_not_done_for_this_interval"
+          ]
+        },
+        {
+          "stationRangeMetres": [
+            740.0,
+            760.0
+          ],
+          "status": "REVIEW_NOT_RUNTIME_TESTED",
+          "sourceReviewDistanceMetres": 0.0,
+          "minRoadWidthMetres": 3.6,
+          "maxSourceGradePercent": 4.94,
+          "minThreePointRadiusMetres": 38.916,
+          "vehicleMinTurnRadiusMetres": 5.171,
+          "sweptEnvelope": {
+            "status": "PASS",
+            "probes": 1245,
+            "maxFootprintOffsetMetres": 0.975,
+            "allowedOffsetMetres": 1.68,
+            "issue": null
+          },
+          "fourWheelRuntimeTest": "NOT_RUN",
+          "reasonCodes": [
+            "runtime_4wheel_and_obstacle_test_not_done_for_this_interval"
+          ]
+        },
+        {
+          "stationRangeMetres": [
+            760.0,
+            780.0
+          ],
+          "status": "REVIEW_NOT_RUNTIME_TESTED",
+          "sourceReviewDistanceMetres": 0.0,
+          "minRoadWidthMetres": 3.599,
+          "maxSourceGradePercent": 0.0,
+          "minThreePointRadiusMetres": 46.106,
+          "vehicleMinTurnRadiusMetres": 5.171,
+          "sweptEnvelope": {
+            "status": "PASS",
+            "probes": 1245,
+            "maxFootprintOffsetMetres": 0.97,
+            "allowedOffsetMetres": 1.679,
+            "issue": null
+          },
+          "fourWheelRuntimeTest": "NOT_RUN",
+          "reasonCodes": [
+            "runtime_4wheel_and_obstacle_test_not_done_for_this_interval"
+          ]
+        },
+        {
+          "stationRangeMetres": [
+            780.0,
+            800.0
+          ],
+          "status": "REVIEW_NOT_RUNTIME_TESTED",
+          "sourceReviewDistanceMetres": 0.0,
+          "minRoadWidthMetres": 3.6,
+          "maxSourceGradePercent": 4.64,
+          "minThreePointRadiusMetres": 41.139,
+          "vehicleMinTurnRadiusMetres": 5.171,
+          "sweptEnvelope": {
+            "status": "PASS",
+            "probes": 1245,
+            "maxFootprintOffsetMetres": 0.97,
+            "allowedOffsetMetres": 1.68,
+            "issue": null
+          },
+          "fourWheelRuntimeTest": "NOT_RUN",
+          "reasonCodes": [
+            "runtime_4wheel_and_obstacle_test_not_done_for_this_interval"
+          ]
+        },
+        {
+          "stationRangeMetres": [
+            800.0,
+            820.0
+          ],
+          "status": "REVIEW_NOT_RUNTIME_TESTED",
+          "sourceReviewDistanceMetres": 0.0,
+          "minRoadWidthMetres": 3.599,
+          "maxSourceGradePercent": 3.71,
+          "minThreePointRadiusMetres": 52.23,
+          "vehicleMinTurnRadiusMetres": 5.171,
+          "sweptEnvelope": {
+            "status": "PASS",
+            "probes": 1245,
+            "maxFootprintOffsetMetres": 0.972,
+            "allowedOffsetMetres": 1.679,
+            "issue": null
+          },
+          "fourWheelRuntimeTest": "NOT_RUN",
+          "reasonCodes": [
+            "runtime_4wheel_and_obstacle_test_not_done_for_this_interval"
+          ]
+        },
+        {
+          "stationRangeMetres": [
+            820.0,
+            840.0
+          ],
+          "status": "REVIEW_NOT_RUNTIME_TESTED",
+          "sourceReviewDistanceMetres": 0.0,
+          "minRoadWidthMetres": 3.599,
+          "maxSourceGradePercent": 5.23,
+          "minThreePointRadiusMetres": 6.359,
+          "vehicleMinTurnRadiusMetres": 5.171,
+          "sweptEnvelope": {
+            "status": "PASS",
+            "probes": 1245,
+            "maxFootprintOffsetMetres": 1.124,
+            "allowedOffsetMetres": 1.679,
+            "issue": null
+          },
+          "fourWheelRuntimeTest": "NOT_RUN",
+          "reasonCodes": [
+            "runtime_4wheel_and_obstacle_test_not_done_for_this_interval"
+          ]
+        },
+        {
+          "stationRangeMetres": [
+            840.0,
+            860.0
+          ],
+          "status": "BLOCK",
+          "sourceReviewDistanceMetres": 0.0,
+          "minRoadWidthMetres": 3.599,
+          "maxSourceGradePercent": 9.27,
+          "minThreePointRadiusMetres": 1.334,
+          "vehicleMinTurnRadiusMetres": 5.171,
+          "sweptEnvelope": {
+            "status": "PASS",
+            "probes": 1245,
+            "maxFootprintOffsetMetres": 1.458,
+            "allowedOffsetMetres": 1.679,
+            "issue": null
+          },
+          "fourWheelRuntimeTest": "NOT_RUN",
+          "reasonCodes": [
+            "curve_below_vehicle_turn_radius"
+          ]
+        },
+        {
+          "stationRangeMetres": [
+            860.0,
+            880.0
+          ],
+          "status": "REVIEW_NOT_RUNTIME_TESTED",
+          "sourceReviewDistanceMetres": 0.0,
+          "minRoadWidthMetres": 3.599,
+          "maxSourceGradePercent": 8.51,
+          "minThreePointRadiusMetres": 9.156,
+          "vehicleMinTurnRadiusMetres": 5.171,
+          "sweptEnvelope": {
+            "status": "PASS",
+            "probes": 1245,
+            "maxFootprintOffsetMetres": 1.067,
+            "allowedOffsetMetres": 1.679,
+            "issue": null
+          },
+          "fourWheelRuntimeTest": "NOT_RUN",
+          "reasonCodes": [
+            "runtime_4wheel_and_obstacle_test_not_done_for_this_interval"
+          ]
+        },
+        {
+          "stationRangeMetres": [
+            880.0,
+            900.0
+          ],
+          "status": "REVIEW_NOT_RUNTIME_TESTED",
+          "sourceReviewDistanceMetres": 0.0,
+          "minRoadWidthMetres": 3.599,
+          "maxSourceGradePercent": 8.73,
+          "minThreePointRadiusMetres": 58.855,
+          "vehicleMinTurnRadiusMetres": 5.171,
+          "sweptEnvelope": {
+            "status": "PASS",
+            "probes": 1245,
+            "maxFootprintOffsetMetres": 0.96,
+            "allowedOffsetMetres": 1.679,
+            "issue": null
+          },
+          "fourWheelRuntimeTest": "NOT_RUN",
+          "reasonCodes": [
+            "runtime_4wheel_and_obstacle_test_not_done_for_this_interval"
+          ]
+        },
+        {
+          "stationRangeMetres": [
+            900.0,
+            920.0
+          ],
+          "status": "REVIEW_NOT_RUNTIME_TESTED",
+          "sourceReviewDistanceMetres": 0.0,
+          "minRoadWidthMetres": 3.599,
+          "maxSourceGradePercent": 6.55,
+          "minThreePointRadiusMetres": 24.919,
+          "vehicleMinTurnRadiusMetres": 5.171,
+          "sweptEnvelope": {
+            "status": "PASS",
+            "probes": 1245,
+            "maxFootprintOffsetMetres": 0.996,
+            "allowedOffsetMetres": 1.679,
+            "issue": null
+          },
+          "fourWheelRuntimeTest": "NOT_RUN",
+          "reasonCodes": [
+            "runtime_4wheel_and_obstacle_test_not_done_for_this_interval"
+          ]
+        },
+        {
+          "stationRangeMetres": [
+            920.0,
+            940.0
+          ],
+          "status": "REVIEW_NOT_RUNTIME_TESTED",
+          "sourceReviewDistanceMetres": 0.0,
+          "minRoadWidthMetres": 3.6,
+          "maxSourceGradePercent": 6.12,
+          "minThreePointRadiusMetres": 30.394,
+          "vehicleMinTurnRadiusMetres": 5.171,
+          "sweptEnvelope": {
+            "status": "PASS",
+            "probes": 1245,
+            "maxFootprintOffsetMetres": 0.986,
+            "allowedOffsetMetres": 1.68,
+            "issue": null
+          },
+          "fourWheelRuntimeTest": "NOT_RUN",
+          "reasonCodes": [
+            "runtime_4wheel_and_obstacle_test_not_done_for_this_interval"
+          ]
+        },
+        {
+          "stationRangeMetres": [
+            940.0,
+            960.0
+          ],
+          "status": "REVIEW_NOT_RUNTIME_TESTED",
+          "sourceReviewDistanceMetres": 0.0,
+          "minRoadWidthMetres": 3.6,
+          "maxSourceGradePercent": 1.14,
+          "minThreePointRadiusMetres": 41.375,
+          "vehicleMinTurnRadiusMetres": 5.171,
+          "sweptEnvelope": {
+            "status": "PASS",
+            "probes": 1245,
+            "maxFootprintOffsetMetres": 0.965,
+            "allowedOffsetMetres": 1.68,
+            "issue": null
+          },
+          "fourWheelRuntimeTest": "NOT_RUN",
+          "reasonCodes": [
+            "runtime_4wheel_and_obstacle_test_not_done_for_this_interval"
+          ]
+        },
+        {
+          "stationRangeMetres": [
+            960.0,
+            980.0
+          ],
+          "status": "REVIEW_NOT_RUNTIME_TESTED",
+          "sourceReviewDistanceMetres": 0.0,
+          "minRoadWidthMetres": 3.599,
+          "maxSourceGradePercent": 6.24,
+          "minThreePointRadiusMetres": 31.719,
+          "vehicleMinTurnRadiusMetres": 5.171,
+          "sweptEnvelope": {
+            "status": "PASS",
+            "probes": 1245,
+            "maxFootprintOffsetMetres": 0.976,
+            "allowedOffsetMetres": 1.679,
+            "issue": null
+          },
+          "fourWheelRuntimeTest": "NOT_RUN",
+          "reasonCodes": [
+            "runtime_4wheel_and_obstacle_test_not_done_for_this_interval"
+          ]
+        },
+        {
+          "stationRangeMetres": [
+            980.0,
+            984.244
+          ],
+          "status": "REVIEW_NOT_RUNTIME_TESTED",
+          "sourceReviewDistanceMetres": 0.0,
+          "minRoadWidthMetres": 3.599,
+          "maxSourceGradePercent": 4.72,
+          "minThreePointRadiusMetres": 16.649,
+          "vehicleMinTurnRadiusMetres": 5.171,
+          "sweptEnvelope": {
+            "status": "PASS",
+            "probes": 60,
+            "maxFootprintOffsetMetres": 0.981,
+            "allowedOffsetMetres": 1.679,
+            "issue": null
+          },
+          "fourWheelRuntimeTest": "NOT_RUN",
+          "reasonCodes": [
+            "runtime_4wheel_and_obstacle_test_not_done_for_this_interval"
+          ]
+        }
+      ],
+      "fullRoutePlayable": false
+    },
+    "749128168": {
+      "lengthMetres": 383.91,
+      "widthMetres": 3.6,
+      "statusCounts": {
+        "walkable": 781,
+        "review": 173,
+        "blocked": 0
+      },
+      "reviewDistanceMetres": 68.435,
+      "reviewSegmentCount": 173,
+      "maxGradeWalkablePercent": 17.05,
+      "minRawNodeRadiusMetres": 0.27,
+      "nodesBelowVehicleTurningRadius": 50,
+      "playable": false,
+      "reason": "68.435m DEM/mesh-review sections; 17.05% maximum grade; tight-radius vertices"
+    }
+  },
+  "openedBInterval": {
+    "status": "PASS",
+    "stationStartMetres": 40.0,
+    "stationEndMetres": 60.0,
+    "routeLengthMetres": 20.0,
+    "points": [
+      [
+        108.71041512233874,
+        1.310707822139239,
+        -512.6978483426876
+      ],
+      [
+        108.58,
+        1.33,
+        -512.383
+      ],
+      [
+        108.399,
+        1.37,
+        -511.952
+      ],
+      [
+        108.273,
+        1.39,
+        -511.652
+      ],
+      [
+        108.14,
+        1.39,
+        -511.343
+      ],
+      [
+        108.004,
+        1.39,
+        -511.025
+      ],
+      [
+        107.863,
+        1.39,
+        -510.698
+      ],
+      [
+        107.719,
+        1.39,
+        -510.363
+      ],
+      [
+        107.571,
+        1.39,
+        -510.02
+      ],
+      [
+        107.419,
+        1.39,
+        -509.67
+      ],
+      [
+        107.265,
+        1.4,
+        -509.312
+      ],
+      [
+        107.108,
+        1.42,
+        -508.947
+      ],
+      [
+        106.948,
+        1.43,
+        -508.576
+      ],
+      [
+        106.787,
+        1.445,
+        -508.199
+      ],
+      [
+        106.623,
+        1.475,
+        -507.816
+      ],
+      [
+        106.458,
+        1.49,
+        -507.427
+      ],
+      [
+        106.291,
+        1.49,
+        -507.032
+      ],
+      [
+        106.124,
+        1.49,
+        -506.634
+      ],
+      [
+        105.956,
+        1.5,
+        -506.23
+      ],
+      [
+        105.786,
+        1.52,
+        -505.822
+      ],
+      [
+        105.618,
+        1.54,
+        -505.411
+      ],
+      [
+        105.448,
+        1.56,
+        -504.995
+      ],
+      [
+        105.28,
+        1.575,
+        -504.577
+      ],
+      [
+        105.112,
+        1.585,
+        -504.156
+      ],
+      [
+        104.946,
+        1.59,
+        -503.733
+      ],
+      [
+        104.78,
+        1.593,
+        -503.308
+      ],
+      [
+        104.617,
+        1.598,
+        -502.88
+      ],
+      [
+        104.454,
+        1.61,
+        -502.452
+      ],
+      [
+        104.295,
+        1.63,
+        -502.022
+      ],
+      [
+        104.137,
+        1.65,
+        -501.591
+      ],
+      [
+        103.981,
+        1.67,
+        -501.153
+      ],
+      [
+        103.826,
+        1.683,
+        -500.714
+      ],
+      [
+        103.683,
+        1.688,
+        -500.3
+      ],
+      [
+        103.557,
+        1.69,
+        -499.931
+      ],
+      [
+        103.442,
+        1.69,
+        -499.587
+      ],
+      [
+        103.327,
+        1.69,
+        -499.237
+      ],
+      [
+        103.207,
+        1.69,
+        -498.87
+      ],
+      [
+        103.085,
+        1.69,
+        -498.498
+      ],
+      [
+        102.964,
+        1.69,
+        -498.12
+      ],
+      [
+        102.841,
+        1.69,
+        -497.737
+      ],
+      [
+        102.719,
+        1.69,
+        -497.349
+      ],
+      [
+        102.596,
+        1.69,
+        -496.957
+      ],
+      [
+        102.472,
+        1.698,
+        -496.561
+      ],
+      [
+        102.348,
+        1.715,
+        -496.161
+      ],
+      [
+        102.224,
+        1.737,
+        -495.758
+      ],
+      [
+        102.1,
+        1.76,
+        -495.351
+      ],
+      [
+        101.976,
+        1.775,
+        -494.941
+      ],
+      [
+        101.852,
+        1.785,
+        -494.529
+      ],
+      [
+        101.727,
+        1.79,
+        -494.115
+      ],
+      [
+        101.68970754979635,
+        1.79,
+        -493.98958909891195
+      ]
+    ],
+    "roadWidthMinMetres": 3.599,
+    "remainingClearWidthAfterBusAndSafetyMetres": 1.455,
+    "maxGradeFraction": 0.0855,
+    "minPolylineRadiusMetres": 37.495,
+    "vehicleMinTurnRadiusMetres": 5.171,
+    "sourceStatus": "all walkable; no review/blocked segment in station 40–60m",
+    "sourceWayStatus": {
+      "totalLengthMetres": 984.23,
+      "reviewDistanceMetres": 0.764,
+      "reviewStationStartMetres": 230.066,
+      "reviewStationEndMetres": 230.83
+    },
+    "sweptEnvelope": {
+      "status": "PASS",
+      "probes": 1245,
+      "maxFootprintOffsetMetres": 0.974,
+      "allowedOffsetMetres": 1.679,
+      "issue": null
+    },
+    "vegetationEvidence": {
+      "fullWayNoEnvelopeCollisionCount": 0,
+      "minimumCenterlineClearanceMetresAfterBusTreeMargin": 1.179,
+      "scope": "static Phase D2 full-way broad-phase; exact runtime obstacle stop remains enabled"
+    },
+    "terrain": "source OSM road-mesh elevations, no DEM interpolation added; four wheel contacts sampled at runtime from existing road triangles",
+    "turnaround": "No U-turn or reverse phase is required; the verified interval is driven forward to a goal station 2.9m before the mapped interval end, preserving full-bus endpoint support.",
+    "decision": "Only this 20m audited interval is enabled as a one-way course after live browser verification; all other candidate intervals remain non-playable."
+  },
+  "safety": "Only the selected 20m audited subroute is selectable, with one-way GOAL before the far endpoint; remaining intervals and both full ways are not gameplay navigation."
+}

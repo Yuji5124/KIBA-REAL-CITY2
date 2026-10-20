@@ -1,0 +1,718 @@
+{
+  "phase": "D3",
+  "source": "Read-only snapshot from Phase D1.1 built processed data",
+  "vehicleScale": 0.7,
+  "sourceGlbSha256": "3a235439cb7ca539e8ebaad697ed6ad8bedfbf3d455a66e7b29899417a517457",
+  "courses": {
+    "A": {
+      "title": "はじめてドライブ",
+      "status": "playable-prototype-candidate",
+      "wayId": "777288664",
+      "sourceRun": 147,
+      "routeLengthMetres": 23.99542778946129,
+      "lengthMetres": 23.99542778946129,
+      "points": [
+        [
+          35.609,
+          0.69,
+          -627.878
+        ],
+        [
+          35.88,
+          0.69,
+          -627.757
+        ],
+        [
+          36.249,
+          0.69,
+          -627.584
+        ],
+        [
+          36.621,
+          0.69,
+          -627.389
+        ],
+        [
+          37.026,
+          0.69,
+          -627.168
+        ],
+        [
+          37.315,
+          0.69,
+          -627.008
+        ],
+        [
+          37.618,
+          0.69,
+          -626.839
+        ],
+        [
+          37.936,
+          0.69,
+          -626.665
+        ],
+        [
+          38.267,
+          0.69,
+          -626.486
+        ],
+        [
+          38.612,
+          0.69,
+          -626.301
+        ],
+        [
+          38.972,
+          0.7,
+          -626.114
+        ],
+        [
+          39.344,
+          0.72,
+          -625.927
+        ],
+        [
+          39.73,
+          0.73,
+          -625.736
+        ],
+        [
+          40.129,
+          0.743,
+          -625.55
+        ],
+        [
+          40.54,
+          0.767,
+          -625.366
+        ],
+        [
+          40.965,
+          0.782,
+          -625.185
+        ],
+        [
+          41.402,
+          0.787,
+          -625.01
+        ],
+        [
+          41.851,
+          0.79,
+          -624.843
+        ],
+        [
+          42.312,
+          0.79,
+          -624.682
+        ],
+        [
+          42.785,
+          0.79,
+          -624.532
+        ],
+        [
+          43.148,
+          0.79,
+          -624.427
+        ],
+        [
+          43.517,
+          0.79,
+          -624.327
+        ],
+        [
+          43.892,
+          0.79,
+          -624.234
+        ],
+        [
+          44.275,
+          0.79,
+          -624.15
+        ],
+        [
+          44.679,
+          0.79,
+          -624.076
+        ],
+        [
+          45.101,
+          0.79,
+          -624.008
+        ],
+        [
+          45.507,
+          0.79,
+          -623.951
+        ],
+        [
+          45.864,
+          0.79,
+          -623.904
+        ],
+        [
+          46.384,
+          0.79,
+          -623.851
+        ],
+        [
+          46.841,
+          0.79,
+          -623.821
+        ],
+        [
+          47.191,
+          0.79,
+          -623.798
+        ],
+        [
+          47.552,
+          0.79,
+          -623.777
+        ],
+        [
+          47.922,
+          0.79,
+          -623.76
+        ],
+        [
+          48.302,
+          0.79,
+          -623.745
+        ],
+        [
+          48.692,
+          0.79,
+          -623.732
+        ],
+        [
+          49.09,
+          0.79,
+          -623.721
+        ],
+        [
+          49.496,
+          0.79,
+          -623.712
+        ],
+        [
+          49.91,
+          0.792,
+          -623.707
+        ],
+        [
+          50.329,
+          0.797,
+          -623.703
+        ],
+        [
+          50.756,
+          0.8,
+          -623.701
+        ],
+        [
+          51.189,
+          0.8,
+          -623.702
+        ],
+        [
+          51.626,
+          0.8,
+          -623.705
+        ],
+        [
+          52.067,
+          0.8,
+          -623.711
+        ],
+        [
+          52.513,
+          0.8,
+          -623.718
+        ],
+        [
+          52.961,
+          0.8,
+          -623.727
+        ],
+        [
+          53.412,
+          0.807,
+          -623.739
+        ],
+        [
+          53.866,
+          0.822,
+          -623.752
+        ],
+        [
+          54.322,
+          0.83,
+          -623.767
+        ],
+        [
+          54.778,
+          0.83,
+          -623.785
+        ],
+        [
+          55.234,
+          0.83,
+          -623.805
+        ],
+        [
+          55.691,
+          0.825,
+          -623.826
+        ],
+        [
+          56.146,
+          0.815,
+          -623.85
+        ],
+        [
+          56.601,
+          0.805,
+          -623.875
+        ],
+        [
+          57.053,
+          0.795,
+          -623.902
+        ],
+        [
+          57.502,
+          0.795,
+          -623.93
+        ],
+        [
+          57.95,
+          0.805,
+          -623.962
+        ],
+        [
+          58.392,
+          0.81,
+          -623.994
+        ],
+        [
+          58.765,
+          0.81,
+          -624.024
+        ]
+      ],
+      "roadWidthMetres": 3.999,
+      "roadWidthBasis": "Phase 2B inferred drive/service-road width; not surveyed",
+      "navigationSegmentStatuses": {
+        "walkable": 57,
+        "review": 0,
+        "blocked": 0
+      },
+      "bridge": false,
+      "stairs": false,
+      "maxNavigationGradeFraction": 0.0532968933475471,
+      "minimumSampledPlanCurvatureRadiusMetres": 9.318241972190568,
+      "busDimensionsMetres": {
+        "widthIncludingMirrors": 1.904,
+        "length": 3.164,
+        "height": 1.886325,
+        "wheelbase": 1.68,
+        "trackWidth": 1.204
+      },
+      "nominalClearancePerSideMetres": 0.6395001049041749,
+      "clearanceInterpretation": "Only 4m modeled corridor minus 2.72m model envelope, before additional operational margin; collision runtime uses the modeled road envelope and blocks uncertain nav areas. Candidate use only; width not surveyed.",
+      "roundTrip": "Drive to far checkpoint, brake, reverse along same validated ribbon, return to start. No bridge routes.",
+      "busDimensionsMetresOriginal": {
+        "widthIncludingMirrors": 2.7199997901916504,
+        "length": 4.520000457763672,
+        "height": 2.6947493106126785,
+        "wheelbase": 2.3999993801116943,
+        "trackWidth": 1.7200000286102295
+      },
+      "vehicleScale": 0.7,
+      "drivingParameters": {
+        "maxSpeedMps": 4.2,
+        "reverseSpeedMps": 1.7,
+        "accelerationMps2": 2.8,
+        "brakeDecelerationMps2": 5.0,
+        "reverseAccelerationMps2": 1.5,
+        "steeringAngleDegrees": 18.0,
+        "steeringAssist": "Pure-pursuit centerline assistance when A/D are released; manual steering overrides assistance.",
+        "steeringAssistLookaheadMetres": 3.0,
+        "coastRetentionPerSecond": 0.72,
+        "safetyMarginMetres": 0.12,
+        "maxGradeFraction": 0.12,
+        "sweepStepMetres": 0.2
+      },
+      "clearanceAfterScaleMetres": 1.048
+    },
+    "B": {
+      "title": "もりのたんけん · 短区間試作",
+      "status": "playable_verified_manual_browser",
+      "wayId": "742189607",
+      "sourceRun": 69,
+      "routeLengthMetres": 20.0,
+      "lengthMetres": 20.0,
+      "points": [
+        [
+          108.71041512233874,
+          1.310707822139239,
+          -512.6978483426876
+        ],
+        [
+          108.58,
+          1.33,
+          -512.383
+        ],
+        [
+          108.399,
+          1.37,
+          -511.952
+        ],
+        [
+          108.273,
+          1.39,
+          -511.652
+        ],
+        [
+          108.14,
+          1.39,
+          -511.343
+        ],
+        [
+          108.004,
+          1.39,
+          -511.025
+        ],
+        [
+          107.863,
+          1.39,
+          -510.698
+        ],
+        [
+          107.719,
+          1.39,
+          -510.363
+        ],
+        [
+          107.571,
+          1.39,
+          -510.02
+        ],
+        [
+          107.419,
+          1.39,
+          -509.67
+        ],
+        [
+          107.265,
+          1.4,
+          -509.312
+        ],
+        [
+          107.108,
+          1.42,
+          -508.947
+        ],
+        [
+          106.948,
+          1.43,
+          -508.576
+        ],
+        [
+          106.787,
+          1.445,
+          -508.199
+        ],
+        [
+          106.623,
+          1.475,
+          -507.816
+        ],
+        [
+          106.458,
+          1.49,
+          -507.427
+        ],
+        [
+          106.291,
+          1.49,
+          -507.032
+        ],
+        [
+          106.124,
+          1.49,
+          -506.634
+        ],
+        [
+          105.956,
+          1.5,
+          -506.23
+        ],
+        [
+          105.786,
+          1.52,
+          -505.822
+        ],
+        [
+          105.618,
+          1.54,
+          -505.411
+        ],
+        [
+          105.448,
+          1.56,
+          -504.995
+        ],
+        [
+          105.28,
+          1.575,
+          -504.577
+        ],
+        [
+          105.112,
+          1.585,
+          -504.156
+        ],
+        [
+          104.946,
+          1.59,
+          -503.733
+        ],
+        [
+          104.78,
+          1.593,
+          -503.308
+        ],
+        [
+          104.617,
+          1.598,
+          -502.88
+        ],
+        [
+          104.454,
+          1.61,
+          -502.452
+        ],
+        [
+          104.295,
+          1.63,
+          -502.022
+        ],
+        [
+          104.137,
+          1.65,
+          -501.591
+        ],
+        [
+          103.981,
+          1.67,
+          -501.153
+        ],
+        [
+          103.826,
+          1.683,
+          -500.714
+        ],
+        [
+          103.683,
+          1.688,
+          -500.3
+        ],
+        [
+          103.557,
+          1.69,
+          -499.931
+        ],
+        [
+          103.442,
+          1.69,
+          -499.587
+        ],
+        [
+          103.327,
+          1.69,
+          -499.237
+        ],
+        [
+          103.207,
+          1.69,
+          -498.87
+        ],
+        [
+          103.085,
+          1.69,
+          -498.498
+        ],
+        [
+          102.964,
+          1.69,
+          -498.12
+        ],
+        [
+          102.841,
+          1.69,
+          -497.737
+        ],
+        [
+          102.719,
+          1.69,
+          -497.349
+        ],
+        [
+          102.596,
+          1.69,
+          -496.957
+        ],
+        [
+          102.472,
+          1.698,
+          -496.561
+        ],
+        [
+          102.348,
+          1.715,
+          -496.161
+        ],
+        [
+          102.224,
+          1.737,
+          -495.758
+        ],
+        [
+          102.1,
+          1.76,
+          -495.351
+        ],
+        [
+          101.976,
+          1.775,
+          -494.941
+        ],
+        [
+          101.852,
+          1.785,
+          -494.529
+        ],
+        [
+          101.727,
+          1.79,
+          -494.115
+        ],
+        [
+          101.68970754979635,
+          1.79,
+          -493.98958909891195
+        ]
+      ],
+      "roadWidthMetres": 3.599,
+      "roadWidthBasis": "Phase 2B inferred drive/service-road width; not surveyed",
+      "navigationSegmentStatuses": {
+        "walkable": 57,
+        "review": 0,
+        "blocked": 0
+      },
+      "bridge": false,
+      "stairs": false,
+      "maxNavigationGradeFraction": 0.0532968933475471,
+      "minimumSampledPlanCurvatureRadiusMetres": 9.318241972190568,
+      "busDimensionsMetres": {
+        "widthIncludingMirrors": 1.904,
+        "length": 3.164,
+        "height": 1.886325,
+        "wheelbase": 1.68,
+        "trackWidth": 1.204
+      },
+      "nominalClearancePerSideMetres": 0.6395001049041749,
+      "clearanceInterpretation": "Only 4m modeled corridor minus 2.72m model envelope, before additional operational margin; collision runtime uses the modeled road envelope and blocks uncertain nav areas. Candidate use only; width not surveyed.",
+      "roundTrip": "Drive to far checkpoint, brake, reverse along same validated ribbon, return to start. No bridge routes.",
+      "busDimensionsMetresOriginal": {
+        "widthIncludingMirrors": 2.7199997901916504,
+        "length": 4.520000457763672,
+        "height": 2.6947493106126785,
+        "wheelbase": 2.3999993801116943,
+        "trackWidth": 1.7200000286102295
+      },
+      "vehicleScale": 0.7,
+      "drivingParameters": {
+        "maxSpeedMps": 4.2,
+        "reverseSpeedMps": 1.7,
+        "accelerationMps2": 2.8,
+        "brakeDecelerationMps2": 5.0,
+        "reverseAccelerationMps2": 1.5,
+        "steeringAngleDegrees": 18.0,
+        "steeringAssist": "Pure-pursuit centerline assistance when A/D are released; manual steering overrides assistance.",
+        "steeringAssistLookaheadMetres": 3.0,
+        "coastRetentionPerSecond": 0.72,
+        "safetyMarginMetres": 0.12,
+        "maxGradeFraction": 0.12,
+        "sweepStepMetres": 0.2
+      },
+      "clearanceAfterScaleMetres": 1.048,
+      "widthMetres": 3.599,
+      "widthBasis": "OSM pedestrian asphalt way width, source way 742189607 station 40–60m",
+      "oneWayGoal": true,
+      "goalStationMetres": 17.1,
+      "goalPolicy": "Forward-only arrival with full bus-body end margin; no forced reverse at the tested interval endpoint.",
+      "checkpoints": [
+        {
+          "type": "forest_outbound",
+          "stationMetres": 17.1
+        },
+        {
+          "type": "forest_goal",
+          "stationMetres": 2.9
+        }
+      ],
+      "candidateAudit": {
+        "status": "PASS",
+        "stationStartMetres": 40.0,
+        "stationEndMetres": 60.0,
+        "routeLengthMetres": 20.0,
+        "roadWidthMinMetres": 3.599,
+        "remainingClearWidthAfterBusAndSafetyMetres": 1.455,
+        "maxGradeFraction": 0.0855,
+        "minPolylineRadiusMetres": 37.495,
+        "vehicleMinTurnRadiusMetres": 5.171,
+        "sourceStatus": "all walkable; no review/blocked segment in station 40–60m",
+        "sourceWayStatus": {
+          "totalLengthMetres": 984.23,
+          "reviewDistanceMetres": 0.764,
+          "reviewStationStartMetres": 230.066,
+          "reviewStationEndMetres": 230.83
+        },
+        "sweptEnvelope": {
+          "status": "PASS",
+          "probes": 1245,
+          "maxFootprintOffsetMetres": 0.974,
+          "allowedOffsetMetres": 1.679,
+          "issue": null
+        },
+        "vegetationEvidence": {
+          "fullWayNoEnvelopeCollisionCount": 0,
+          "minimumCenterlineClearanceMetresAfterBusTreeMargin": 1.179,
+          "scope": "static Phase D2 full-way broad-phase; exact runtime obstacle stop remains enabled"
+        },
+        "terrain": "source OSM road-mesh elevations, no DEM interpolation added; four wheel contacts sampled at runtime from existing road triangles",
+        "turnaround": "No U-turn or reverse phase is required; the verified interval is driven forward to a goal station 2.9m before the mapped interval end, preserving full-bus endpoint support.",
+        "decision": "Only this 20m audited interval is enabled as a one-way course after live browser verification; all other candidate intervals remain non-playable."
+      }
+    }
+  },
+  "drivingParameters": {
+    "maxSpeedMps": 4.2,
+    "reverseSpeedMps": 1.7,
+    "accelerationMps2": 2.8,
+    "brakeDecelerationMps2": 5.0,
+    "reverseAccelerationMps2": 1.5,
+    "steeringAngleDegrees": 18.0,
+    "steeringAssist": "Pure-pursuit centerline assistance when A/D are released; manual steering overrides assistance.",
+    "steeringAssistLookaheadMetres": 3.0,
+    "coastRetentionPerSecond": 0.72,
+    "safetyMarginMetres": 0.12,
+    "maxGradeFraction": 0.12,
+    "sweepStepMetres": 0.2
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "sourcePhaseD2Build": "C:\\Users\\hp\\.codex\\visualizations\\2026\\10\\17\\01a147c3-897f-7d03-a11b-01ed904ca33f\\phaseD2\\build-phaseD2",
+  "sourcePhaseD2AppSha256": "36bde04e3f55317051acaf26f435b316a0e32c732c026af5284c946de0f6e226",
+  "phaseD3AppSha256": "f1a49b7d707a2ef224593b81e812410e2394da044a769e164e3f793d8552e3b0",
+  "bInterval": {
+    "status": "PASS",
+    "stationStartMetres": 40.0,
+    "stationEndMetres": 60.0,
+    "routeLengthMetres": 20.0,
+    "points": [
+      [
+        108.71041512233874,
+        1.310707822139239,
+        -512.6978483426876
+      ],
+      [
+        108.58,
+        1.33,
+        -512.383
+      ],
+      [
+        108.399,
+        1.37,
+        -511.952
+      ],
+      [
+        108.273,
+        1.39,
+        -511.652
+      ],
+      [
+        108.14,
+        1.39,
+        -511.343
+      ],
+      [
+        108.004,
+        1.39,
+        -511.025
+      ],
+      [
+        107.863,
+        1.39,
+        -510.698
+      ],
+      [
+        107.719,
+        1.39,
+        -510.363
+      ],
+      [
+        107.571,
+        1.39,
+        -510.02
+      ],
+      [
+        107.419,
+        1.39,
+        -509.67
+      ],
+      [
+        107.265,
+        1.4,
+        -509.312
+      ],
+      [
+        107.108,
+        1.42,
+        -508.947
+      ],
+      [
+        106.948,
+        1.43,
+        -508.576
+      ],
+      [
+        106.787,
+        1.445,
+        -508.199
+      ],
+      [
+        106.623,
+        1.475,
+        -507.816
+      ],
+      [
+        106.458,
+        1.49,
+        -507.427
+      ],
+      [
+        106.291,
+        1.49,
+        -507.032
+      ],
+      [
+        106.124,
+        1.49,
+        -506.634
+      ],
+      [
+        105.956,
+        1.5,
+        -506.23
+      ],
+      [
+        105.786,
+        1.52,
+        -505.822
+      ],
+      [
+        105.618,
+        1.54,
+        -505.411
+      ],
+      [
+        105.448,
+        1.56,
+        -504.995
+      ],
+      [
+        105.28,
+        1.575,
+        -504.577
+      ],
+      [
+        105.112,
+        1.585,
+        -504.156
+      ],
+      [
+        104.946,
+        1.59,
+        -503.733
+      ],
+      [
+        104.78,
+        1.593,
+        -503.308
+      ],
+      [
+        104.617,
+        1.598,
+        -502.88
+      ],
+      [
+        104.454,
+        1.61,
+        -502.452
+      ],
+      [
+        104.295,
+        1.63,
+        -502.022
+      ],
+      [
+        104.137,
+        1.65,
+        -501.591
+      ],
+      [
+        103.981,
+        1.67,
+        -501.153
+      ],
+      [
+        103.826,
+        1.683,
+        -500.714
+      ],
+      [
+        103.683,
+        1.688,
+        -500.3
+      ],
+      [
+        103.557,
+        1.69,
+        -499.931
+      ],
+      [
+        103.442,
+        1.69,
+        -499.587
+      ],
+      [
+        103.327,
+        1.69,
+        -499.237
+      ],
+      [
+        103.207,
+        1.69,
+        -498.87
+      ],
+      [
+        103.085,
+        1.69,
+        -498.498
+      ],
+      [
+        102.964,
+        1.69,
+        -498.12
+      ],
+      [
+        102.841,
+        1.69,
+        -497.737
+      ],
+      [
+        102.719,
+        1.69,
+        -497.349
+      ],
+      [
+        102.596,
+        1.69,
+        -496.957
+      ],
+      [
+        102.472,
+        1.698,
+        -496.561
+      ],
+      [
+        102.348,
+        1.715,
+        -496.161
+      ],
+      [
+        102.224,
+        1.737,
+        -495.758
+      ],
+      [
+        102.1,
+        1.76,
+        -495.351
+      ],
+      [
+        101.976,
+        1.775,
+        -494.941
+      ],
+      [
+        101.852,
+        1.785,
+        -494.529
+      ],
+      [
+        101.727,
+        1.79,
+        -494.115
+      ],
+      [
+        101.68970754979635,
+        1.79,
+        -493.98958909891195
+      ]
+    ],
+    "roadWidthMinMetres": 3.599,
+    "remainingClearWidthAfterBusAndSafetyMetres": 1.455,
+    "maxGradeFraction": 0.0855,
+    "minPolylineRadiusMetres": 37.495,
+    "vehicleMinTurnRadiusMetres": 5.171,
+    "sourceStatus": "all walkable; no review/blocked segment in station 40–60m",
+    "sourceWayStatus": {
+      "totalLengthMetres": 984.23,
+      "reviewDistanceMetres": 0.764,
+      "reviewStationStartMetres": 230.066,
+      "reviewStationEndMetres": 230.83
+    },
+    "sweptEnvelope": {
+      "status": "PASS",
+      "probes": 1245,
+      "maxFootprintOffsetMetres": 0.974,
+      "allowedOffsetMetres": 1.679,
+      "issue": null
+    },
+    "vegetationEvidence": {
+      "fullWayNoEnvelopeCollisionCount": 0,
+      "minimumCenterlineClearanceMetresAfterBusTreeMargin": 1.179,
+      "scope": "static Phase D2 full-way broad-phase; exact runtime obstacle stop remains enabled"
+    },
+    "terrain": "source OSM road-mesh elevations, no DEM interpolation added; four wheel contacts sampled at runtime from existing road triangles",
+    "turnaround": "No U-turn or reverse phase is required; the verified interval is driven forward to a goal station 2.9m before the mapped interval end, preserving full-bus endpoint support.",
+    "decision": "Only this 20m audited interval is enabled as a one-way course after live browser verification; all other candidate intervals remain non-playable."
+  },
+  "bManualBrowserVerifiedForThisAppHash": true,
+  "way749128168Playable": false,
+  "protectedSourcesWritten": false
+}

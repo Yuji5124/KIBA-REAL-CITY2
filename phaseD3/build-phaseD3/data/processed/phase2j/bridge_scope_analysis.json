@@ -1,0 +1,730 @@
+{
+  "phase": "2J",
+  "coordinateReference": "OSM source geometry is WGS84 lat/lon; analysis and Three.js plan traces use the same EPSG:6677 projection helper as Phase 1/2F. Plan display only, no elevation/collision.",
+  "sourceFiles": [
+    "data\\raw\\osm\\layers\\paths\\footpaths.osm",
+    "data\\raw\\osm\\layers\\paths\\bridges.osm"
+  ],
+  "publicReferences": [
+    {
+      "value": 250,
+      "unit": "m",
+      "topic": "Kiba Park Ohashi total length",
+      "class": "park-management-and-JCI-archive",
+      "source": "Tokyo Metropolitan Park Management Plan and Japan Concrete Institute archive; overall bridge linking three zones.",
+      "url": "https://www.kensetsu.metro.tokyo.lg.jp/documents/d/kensetsu/070328kbetsumpkiba"
+    },
+    {
+      "value": 96.95,
+      "unit": "m",
+      "topic": "maximum span",
+      "class": "JCI-engineering-archive",
+      "source": "Japan Concrete Institute archive: 2-span continuous PC cable-stayed bridge.",
+      "url": "https://www.jci-net.or.jp/photo_60/archive/detail_db.php?id=168&page=6"
+    },
+    {
+      "value": 60,
+      "unit": "m",
+      "topic": "pylon height",
+      "class": "Tokyo-park-management-plan",
+      "source": "Tokyo Metropolitan Park Management Plan.",
+      "url": "https://www.kensetsu.metro.tokyo.lg.jp/documents/d/kensetsu/070328kbetsumpkiba"
+    },
+    {
+      "value": 186,
+      "unit": "m",
+      "topic": "bridge length",
+      "class": "PC-construction-engineering-publication",
+      "source": "Prestressed Concrete Construction Association, 1995 seminar text: Kiba Park Bridge; 2-span continuous PC cable-stayed, maximum span 97.0m, standard width 10.8–25.8m, split portion 8.228m.",
+      "url": "https://jpci.or.jp/data/pc-seminar/text/023_pc-seminar-text_199502.pdf"
+    },
+    {
+      "value": 97,
+      "unit": "m",
+      "topic": "maximum span (rounded)",
+      "class": "PC-construction-engineering-publication",
+      "source": "Same 1995 technical text; rounds consistently with JCI 96.95m.",
+      "url": "https://jpci.or.jp/data/pc-seminar/text/023_pc-seminar-text_199502.pdf"
+    }
+  ],
+  "definitionConflict": {
+    "250m": "Park plan/JCI say 250m but do not state measurement endpoints or whether approach walkways are included.",
+    "186m": "1995 technical reference calls the engineered 2-span bridge length 186m. Sources reviewed do not reconcile scope.",
+    "differenceMetres": 64,
+    "interpretation": "Possible structure-versus-whole-route scope difference; inference only, not a confirmed accounting."
+  },
+  "osm": {
+    "license": "© OpenStreetMap contributors, ODbL 1.0",
+    "trunk": {
+      "wayId": "33976871",
+      "nodeRefs": [
+        "6980957124",
+        "6958098784",
+        "6982757453"
+      ],
+      "points": [
+        {
+          "nodeId": "6980957124",
+          "lat": 35.6753925,
+          "lon": 139.8088215,
+          "x": 83.44085271269978,
+          "z": -93.44733933192765
+        },
+        {
+          "nodeId": "6958098784",
+          "lat": 35.6756356,
+          "lon": 139.8088085,
+          "x": 82.27079029369224,
+          "z": -120.4176101068224
+        },
+        {
+          "nodeId": "6982757453",
+          "lat": 35.6769619,
+          "lon": 139.8087347,
+          "x": 75.62707859246848,
+          "z": -267.56154805667757
+        }
+      ],
+      "lengthProjectedMetres": 174.2894865508546,
+      "tags": {
+        "bicycle": "yes",
+        "bridge": "yes",
+        "highway": "footway",
+        "layer": "1",
+        "lit": "yes",
+        "name": "木場公園大橋",
+        "surface": "paving_stones"
+      },
+      "source": "raw OSM extract; read-only"
+    },
+    "southBranches": [
+      {
+        "wayId": "598428792",
+        "nodeRefs": [
+          "6400941151",
+          "6980957122",
+          "6980957121",
+          "6980957120",
+          "6980957123",
+          "6948432780",
+          "6980957126",
+          "6980957124"
+        ],
+        "points": [
+          {
+            "nodeId": "6400941151",
+            "lat": 35.6747434,
+            "lon": 139.8091357,
+            "x": 111.86534455007131,
+            "z": -21.42790347081609
+          },
+          {
+            "nodeId": "6980957122",
+            "lat": 35.6748153,
+            "lon": 139.809099,
+            "x": 108.54510264481542,
+            "z": -29.405444319221715
+          },
+          {
+            "nodeId": "6980957121",
+            "lat": 35.6749596,
+            "lon": 139.8090353,
+            "x": 102.78272525159036,
+            "z": -45.41578376921825
+          },
+          {
+            "nodeId": "6980957120",
+            "lat": 35.6750707,
+            "lon": 139.8089923,
+            "x": 98.89328244465878,
+            "z": -57.74239191572269
+          },
+          {
+            "nodeId": "6980957123",
+            "lat": 35.6751511,
+            "lon": 139.808963,
+            "x": 96.24316964992431,
+            "z": -66.66277799726959
+          },
+          {
+            "nodeId": "6948432780",
+            "lat": 35.6752612,
+            "lon": 139.808928,
+            "x": 93.07790034025084,
+            "z": -78.87826758048323
+          },
+          {
+            "nodeId": "6980957126",
+            "lat": 35.6753429,
+            "lon": 139.8088617,
+            "x": 87.0784940727649,
+            "z": -87.9437138036592
+          },
+          {
+            "nodeId": "6980957124",
+            "lat": 35.6753925,
+            "lon": 139.8088215,
+            "x": 83.44085271269978,
+            "z": -93.44733933192765
+          }
+        ],
+        "lengthProjectedMetres": 77.97495405738083,
+        "tags": {
+          "bicycle": "yes",
+          "bridge": "yes",
+          "highway": "footway",
+          "layer": "1",
+          "surface": "paving_stones"
+        },
+        "source": "raw OSM extract; read-only"
+      },
+      {
+        "wayId": "683394375",
+        "nodeRefs": [
+          "6980957124",
+          "6948432779",
+          "6980957119",
+          "6980957118",
+          "6980957117",
+          "6400941152"
+        ],
+        "points": [
+          {
+            "nodeId": "6980957124",
+            "lat": 35.6753925,
+            "lon": 139.8088215,
+            "x": 83.44085271269978,
+            "z": -93.44733933192765
+          },
+          {
+            "nodeId": "6948432779",
+            "lat": 35.6752443,
+            "lon": 139.8087347,
+            "x": 75.57936683531307,
+            "z": -77.00771341170184
+          },
+          {
+            "nodeId": "6980957119",
+            "lat": 35.6750934,
+            "lon": 139.8087048,
+            "x": 72.86853676442388,
+            "z": -60.26725901082682
+          },
+          {
+            "nodeId": "6980957118",
+            "lat": 35.6749741,
+            "lon": 139.8086727,
+            "x": 69.95942546883907,
+            "z": -47.03261971051688
+          },
+          {
+            "nodeId": "6980957117",
+            "lat": 35.6748506,
+            "lon": 139.8086345,
+            "x": 66.4979963017363,
+            "z": -33.332164472696604
+          },
+          {
+            "nodeId": "6400941152",
+            "lat": 35.6747295,
+            "lon": 139.8085932,
+            "x": 62.756000874150686,
+            "z": -19.8980420580192
+          }
+        ],
+        "lengthProjectedMetres": 76.80824601848056,
+        "tags": {
+          "bicycle": "yes",
+          "bridge": "yes",
+          "highway": "footway",
+          "layer": "1",
+          "surface": "paving_stones"
+        },
+        "source": "raw OSM extract; read-only"
+      }
+    ],
+    "sharedJunctionNode": "6980957124",
+    "northToSouthRouteLengthsMetres": {
+      "north_terminal_to_6400941151_via_598428792": 252.26444060823542,
+      "north_terminal_to_6400941152_via_683394375": 251.09773256933516
+    },
+    "threeArmUnionEdgeLengthMetres": 329.07268662671595,
+    "bridgeFootprint": {
+      "wayId": "745579214",
+      "nodeRefs": [
+        "6978898105",
+        "6978898120",
+        "6978898118",
+        "1832715471",
+        "6978898097",
+        "6978898114",
+        "6978898113",
+        "6978898112",
+        "6978898098",
+        "6978898088",
+        "6978898089",
+        "6978898099",
+        "6978898100",
+        "6978898101",
+        "6978898102",
+        "6978898103",
+        "6978898104",
+        "6978898087",
+        "6978898090",
+        "6978898111",
+        "6978898110",
+        "6978898109",
+        "6978898091",
+        "6978898106",
+        "6978898115",
+        "6978898116",
+        "6978898117",
+        "11049525199",
+        "6978898092",
+        "6978898121",
+        "6978898122",
+        "6978898093",
+        "6978898126",
+        "6978898094",
+        "6978898128",
+        "6978898095",
+        "6948432712",
+        "6982757453",
+        "6978898096",
+        "6978898127",
+        "6978898107",
+        "6978898125",
+        "6978898108",
+        "6978898123",
+        "6978898124",
+        "6978898119",
+        "6978898105"
+      ],
+      "points": [
+        {
+          "nodeId": "6978898105",
+          "lat": 35.675099,
+          "lon": 139.8090286,
+          "x": 102.18004588393296,
+          "z": -60.88123408338288
+        },
+        {
+          "nodeId": "6978898120",
+          "lat": 35.675016,
+          "lon": 139.8090584,
+          "x": 104.87535664341067,
+          "z": -51.672389738268976
+        },
+        {
+          "nodeId": "6978898118",
+          "lat": 35.6748741,
+          "lon": 139.8091194,
+          "x": 110.39338651663866,
+          "z": -35.928372271868284
+        },
+        {
+          "nodeId": "1832715471",
+          "lat": 35.6747286,
+          "lon": 139.809204,
+          "x": 118.04769087014847,
+          "z": -19.784442861797288
+        },
+        {
+          "nodeId": "6978898097",
+          "lat": 35.6747426,
+          "lon": 139.8091043,
+          "x": 109.02288727483392,
+          "z": -21.33985049099283
+        },
+        {
+          "nodeId": "6978898114",
+          "lat": 35.6747985,
+          "lon": 139.8090704,
+          "x": 105.95567486697246,
+          "z": -27.54225953057903
+        },
+        {
+          "nodeId": "6978898113",
+          "lat": 35.6748644,
+          "lon": 139.809039,
+          "x": 103.11504931387526,
+          "z": -34.85403265227069
+        },
+        {
+          "nodeId": "6978898112",
+          "lat": 35.6749963,
+          "lon": 139.8089826,
+          "x": 98.01316304307875,
+          "z": -49.48853244360362
+        },
+        {
+          "nodeId": "6978898098",
+          "lat": 35.6750843,
+          "lon": 139.8089524,
+          "x": 95.28178716384446,
+          "z": -59.252097310323734
+        },
+        {
+          "nodeId": "6978898088",
+          "lat": 35.6752421,
+          "lon": 139.8088952,
+          "x": 90.10822425255446,
+          "z": -76.7600153568419
+        },
+        {
+          "nodeId": "6978898089",
+          "lat": 35.6752561,
+          "lon": 139.8088853,
+          "x": 89.21243447343204,
+          "z": -78.3134249223076
+        },
+        {
+          "nodeId": "6978898099",
+          "lat": 35.6752666,
+          "lon": 139.8088687,
+          "x": 87.71004539025262,
+          "z": -79.47868893867417
+        },
+        {
+          "nodeId": "6978898100",
+          "lat": 35.6752737,
+          "lon": 139.8088508,
+          "x": 86.08988303576689,
+          "z": -80.2667800736308
+        },
+        {
+          "nodeId": "6978898101",
+          "lat": 35.6752756,
+          "lon": 139.808831,
+          "x": 84.29758374665334,
+          "z": -80.47801651566988
+        },
+        {
+          "nodeId": "6978898102",
+          "lat": 35.6752722,
+          "lon": 139.8088115,
+          "x": 82.53229462762056,
+          "z": -80.1012544683399
+        },
+        {
+          "nodeId": "6978898103",
+          "lat": 35.6752637,
+          "lon": 139.8087945,
+          "x": 80.99317110402762,
+          "z": -79.15863255115255
+        },
+        {
+          "nodeId": "6978898104",
+          "lat": 35.6752523,
+          "lon": 139.8087801,
+          "x": 79.68932623673254,
+          "z": -77.89422056688636
+        },
+        {
+          "nodeId": "6978898087",
+          "lat": 35.6752363,
+          "lon": 139.8087716,
+          "x": 78.91943827489786,
+          "z": -76.11934249931801
+        },
+        {
+          "nodeId": "6978898090",
+          "lat": 35.6750671,
+          "lon": 139.8087367,
+          "x": 75.75549077029609,
+          "z": -57.34876369639096
+        },
+        {
+          "nodeId": "6978898111",
+          "lat": 35.6749794,
+          "lon": 139.8087165,
+          "x": 73.9244871874289,
+          "z": -47.6196174087745
+        },
+        {
+          "nodeId": "6978898110",
+          "lat": 35.6748399,
+          "lon": 139.8086742,
+          "x": 70.09147332473412,
+          "z": -32.14418348397885
+        },
+        {
+          "nodeId": "6978898109",
+          "lat": 35.6747807,
+          "lon": 139.8086504,
+          "x": 67.93536846899269,
+          "z": -25.57696449161449
+        },
+        {
+          "nodeId": "6978898091",
+          "lat": 35.6747304,
+          "lon": 139.8086299,
+          "x": 66.07823607451837,
+          "z": -19.997053792023507
+        },
+        {
+          "nodeId": "6978898106",
+          "lat": 35.6747259,
+          "lon": 139.808548,
+          "x": 58.66424082356116,
+          "z": -19.49968254135456
+        },
+        {
+          "nodeId": "6978898115",
+          "lat": 35.6748417,
+          "lon": 139.8085907,
+          "x": 62.532827137958066,
+          "z": -32.345779281335126
+        },
+        {
+          "nodeId": "6978898116",
+          "lat": 35.6749929,
+          "lon": 139.808637,
+          "x": 66.72827296524201,
+          "z": -49.11913910682051
+        },
+        {
+          "nodeId": "6978898117",
+          "lat": 35.6750782,
+          "lon": 139.8086615,
+          "x": 68.94846631758855,
+          "z": -58.58192562654585
+        },
+        {
+          "nodeId": "11049525199",
+          "lat": 35.6751931,
+          "lon": 139.8086873,
+          "x": 71.28715858545411,
+          "z": -71.32856351469673
+        },
+        {
+          "nodeId": "6978898092",
+          "lat": 35.6752472,
+          "lon": 139.8086995,
+          "x": 72.39304302995606,
+          "z": -77.3302433020217
+        },
+        {
+          "nodeId": "6978898121",
+          "lat": 35.6753145,
+          "lon": 139.8087078,
+          "x": 73.14625417308253,
+          "z": -84.7964448588682
+        },
+        {
+          "nodeId": "6978898122",
+          "lat": 35.6755447,
+          "lon": 139.8087315,
+          "x": 75.2980391987694,
+          "z": -110.33473353310546
+        },
+        {
+          "nodeId": "6978898093",
+          "lat": 35.6757385,
+          "lon": 139.8087379,
+          "x": 75.88276594236913,
+          "z": -131.8351301129369
+        },
+        {
+          "nodeId": "6978898126",
+          "lat": 35.6760815,
+          "lon": 139.8087303,
+          "x": 75.20432605726091,
+          "z": -169.88837828281976
+        },
+        {
+          "nodeId": "6978898094",
+          "lat": 35.6763959,
+          "lon": 139.8087097,
+          "x": 73.3483170870636,
+          "z": -204.76898459564836
+        },
+        {
+          "nodeId": "6978898128",
+          "lat": 35.6766668,
+          "lon": 139.8086907,
+          "x": 71.63594620306094,
+          "z": -234.8235829873447
+        },
+        {
+          "nodeId": "6978898095",
+          "lat": 35.6769667,
+          "lon": 139.8086523,
+          "x": 68.16828899916118,
+          "z": -268.09594009617285
+        },
+        {
+          "nodeId": "6948432712",
+          "lat": 35.6769591,
+          "lon": 139.8086977,
+          "x": 72.27772684828005,
+          "z": -267.25174990126106
+        },
+        {
+          "nodeId": "6982757453",
+          "lat": 35.6769619,
+          "lon": 139.8087347,
+          "x": 75.62707859246848,
+          "z": -267.56154805667757
+        },
+        {
+          "nodeId": "6978898096",
+          "lat": 35.6769686,
+          "lon": 139.8088232,
+          "x": 83.63836499888976,
+          "z": -268.30285670792364
+        },
+        {
+          "nodeId": "6978898127",
+          "lat": 35.6766726,
+          "lon": 139.8088214,
+          "x": 83.46723386769872,
+          "z": -235.46408635732223
+        },
+        {
+          "nodeId": "6978898107",
+          "lat": 35.6763979,
+          "lon": 139.8088316,
+          "x": 84.38294985130597,
+          "z": -204.98810956725356
+        },
+        {
+          "nodeId": "6978898125",
+          "lat": 35.6760873,
+          "lon": 139.8088446,
+          "x": 85.55114064398367,
+          "z": -170.52925630540994
+        },
+        {
+          "nodeId": "6978898108",
+          "lat": 35.6757437,
+          "lon": 139.8088738,
+          "x": 88.18488963780646,
+          "z": -132.40895674865897
+        },
+        {
+          "nodeId": "6978898123",
+          "lat": 35.675555,
+          "lon": 139.8089092,
+          "x": 91.38417422346038,
+          "z": -111.47342158748506
+        },
+        {
+          "nodeId": "6978898124",
+          "lat": 35.675331,
+          "lon": 139.8089568,
+          "x": 95.68687936606102,
+          "z": -86.62136502018257
+        },
+        {
+          "nodeId": "6978898119",
+          "lat": 35.6752578,
+          "lon": 139.8089791,
+          "x": 97.7035237142868,
+          "z": -78.49991723791754
+        },
+        {
+          "nodeId": "6978898105",
+          "lat": 35.675099,
+          "lon": 139.8090286,
+          "x": 102.18004588393296,
+          "z": -60.88123408338288
+        }
+      ],
+      "lengthProjectedMetres": 666.9672960570414,
+      "tags": {
+        "bridge": "yes",
+        "bridge:structure": "cable-stayed",
+        "layer": "1",
+        "man_made": "bridge",
+        "name": "木場公園大橋",
+        "name:en": "Kibakoen Ohashi Bridge",
+        "wikidata": "Q63268232"
+      },
+      "source": "raw OSM extract; read-only",
+      "closed": true,
+      "nodeCount": 47,
+      "bboxLatLon": [
+        35.6747259,
+        139.808548,
+        35.6769686,
+        139.809204
+      ],
+      "northSouthExtentProjectedMetres": 248.80317416656908,
+      "eastWestExtentProjectedMetres": 59.38345004658731
+    }
+  },
+  "phase2f": {
+    "displayedWay33976871PlusGapMetres": 149.445,
+    "clippedCenterlineInParkMetres": 132.836,
+    "boundaryGapVisualFillMetres": 16.609,
+    "rawWay33976871Metres": 174.2894865508546,
+    "wayLengthOutsideDisplayedCandidateMetres": 24.84448655085461,
+    "250mArithmeticResidualMetres": 100.555,
+    "186mArithmeticResidualMetres": 36.55500000000001,
+    "gapCause": "park polygon clipping; separately identified in Phase 2I"
+  },
+  "g62": {
+    "boundsXYZMetres": [
+      [
+        73.86833953857422,
+        89.5999984741211
+      ],
+      [
+        0.0,
+        60.0
+      ],
+      [
+        -236.01809692382812,
+        -47.979087829589844
+      ]
+    ],
+    "xyzDimensionsMetres": [
+      15.732,
+      60.0,
+      188.039
+    ],
+    "approxPylonAxisLocalXZ": {
+      "west": [
+        76.0,
+        -132.1
+      ],
+      "east": [
+        88.2,
+        -132.1
+      ],
+      "midpoint": [
+        82.1,
+        -132.1
+      ]
+    },
+    "pylonHeightMetres": 60,
+    "deckMeshPresent": false,
+    "registration": "Identity visual hypothesis only; no survey control; GLB axis metadata contradicts vertex convention."
+  },
+  "alignmentAudit": {
+    "phase2gLateralNearestDistanceToOSM33976871Metres": 0.35631952795770405,
+    "basis": "Recomputed in the Phase 1/2F EPSG:6677 local frame from raw OSM way geometry and G6.2 tower-axis midpoint; agrees with Phase 2G report to rounding.",
+    "towerApproxStationFromSharedJunctionMetres": 38.673843095338604,
+    "approxRemainingToNorthEndMetres": 135.615643455516,
+    "spanCheck": "These approximate asymmetric station distances do not validate a 96.95/97m maximum span. G6.2 lacks deck endpoints and registration survey."
+  },
+  "derivedComparisonsMetres": {
+    "way33976871": 174.2894865508546,
+    "phase2fDisplayed": 149.445,
+    "rawWayMinusPhase2f": 24.84448655085461,
+    "250MinusPhase2f": 100.555,
+    "186MinusPhase2f": 36.55500000000001,
+    "250Minus186": 64,
+    "northToSouthViaArm598": 252.26444060823542,
+    "northToSouthViaArm683": 251.09773256933516
+  },
+  "conclusion": "The 250m minus 149.445m result is arithmetic, not one located missing segment. OSM has a three-arm bridge-tagged walkway junction: the 174.289m trunk and two distinct 76.9–78.1m branches. The Phase 2F main-way display also omits parts cut by the park boundary. North-to-south paths via either branch total about 251–252m, near the rounded 250m source value. This supports—but does not prove—a full route interpretation. The 186m engineering length remains definitionally unreconciled. No added bridge mesh is justified.",
+  "navigationPreserved": true,
+  "bridgeRunStates": {
+    "review": 8,
+    "blocked": 5,
+    "walkable": 0
+  },
+  "productionNavigationModified": false
+}

@@ -1,0 +1,80 @@
+{
+  "phase": "KIBA PARK DRIVE Phase D3",
+  "browser": "http://127.0.0.1:8788/web/phaseD3/",
+  "testType": "Real in-app browser keyboard driving; manual results kept separate from static swept-envelope audit",
+  "phaseD3AppSha256": "afa8c432321b88977f5ac6b5e923a28a5f2957f2256cd7081a3fca3289f21f0c",
+  "manualBrowser": {
+    "aCourse": "PASS",
+    "aCourseWayId": "777288664",
+    "aCourseLengthMetres": 23.995,
+    "aCourseTests": {
+      "forwardToCheckpoint": "PASS; reached station 21.1m and entered RETURN phase",
+      "reverseToGoal": "PASS; GOAL displayed after reversing and braking near START",
+      "boundaryProbe": "PASS; held left steer with throttle until the full-body sweep displayed BLOCK and safety stop",
+      "routeState": "A remained selected and resettable after the B tests"
+    },
+    "bCourse": "PASS",
+    "bCourseWayId": "742189607",
+    "bCourseStationIntervalMetres": [40, 60],
+    "bCourseLengthOneWayMetres": 20.0,
+    "bCourseTests": {
+      "startAndFourWheelContact": "PASS; start reset showed all four wheel contacts and allowed departure",
+      "forwardToCheckpoint": "PASS; crossed full segment to station 17.2m, checkpoint entered, speed auto-stopped while W remained held",
+      "reverseToGoal": "PASS; reversed to the start and displayed GOAL after braking",
+      "sweptBoundary": "PASS; centerline-only shortcut is not used; boundary probe blocks before the body leaves the corridor",
+      "obstacleAndContact": "PASS for the tested 20m segment; no collision stop or loss of wheel-support triangles observed",
+      "unmodeledSections": "not entered; all remaining parts of way 742189607 and all of way 749128168 are unavailable"
+    },
+    "bWheelContactsCm": {
+      "start": {"FL": 1.2, "FR": 1.2, "RL": 1.2, "RR": 1.2},
+      "forwardCheckpoint": {"FL": 1.1, "FR": 1.3, "RL": 1.3, "RR": 1.1},
+      "reverseNearGoal": {"FL": 1.2, "FR": 1.5, "RL": 1.3, "RR": 1.2},
+      "goal": {"FL": 0.9, "FR": 1.5, "RL": 1.5, "RR": 0.9},
+      "maximumObservedAbsoluteContactDifferenceCm": 1.5,
+      "maximumObservedPenetrationCm": 0.0,
+      "pitchRollAtGoalDegrees": {"pitch": 1.1, "roll": 0.6},
+      "phaseD11BaselineMaximumAbsoluteContactDifferenceCm": 3.0,
+      "phaseD11BaselineMaximumPenetrationCm": 0.6
+    },
+    "renderMetricsObserved": {
+      "steadyFpsRange": [59.1, 60.1],
+      "aCourseDrawCallsRange": [66, 163],
+      "aCourseTrianglesRange": [559088, 560900],
+      "bCourseDrawCallsRange": [99, 169],
+      "bCourseTrianglesRange": [588784, 589084],
+      "meshes": 81,
+      "notes": "Transient loading and course-switch frames excluded. Candidate overview peaked at 202 draw calls and 589692 triangles. Scene vegetation LOD and viewpoint affect draw/triangle counts."
+    }
+  },
+  "staticBrowserIndependentChecks": {
+    "selectedBInterval": "PASS",
+    "sourceOSMStatuses": "all segments walkable in station 40–60m; 0.764m review elsewhere at station 230.066–230.830m",
+    "vehicleEnvelopeSamples": 1245,
+    "maximumSampledOuterBodyOffsetMetres": 0.974,
+    "availableRoadCenterOffsetMetres": 1.679,
+    "minimumCurveRadiusMetres": 37.495,
+    "minimumVehicleTurningRadiusMetres": 5.171,
+    "maximumGradePercent": 8.55,
+    "roadWidthMinimumMetres": 3.599,
+    "fullWay742PlantEnvelopeCollisionCount": 0,
+    "unmodifiedGroundOrDEM": true
+  },
+  "phaseD2Baseline": {
+    "steadyFpsRange": [55.1, 60.1],
+    "drawCallsRange": [46, 165],
+    "trianglesRange": [558800, 561194],
+    "meshes": 81,
+    "candidateOverviewPeakDrawCalls": 203,
+    "candidateOverviewPeakTriangles": 589692
+  },
+  "screenshots": [
+    "screenshots/d3_a_start.png",
+    "screenshots/d3_a_goal.png",
+    "screenshots/d3_b_start.png",
+    "screenshots/d3_b_checkpoint.png",
+    "screenshots/d3_b_goal.png",
+    "screenshots/d3_candidates.png"
+  ],
+  "browserDisplayVerified": true,
+  "userFacingTabKeptOpen": true
+}
