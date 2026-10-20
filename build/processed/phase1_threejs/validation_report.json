@@ -1,0 +1,33 @@
+{
+  "osmFiles": 16,
+  "uniqueNodes": 8592,
+  "uniqueWays": 1331,
+  "uniqueRelations": 30,
+  "duplicateIdsRemoved": 1342,
+  "tagConflicts": [],
+  "brokenReferenceCount": 0,
+  "brokenReferences": [],
+  "demTilesFound": 17,
+  "demTilesDecoded": 17,
+  "demTileResolutionCounts": {
+    "1a": 15,
+    "5a": 2
+  },
+  "validTerrainVertices": 3644,
+  "parkValidVertices": 3644,
+  "parkMissingVertices": 88,
+  "outsideParkGridVertices": 2518,
+  "missingTerrainCells": 371,
+  "featureCounts": {
+    "paths": 143,
+    "buildings": 28,
+    "water": 6,
+    "vegetation": 48,
+    "facilities": 78
+  },
+  "coordinateOriginResidualMetres": [
+    -0.0,
+    -4e-06
+  ],
+  "fountainsValidEmpty": true
+}

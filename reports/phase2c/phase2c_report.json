@@ -1,0 +1,861 @@
+{
+  "sourcePhase2b": "data/processed/phase2b/phase2b_scene.json",
+  "sourceDEM": "data/raw/gsi/dem1a_png (read-only)",
+  "demTilesDecoded": 15,
+  "renderTerrainModified": false,
+  "rawDEMModified": false,
+  "navigationLayer": "data/processed/phase2c/phase2c_navigation.json",
+  "sampleSpacingMetres": 0.5,
+  "maximumVerticalCorrectionMetres": 0.12,
+  "maximumObservedCorrectionMetres": 0.12,
+  "terrainGradeAudit": {
+    "phase2bReportedGroundTransitionsOver20Percent": 86,
+    "phase2bReportedGroundTransitionsOver35Percent": 17,
+    "reconstructedTransitionsOver20Percent": 86,
+    "reconstructedTransitionsOver35Percent": 17,
+    "reviewedTransitions": 86,
+    "causeCounts": {
+      "likely_raster_or_mesh_sampling_artifact": 18,
+      "supported_by_local_dem_change": 20,
+      "ambiguous_dem_vs_mesh": 28,
+      "mapped_stairway": 20
+    },
+    "worstTransitions": [
+      {
+        "wayId": "261322457",
+        "run": 26,
+        "group": "walk",
+        "highway": "footway",
+        "bridge": false,
+        "fromXY": [
+          169.752,
+          -181.354
+        ],
+        "toXY": [
+          169.423,
+          -181.327
+        ],
+        "distanceMetres": 0.33,
+        "meshDeltaMetres": 0.267,
+        "meshGrade": 0.8084,
+        "rawDEMDeltaMetres": 0.0,
+        "cause": "likely_raster_or_mesh_sampling_artifact"
+      },
+      {
+        "wayId": "261322457",
+        "run": 26,
+        "group": "walk",
+        "highway": "footway",
+        "bridge": false,
+        "fromXY": [
+          110.293,
+          -177.937
+        ],
+        "toXY": [
+          109.817,
+          -177.915
+        ],
+        "distanceMetres": 0.476,
+        "meshDeltaMetres": -0.355,
+        "meshGrade": 0.7454,
+        "rawDEMDeltaMetres": -0.73,
+        "cause": "supported_by_local_dem_change"
+      },
+      {
+        "wayId": "261322457",
+        "run": 26,
+        "group": "walk",
+        "highway": "footway",
+        "bridge": false,
+        "fromXY": [
+          6.489,
+          -173.543
+        ],
+        "toXY": [
+          6.025,
+          -173.525
+        ],
+        "distanceMetres": 0.464,
+        "meshDeltaMetres": -0.321,
+        "meshGrade": 0.6919,
+        "rawDEMDeltaMetres": -1.05,
+        "cause": "supported_by_local_dem_change"
+      },
+      {
+        "wayId": "261322457",
+        "run": 26,
+        "group": "walk",
+        "highway": "footway",
+        "bridge": false,
+        "fromXY": [
+          135.29,
+          -179.185
+        ],
+        "toXY": [
+          134.876,
+          -179.163
+        ],
+        "distanceMetres": 0.414,
+        "meshDeltaMetres": -0.261,
+        "meshGrade": 0.6296,
+        "rawDEMDeltaMetres": -0.625,
+        "cause": "supported_by_local_dem_change"
+      },
+      {
+        "wayId": "261322457",
+        "run": 26,
+        "group": "walk",
+        "highway": "footway",
+        "bridge": false,
+        "fromXY": [
+          109.817,
+          -177.915
+        ],
+        "toXY": [
+          109.341,
+          -177.892
+        ],
+        "distanceMetres": 0.477,
+        "meshDeltaMetres": -0.267,
+        "meshGrade": 0.5604,
+        "rawDEMDeltaMetres": 0.0,
+        "cause": "likely_raster_or_mesh_sampling_artifact"
+      },
+      {
+        "wayId": "261322457",
+        "run": 26,
+        "group": "walk",
+        "highway": "footway",
+        "bridge": false,
+        "fromXY": [
+          169.935,
+          -181.151
+        ],
+        "toXY": [
+          169.752,
+          -181.354
+        ],
+        "distanceMetres": 0.273,
+        "meshDeltaMetres": 0.148,
+        "meshGrade": 0.5432,
+        "rawDEMDeltaMetres": 0.0,
+        "cause": "likely_raster_or_mesh_sampling_artifact"
+      },
+      {
+        "wayId": "261322457",
+        "run": 26,
+        "group": "walk",
+        "highway": "footway",
+        "bridge": false,
+        "fromXY": [
+          169.784,
+          -181.335
+        ],
+        "toXY": [
+          169.935,
+          -181.151
+        ],
+        "distanceMetres": 0.239,
+        "meshDeltaMetres": -0.123,
+        "meshGrade": 0.5166,
+        "rawDEMDeltaMetres": 0.0,
+        "cause": "likely_raster_or_mesh_sampling_artifact"
+      },
+      {
+        "wayId": "746151142",
+        "run": 121,
+        "group": "steps",
+        "highway": "steps",
+        "bridge": false,
+        "fromXY": [
+          129.228,
+          -308.813
+        ],
+        "toXY": [
+          128.768,
+          -308.803
+        ],
+        "distanceMetres": 0.461,
+        "meshDeltaMetres": 0.199,
+        "meshGrade": 0.4305,
+        "rawDEMDeltaMetres": 0.0,
+        "cause": "mapped_stairway"
+      },
+      {
+        "wayId": "261322457",
+        "run": 26,
+        "group": "walk",
+        "highway": "footway",
+        "bridge": false,
+        "fromXY": [
+          134.876,
+          -179.163
+        ],
+        "toXY": [
+          134.461,
+          -179.142
+        ],
+        "distanceMetres": 0.416,
+        "meshDeltaMetres": -0.174,
+        "meshGrade": 0.4194,
+        "rawDEMDeltaMetres": 0.0,
+        "cause": "likely_raster_or_mesh_sampling_artifact"
+      },
+      {
+        "wayId": "746151142",
+        "run": 121,
+        "group": "steps",
+        "highway": "steps",
+        "bridge": false,
+        "fromXY": [
+          124.382,
+          -308.703
+        ],
+        "toXY": [
+          123.886,
+          -308.692
+        ],
+        "distanceMetres": 0.497,
+        "meshDeltaMetres": 0.193,
+        "meshGrade": 0.3888,
+        "rawDEMDeltaMetres": 0.0,
+        "cause": "mapped_stairway"
+      },
+      {
+        "wayId": "746151142",
+        "run": 121,
+        "group": "steps",
+        "highway": "steps",
+        "bridge": false,
+        "fromXY": [
+          128.768,
+          -308.803
+        ],
+        "toXY": [
+          128.299,
+          -308.792
+        ],
+        "distanceMetres": 0.468,
+        "meshDeltaMetres": 0.18,
+        "meshGrade": 0.3835,
+        "rawDEMDeltaMetres": 0.43,
+        "cause": "mapped_stairway"
+      },
+      {
+        "wayId": "743088692",
+        "run": 93,
+        "group": "walk",
+        "highway": "pedestrian",
+        "bridge": false,
+        "fromXY": [
+          54.468,
+          -343.63
+        ],
+        "toXY": [
+          54.758,
+          -343.278
+        ],
+        "distanceMetres": 0.456,
+        "meshDeltaMetres": 0.172,
+        "meshGrade": 0.3763,
+        "rawDEMDeltaMetres": 0.0,
+        "cause": "likely_raster_or_mesh_sampling_artifact"
+      },
+      {
+        "wayId": "746151142",
+        "run": 121,
+        "group": "steps",
+        "highway": "steps",
+        "bridge": false,
+        "fromXY": [
+          123.886,
+          -308.692
+        ],
+        "toXY": [
+          123.391,
+          -308.681
+        ],
+        "distanceMetres": 0.495,
+        "meshDeltaMetres": 0.182,
+        "meshGrade": 0.3672,
+        "rawDEMDeltaMetres": 0.395,
+        "cause": "mapped_stairway"
+      },
+      {
+        "wayId": "743179072",
+        "run": 95,
+        "group": "walk",
+        "highway": "footway",
+        "bridge": false,
+        "fromXY": [
+          -91.814,
+          308.592
+        ],
+        "toXY": [
+          -91.472,
+          308.382
+        ],
+        "distanceMetres": 0.401,
+        "meshDeltaMetres": 0.147,
+        "meshGrade": 0.3665,
+        "rawDEMDeltaMetres": 0.0,
+        "cause": "likely_raster_or_mesh_sampling_artifact"
+      },
+      {
+        "wayId": "261322457",
+        "run": 26,
+        "group": "walk",
+        "highway": "footway",
+        "bridge": false,
+        "fromXY": [
+          6.954,
+          -173.561
+        ],
+        "toXY": [
+          6.489,
+          -173.543
+        ],
+        "distanceMetres": 0.465,
+        "meshDeltaMetres": -0.166,
+        "meshGrade": 0.3577,
+        "rawDEMDeltaMetres": 0.0,
+        "cause": "likely_raster_or_mesh_sampling_artifact"
+      },
+      {
+        "wayId": "743179072",
+        "run": 95,
+        "group": "walk",
+        "highway": "footway",
+        "bridge": false,
+        "fromXY": [
+          -92.17,
+          308.81
+        ],
+        "toXY": [
+          -91.814,
+          308.592
+        ],
+        "distanceMetres": 0.417,
+        "meshDeltaMetres": 0.149,
+        "meshGrade": 0.3573,
+        "rawDEMDeltaMetres": 0.23,
+        "cause": "supported_by_local_dem_change"
+      },
+      {
+        "wayId": "743088692",
+        "run": 93,
+        "group": "walk",
+        "highway": "pedestrian",
+        "bridge": false,
+        "fromXY": [
+          55.614,
+          -342.257
+        ],
+        "toXY": [
+          55.892,
+          -341.93
+        ],
+        "distanceMetres": 0.429,
+        "meshDeltaMetres": 0.151,
+        "meshGrade": 0.3522,
+        "rawDEMDeltaMetres": 0.13,
+        "cause": "ambiguous_dem_vs_mesh"
+      },
+      {
+        "wayId": "777288665",
+        "run": 148,
+        "group": "vehicular",
+        "highway": "service",
+        "bridge": false,
+        "fromXY": [
+          98.951,
+          -629.219
+        ],
+        "toXY": [
+          99.155,
+          -628.943
+        ],
+        "distanceMetres": 0.344,
+        "meshDeltaMetres": 0.119,
+        "meshGrade": 0.3464,
+        "rawDEMDeltaMetres": 0.31,
+        "cause": "supported_by_local_dem_change"
+      },
+      {
+        "wayId": "746151142",
+        "run": 121,
+        "group": "steps",
+        "highway": "steps",
+        "bridge": false,
+        "fromXY": [
+          129.679,
+          -308.823
+        ],
+        "toXY": [
+          129.228,
+          -308.813
+        ],
+        "distanceMetres": 0.451,
+        "meshDeltaMetres": 0.154,
+        "meshGrade": 0.3424,
+        "rawDEMDeltaMetres": 0.29,
+        "cause": "mapped_stairway"
+      },
+      {
+        "wayId": "743179072",
+        "run": 95,
+        "group": "walk",
+        "highway": "footway",
+        "bridge": false,
+        "fromXY": [
+          -91.472,
+          308.382
+        ],
+        "toXY": [
+          -91.144,
+          308.181
+        ],
+        "distanceMetres": 0.385,
+        "meshDeltaMetres": 0.126,
+        "meshGrade": 0.3273,
+        "rawDEMDeltaMetres": 0.0,
+        "cause": "likely_raster_or_mesh_sampling_artifact"
+      },
+      {
+        "wayId": "743088692",
+        "run": 93,
+        "group": "walk",
+        "highway": "pedestrian",
+        "bridge": false,
+        "fromXY": [
+          55.333,
+          -342.591
+        ],
+        "toXY": [
+          55.614,
+          -342.257
+        ],
+        "distanceMetres": 0.436,
+        "meshDeltaMetres": 0.14,
+        "meshGrade": 0.32,
+        "rawDEMDeltaMetres": 0.0,
+        "cause": "likely_raster_or_mesh_sampling_artifact"
+      },
+      {
+        "wayId": "743088692",
+        "run": 93,
+        "group": "walk",
+        "highway": "pedestrian",
+        "bridge": false,
+        "fromXY": [
+          89.642,
+          -342.497
+        ],
+        "toXY": [
+          89.817,
+          -342.856
+        ],
+        "distanceMetres": 0.399,
+        "meshDeltaMetres": -0.125,
+        "meshGrade": 0.3139,
+        "rawDEMDeltaMetres": -0.37,
+        "cause": "supported_by_local_dem_change"
+      },
+      {
+        "wayId": "743088692",
+        "run": 93,
+        "group": "walk",
+        "highway": "pedestrian",
+        "bridge": false,
+        "fromXY": [
+          89.817,
+          -342.856
+        ],
+        "toXY": [
+          89.999,
+          -343.224
+        ],
+        "distanceMetres": 0.411,
+        "meshDeltaMetres": -0.129,
+        "meshGrade": 0.3137,
+        "rawDEMDeltaMetres": 0.0,
+        "cause": "likely_raster_or_mesh_sampling_artifact"
+      },
+      {
+        "wayId": "261322457",
+        "run": 26,
+        "group": "walk",
+        "highway": "footway",
+        "bridge": false,
+        "fromXY": [
+          72.712,
+          -176.244
+        ],
+        "toXY": [
+          72.326,
+          -176.227
+        ],
+        "distanceMetres": 0.387,
+        "meshDeltaMetres": 0.121,
+        "meshGrade": 0.3136,
+        "rawDEMDeltaMetres": 0.0,
+        "cause": "likely_raster_or_mesh_sampling_artifact"
+      },
+      {
+        "wayId": "743088692",
+        "run": 93,
+        "group": "walk",
+        "highway": "pedestrian",
+        "bridge": false,
+        "fromXY": [
+          89.999,
+          -343.224
+        ],
+        "toXY": [
+          90.189,
+          -343.603
+        ],
+        "distanceMetres": 0.424,
+        "meshDeltaMetres": -0.133,
+        "meshGrade": 0.3133,
+        "rawDEMDeltaMetres": 0.0,
+        "cause": "likely_raster_or_mesh_sampling_artifact"
+      },
+      {
+        "wayId": "743088692",
+        "run": 93,
+        "group": "walk",
+        "highway": "pedestrian",
+        "bridge": false,
+        "fromXY": [
+          89.472,
+          -342.149
+        ],
+        "toXY": [
+          89.642,
+          -342.497
+        ],
+        "distanceMetres": 0.386,
+        "meshDeltaMetres": -0.121,
+        "meshGrade": 0.3128,
+        "rawDEMDeltaMetres": 0.0,
+        "cause": "likely_raster_or_mesh_sampling_artifact"
+      },
+      {
+        "wayId": "743088692",
+        "run": 93,
+        "group": "walk",
+        "highway": "pedestrian",
+        "bridge": false,
+        "fromXY": [
+          54.178,
+          -343.987
+        ],
+        "toXY": [
+          54.468,
+          -343.63
+        ],
+        "distanceMetres": 0.46,
+        "meshDeltaMetres": 0.139,
+        "meshGrade": 0.3021,
+        "rawDEMDeltaMetres": 0.4,
+        "cause": "supported_by_local_dem_change"
+      },
+      {
+        "wayId": "261322457",
+        "run": 26,
+        "group": "walk",
+        "highway": "footway",
+        "bridge": false,
+        "fromXY": [
+          118.24,
+          -178.32
+        ],
+        "toXY": [
+          117.78,
+          -178.297
+        ],
+        "distanceMetres": 0.46,
+        "meshDeltaMetres": 0.138,
+        "meshGrade": 0.3009,
+        "rawDEMDeltaMetres": 0.33,
+        "cause": "supported_by_local_dem_change"
+      },
+      {
+        "wayId": "743179073",
+        "run": 96,
+        "group": "steps",
+        "highway": "steps",
+        "bridge": false,
+        "fromXY": [
+          -89.14,
+          306.952
+        ],
+        "toXY": [
+          -88.908,
+          306.81
+        ],
+        "distanceMetres": 0.273,
+        "meshDeltaMetres": 0.082,
+        "meshGrade": 0.3004,
+        "rawDEMDeltaMetres": 0.15,
+        "cause": "mapped_stairway"
+      },
+      {
+        "wayId": "743179073",
+        "run": 96,
+        "group": "steps",
+        "highway": "steps",
+        "bridge": false,
+        "fromXY": [
+          -88.908,
+          306.81
+        ],
+        "toXY": [
+          -88.571,
+          306.603
+        ],
+        "distanceMetres": 0.395,
+        "meshDeltaMetres": 0.119,
+        "meshGrade": 0.3004,
+        "rawDEMDeltaMetres": 0.0,
+        "cause": "mapped_stairway"
+      },
+      {
+        "wayId": "743088692",
+        "run": 93,
+        "group": "walk",
+        "highway": "pedestrian",
+        "bridge": false,
+        "fromXY": [
+          90.189,
+          -343.603
+        ],
+        "toXY": [
+          90.383,
+          -343.991
+        ],
+        "distanceMetres": 0.434,
+        "meshDeltaMetres": -0.13,
+        "meshGrade": 0.2995,
+        "rawDEMDeltaMetres": -0.33,
+        "cause": "supported_by_local_dem_change"
+      },
+      {
+        "wayId": "746151142",
+        "run": 121,
+        "group": "steps",
+        "highway": "steps",
+        "bridge": false,
+        "fromXY": [
+          130.121,
+          -308.834
+        ],
+        "toXY": [
+          129.679,
+          -308.823
+        ],
+        "distanceMetres": 0.442,
+        "meshDeltaMetres": 0.129,
+        "meshGrade": 0.2913,
+        "rawDEMDeltaMetres": 0.0,
+        "cause": "mapped_stairway"
+      },
+      {
+        "wayId": "743179072",
+        "run": 95,
+        "group": "walk",
+        "highway": "footway",
+        "bridge": false,
+        "fromXY": [
+          -89.392,
+          307.108
+        ],
+        "toXY": [
+          -89.14,
+          306.952
+        ],
+        "distanceMetres": 0.296,
+        "meshDeltaMetres": 0.086,
+        "meshGrade": 0.2894,
+        "rawDEMDeltaMetres": 0.26,
+        "cause": "supported_by_local_dem_change"
+      },
+      {
+        "wayId": "261322457",
+        "run": 26,
+        "group": "walk",
+        "highway": "footway",
+        "bridge": false,
+        "fromXY": [
+          169.423,
+          -181.327
+        ],
+        "toXY": [
+          169.089,
+          -181.298
+        ],
+        "distanceMetres": 0.335,
+        "meshDeltaMetres": 0.095,
+        "meshGrade": 0.284,
+        "rawDEMDeltaMetres": 0.18,
+        "cause": "supported_by_local_dem_change"
+      },
+      {
+        "wayId": "777288665",
+        "run": 148,
+        "group": "vehicular",
+        "highway": "service",
+        "bridge": false,
+        "fromXY": [
+          98.718,
+          -629.471
+        ],
+        "toXY": [
+          98.951,
+          -629.219
+        ],
+        "distanceMetres": 0.342,
+        "meshDeltaMetres": 0.097,
+        "meshGrade": 0.2831,
+        "rawDEMDeltaMetres": 0.0,
+        "cause": "ambiguous_dem_vs_mesh"
+      },
+      {
+        "wayId": "743088692",
+        "run": 93,
+        "group": "walk",
+        "highway": "pedestrian",
+        "bridge": false,
+        "fromXY": [
+          55.047,
+          -342.931
+        ],
+        "toXY": [
+          55.333,
+          -342.591
+        ],
+        "distanceMetres": 0.444,
+        "meshDeltaMetres": 0.126,
+        "meshGrade": 0.283,
+        "rawDEMDeltaMetres": 0.37,
+        "cause": "supported_by_local_dem_change"
+      },
+      {
+        "wayId": "746151142",
+        "run": 121,
+        "group": "steps",
+        "highway": "steps",
+        "bridge": false,
+        "fromXY": [
+          122.406,
+          -308.659
+        ],
+        "toXY": [
+          121.921,
+          -308.648
+        ],
+        "distanceMetres": 0.486,
+        "meshDeltaMetres": 0.136,
+        "meshGrade": 0.2803,
+        "rawDEMDeltaMetres": 0.0,
+        "cause": "mapped_stairway"
+      },
+      {
+        "wayId": "746151142",
+        "run": 121,
+        "group": "steps",
+        "highway": "steps",
+        "bridge": false,
+        "fromXY": [
+          120.035,
+          -308.604
+        ],
+        "toXY": [
+          119.584,
+          -308.594
+        ],
+        "distanceMetres": 0.451,
+        "meshDeltaMetres": 0.126,
+        "meshGrade": 0.2803,
+        "rawDEMDeltaMetres": 0.28,
+        "cause": "mapped_stairway"
+      },
+      {
+        "wayId": "746151142",
+        "run": 121,
+        "group": "steps",
+        "highway": "steps",
+        "bridge": false,
+        "fromXY": [
+          121.921,
+          -308.648
+        ],
+        "toXY": [
+          121.439,
+          -308.637
+        ],
+        "distanceMetres": 0.482,
+        "meshDeltaMetres": 0.135,
+        "meshGrade": 0.2802,
+        "rawDEMDeltaMetres": 0.28,
+        "cause": "mapped_stairway"
+      },
+      {
+        "wayId": "261322457",
+        "run": 26,
+        "group": "walk",
+        "highway": "footway",
+        "bridge": false,
+        "fromXY": [
+          94.691,
+          -177.214
+        ],
+        "toXY": [
+          94.192,
+          -177.191
+        ],
+        "distanceMetres": 0.5,
+        "meshDeltaMetres": 0.139,
+        "meshGrade": 0.2784,
+        "rawDEMDeltaMetres": 0.125,
+        "cause": "ambiguous_dem_vs_mesh"
+      }
+    ]
+  },
+  "navigation": {
+    "segmentCounts": {
+      "review": 1689,
+      "blocked": 642,
+      "walkable": 22812
+    },
+    "walkableSegments": 22812,
+    "reviewSegments": 1689,
+    "blockedSegments": 642,
+    "bridgeRuns": 13,
+    "bridgeMaximumGrade": 0.0634,
+    "stairRunsBlocked": 15,
+    "gapBlockers": 22,
+    "testRouteMetres": 24.0,
+    "routeGapsAutoConnected": false,
+    "minWidthMetres": 1.14,
+    "maxWalkableGrade": 0.1973,
+    "maxRequiredCorrectionsMetres": 0.12,
+    "phase2bMeshFallbackStations": 44
+  },
+  "robotProxy": {
+    "radiusMetres": 0.28,
+    "heightMetres": 0.65,
+    "speedMetresPerSecond": 2.0,
+    "stepLimitMetres": 0.16,
+    "collidesOn": "blocked, outside ribbon, water, omitted gap, step over limit",
+    "reviewAreasTraversableInPrototype": true,
+    "stairsTraversable": false
+  },
+  "limitations": [
+    "Bridge surface height is inferred from Phase 2B bridge endpoints and remains review-only.",
+    "Steps are blocked for the wheeled proxy; no climb ability is simulated.",
+    "DEM reconciliation is capped at 0.12 m per station and creates a separate collision/render layer.",
+    "A 2D station/ribbon collision proxy is used; rigid-body swept-volume physics is not included."
+  ]
+}

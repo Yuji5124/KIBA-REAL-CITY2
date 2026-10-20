@@ -1,0 +1,163 @@
+{
+  "phase": "2G",
+  "coordinateSystem": "EPSG:6677 local; Three.js x=east, y=estimated T.P. metres, z=-north",
+  "parameters": [
+    {
+      "name": "overall_bridge_length",
+      "value": 250.0,
+      "unit": "m",
+      "class": "documented",
+      "basis": "Tokyo Metropolitan Park Association; JCI archive",
+      "confidence": "high",
+      "usedForGeometry": false
+    },
+    {
+      "name": "maximum_span",
+      "value": 96.95,
+      "unit": "m",
+      "class": "documented",
+      "basis": "Japan Concrete Institute archive",
+      "confidence": "high",
+      "usedForGeometry": false
+    },
+    {
+      "name": "pylon_height",
+      "value": 60.0,
+      "unit": "m",
+      "class": "documented_and_asset_extent",
+      "basis": "Tokyo park association and Phase 2E GLB vertex extent Y=0..60",
+      "confidence": "high for reference, not survey registration",
+      "usedForGeometry": false
+    },
+    {
+      "name": "structure_type",
+      "value": "2-span continuous prestressed concrete cable-stayed bridge",
+      "class": "documented",
+      "basis": "Japan Concrete Institute archive",
+      "confidence": "high",
+      "usedForGeometry": false
+    },
+    {
+      "name": "OSM_way_33976871_length",
+      "value": 174.289,
+      "unit": "m",
+      "class": "measured_from_OSM_geometry",
+      "basis": "Three projected OSM nodes EPSG:6677",
+      "confidence": "high for mapped way only",
+      "usedForGeometry": true
+    },
+    {
+      "name": "Phase_2F_candidate_centerline",
+      "value": 149.445,
+      "unit": "m",
+      "class": "measured_from_candidate_geometry",
+      "basis": "132.836m clipped mapped runs + 16.609m linearly interpolated visual gap",
+      "confidence": "high for candidate only",
+      "usedForGeometry": true
+    },
+    {
+      "name": "candidate_width",
+      "value": 4.0,
+      "unit": "m",
+      "class": "estimated",
+      "basis": "Phase 2F working visual estimate; no survey width",
+      "confidence": "low",
+      "usedForGeometry": true
+    },
+    {
+      "name": "deck_height",
+      "value": "Phase 2C estimated 1.568..4.940m; gap 2.616..2.140m",
+      "unit": "m",
+      "class": "estimated",
+      "basis": "Navigation surface heights, no bridge deck survey",
+      "confidence": "low",
+      "usedForGeometry": true
+    },
+    {
+      "name": "G6.2_registration",
+      "value": "translation 0; rotation 0; scale 1 hypothesis",
+      "class": "unconfirmed",
+      "basis": "EPSG metadata origin matches Phase 2B; axis metadata conflicts with Y-up mesh bounds; no control points",
+      "confidence": "low",
+      "usedForGeometry": true
+    },
+    {
+      "name": "G6.2_bounds",
+      "value": {
+        "x": [
+          73.868,
+          89.6
+        ],
+        "y": [
+          0,
+          60
+        ],
+        "z": [
+          -236.018,
+          -47.979
+        ]
+      },
+      "unit": "m",
+      "class": "measured_from_GLTF_vertices",
+      "basis": "Phase 2E sanitized clone, 27 meshes, 356 triangles, no deck",
+      "confidence": "high for asset coordinates only",
+      "usedForGeometry": true
+    },
+    {
+      "name": "Phase_2G_underside_thickness",
+      "value": 0.32,
+      "unit": "m",
+      "class": "estimated_visual_prototype",
+      "basis": "No structural drawings",
+      "confidence": "very_low",
+      "usedForGeometry": true
+    },
+    {
+      "name": "Phase_2G_edge_curb_height",
+      "value": 0.18,
+      "unit": "m",
+      "class": "estimated_visual_prototype",
+      "basis": "No dimensional evidence",
+      "confidence": "very_low",
+      "usedForGeometry": true
+    },
+    {
+      "name": "Phase_2G_guardrail_height",
+      "value": 1.05,
+      "unit": "m",
+      "class": "estimated_visual_prototype",
+      "basis": "Photographic silhouette only; no dimensional survey",
+      "confidence": "very_low",
+      "usedForGeometry": true
+    }
+  ],
+  "geometryScope": {
+    "sourceOSMWay": "33976871",
+    "mappedSurfaceQuads": 319,
+    "gapQuadsVisualOnly": 1,
+    "unresolvedOverallLengthMetres": 100.555,
+    "collisionEnabled": false,
+    "navigationModified": false,
+    "robotTraversalEnabled": false,
+    "detailKinds": [
+      "underside",
+      "edge curb",
+      "guardrail"
+    ],
+    "joints": "not modeled; unverified"
+  },
+  "registration": {
+    "translationMetres": [
+      0,
+      0,
+      0
+    ],
+    "rotationDegrees": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1,
+    "status": "visual hypothesis, no survey control point"
+  }
+}

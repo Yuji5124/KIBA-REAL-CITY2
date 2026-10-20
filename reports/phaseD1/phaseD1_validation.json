@@ -1,0 +1,60 @@
+{
+  "phase": "KIBA PARK DRIVE Phase D1",
+  "result": "PASS",
+  "checks": {
+    "source_blend_hash_matches_read_only_inspection": true,
+    "source_blend_read_only_flag": true,
+    "separate_gltf_exists_and_header_valid": true,
+    "gltf_mesh_count_matches_inspection": true,
+    "phase3a_copied_into_separate_d1": true,
+    "course_a_24m_and_same_road": true,
+    "course_a_nav_walkable_only": true,
+    "course_a_not_bridge_or_stairs": true,
+    "swept_body_inside_modeled_path": true,
+    "swept_body_avoids_tree_trunks": true,
+    "swept_body_avoids_osm_water_and_buildings": true,
+    "max_course_grade_below_12pct": true,
+    "all_bridge_run_nav_still_has_zero_walkable": true,
+    "phase2c_nav_data_matches_source_and_phase3a": true,
+    "javascript_syntax_ok": true,
+    "python_syntax_ok": true,
+    "browser_screenshot_saved": true
+  },
+  "courseA": {
+    "wayId": "777288664",
+    "lengthMetres": 23.99542778946129,
+    "modeledWidthMetres": 3.999,
+    "busEnvelopeMetres": [
+      2.7199997901916504,
+      4.520000457763672
+    ],
+    "sampledMinimumPlanRadiusMetres": 9.318241972190568,
+    "maxGradeFraction": 0.05329689334754075,
+    "steeringAngleRequiredEstimateDegrees": 14.443148559144783,
+    "steeringLimitPrototypeDegrees": 16,
+    "minSampledLateralReserveMetres": 0.36218034840331503,
+    "maxCornerDistanceFromCenterlineMetres": 1.5173196515966851,
+    "treeHits": [],
+    "buildingWaterHits": [],
+    "uncertainNavigationPositions": [],
+    "unverifiedCandidateRoadRunReviewCount": 7
+  },
+  "phase2c": {
+    "navSha256Source": "2a127eff41dce83fb98b3fc725bcc130d060495f3b2c2ffcc27e65bca7578b55",
+    "navSha256D1": "2a127eff41dce83fb98b3fc725bcc130d060495f3b2c2ffcc27e65bca7578b55",
+    "navSha256Phase3A": "2a127eff41dce83fb98b3fc725bcc130d060495f3b2c2ffcc27e65bca7578b55",
+    "bridgeRuns": 13,
+    "bridgeWalkableSegments": 0
+  },
+  "glb": {
+    "bytes": 664960,
+    "meshCount": 138,
+    "materials": 18
+  },
+  "browserScreenshots": [
+    "C:\\Users\\hp\\Desktop\\KIBA-REAL-CITY\\screenshots\\phaseD1\\d1_battle_mode.png",
+    "C:\\Users\\hp\\Desktop\\KIBA-REAL-CITY\\screenshots\\phaseD1\\d1_drive_start.png",
+    "C:\\Users\\hp\\Desktop\\KIBA-REAL-CITY\\screenshots\\phaseD1\\d1_overview.png"
+  ],
+  "syntaxDiagnostics": ""
+}

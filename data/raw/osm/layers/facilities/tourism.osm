@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2026-10-17T22:19:35Z"/>
+
+  <bounds minlat="35.6708181" minlon="139.8057307" maxlat="35.6808323" maxlon="139.8113834"/>
+
+  <node id="389334499" lat="35.6793752" lon="139.8070288" version="3" timestamp="2019-11-08T03:00:54Z" changeset="76784347" uid="7115748" user="Daaaaaaa"/>
+  <node id="389334500" lat="35.6794712" lon="139.8089732" version="3" timestamp="2019-11-08T03:00:54Z" changeset="76784347" uid="7115748" user="Daaaaaaa"/>
+  <node id="389334501" lat="35.6801121" lon="139.8080171" version="3" timestamp="2019-11-08T03:00:54Z" changeset="76784347" uid="7115748" user="Daaaaaaa"/>
+  <node id="389334502" lat="35.6801531" lon="139.8088319" version="3" timestamp="2019-11-08T03:00:54Z" changeset="76784347" uid="7115748" user="Daaaaaaa"/>
+  <node id="4092003599" lat="35.6794601" lon="139.8070225" version="2" timestamp="2019-11-08T03:00:54Z" changeset="76784347" uid="7115748" user="Daaaaaaa"/>
+  <node id="4092003601" lat="35.6793195" lon="139.8073664" version="1" timestamp="2016-04-02T04:45:49Z" changeset="38242332" uid="610947" user="muramototomoya">
+    <tag k="tourism" v="artwork"/>
+  </node>
+  <node id="4092003608" lat="35.6794606" lon="139.8087572" version="2" timestamp="2019-11-08T03:00:54Z" changeset="76784347" uid="7115748" user="Daaaaaaa">
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="4092003620" lat="35.6794208" lon="139.8070254" version="2" timestamp="2019-11-08T03:00:54Z" changeset="76784347" uid="7115748" user="Daaaaaaa">
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="4092003627" lat="35.6795126" lon="139.8079142" version="2" timestamp="2019-11-08T03:00:54Z" changeset="76784347" uid="7115748" user="Daaaaaaa"/>
+  <node id="4092003630" lat="35.6793833" lon="139.8090228" version="1" timestamp="2016-04-02T04:45:50Z" changeset="38242332" uid="610947" user="muramototomoya">
+    <tag k="tourism" v="artwork"/>
+  </node>
+  <node id="5539721529" lat="35.6729956" lon="139.8098145" version="1" timestamp="2018-04-09T09:08:02Z" changeset="57934599" uid="5534924" user="shinji yamada">
+    <tag k="name" v="河津桜"/>
+    <tag k="name:en" v="KAWADU Sakura cherry blossom"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="5797206533" lat="35.6803065" lon="139.8068320" version="1" timestamp="2018-07-31T00:14:29Z" changeset="61211413" uid="212445" user="Munkson">
+    <tag k="tourism" v="information"/>
+  </node>
+  <node id="6652481734" lat="35.6772642" lon="139.8063295" version="2" timestamp="2024-10-01T02:48:10Z" changeset="157319645" uid="162387" user="maiki">
+    <tag k="check_date" v="2024-10-01"/>
+    <tag k="information" v="map"/>
+    <tag k="tourism" v="information"/>
+  </node>
+  <node id="6652691713" lat="35.6735516" lon="139.8093024" version="1" timestamp="2019-07-27T08:57:41Z" changeset="72711363" uid="6108657" user="maripogoda">
+    <tag k="information" v="map"/>
+    <tag k="tourism" v="information"/>
+  </node>
+  <node id="6956477328" lat="35.6794758" lon="139.8073408" version="1" timestamp="2019-11-08T03:00:54Z" changeset="76784347" uid="7115748" user="Daaaaaaa"/>
+  <node id="6956477329" lat="35.6794844" lon="139.8073402" version="1" timestamp="2019-11-08T03:00:54Z" changeset="76784347" uid="7115748" user="Daaaaaaa"/>
+  <node id="6956477330" lat="35.6795480" lon="139.8089675" version="1" timestamp="2019-11-08T03:00:54Z" changeset="76784347" uid="7115748" user="Daaaaaaa"/>
+  <node id="6956477331" lat="35.6795429" lon="139.8088645" version="1" timestamp="2019-11-08T03:00:54Z" changeset="76784347" uid="7115748" user="Daaaaaaa"/>
+  <node id="6956477332" lat="35.6795839" lon="139.8088615" version="1" timestamp="2019-11-08T03:00:54Z" changeset="76784347" uid="7115748" user="Daaaaaaa"/>
+  <node id="6956477333" lat="35.6795963" lon="139.8091122" version="1" timestamp="2019-11-08T03:00:54Z" changeset="76784347" uid="7115748" user="Daaaaaaa"/>
+  <node id="6956477334" lat="35.6799516" lon="139.8090855" version="1" timestamp="2019-11-08T03:00:54Z" changeset="76784347" uid="7115748" user="Daaaaaaa"/>
+  <node id="6956477335" lat="35.6799483" lon="139.8090193" version="1" timestamp="2019-11-08T03:00:54Z" changeset="76784347" uid="7115748" user="Daaaaaaa"/>
+  <node id="6956477336" lat="35.6799765" lon="139.8090172" version="1" timestamp="2019-11-08T03:00:54Z" changeset="76784347" uid="7115748" user="Daaaaaaa"/>
+  <node id="6956477337" lat="35.6799725" lon="139.8089386" version="1" timestamp="2019-11-08T03:00:54Z" changeset="76784347" uid="7115748" user="Daaaaaaa"/>
+  <node id="6956477338" lat="35.6799822" lon="139.8089379" version="1" timestamp="2019-11-08T03:00:54Z" changeset="76784347" uid="7115748" user="Daaaaaaa"/>
+  <node id="6956477339" lat="35.6799783" lon="139.8088585" version="1" timestamp="2019-11-08T03:00:54Z" changeset="76784347" uid="7115748" user="Daaaaaaa"/>
+  <node id="6956477340" lat="35.6799886" lon="139.8088577" version="1" timestamp="2019-11-08T03:00:54Z" changeset="76784347" uid="7115748" user="Daaaaaaa"/>
+  <node id="6956477341" lat="35.6799798" lon="139.8086825" version="1" timestamp="2019-11-08T03:00:54Z" changeset="76784347" uid="7115748" user="Daaaaaaa"/>
+  <node id="6956477342" lat="35.6800067" lon="139.8086805" version="1" timestamp="2019-11-08T03:00:54Z" changeset="76784347" uid="7115748" user="Daaaaaaa"/>
+  <node id="6956477343" lat="35.6800148" lon="139.8088425" version="1" timestamp="2019-11-08T03:00:54Z" changeset="76784347" uid="7115748" user="Daaaaaaa"/>
+  <node id="6956477344" lat="35.6799794" lon="139.8081878" version="1" timestamp="2019-11-08T03:00:54Z" changeset="76784347" uid="7115748" user="Daaaaaaa"/>
+  <node id="6956477345" lat="35.6799714" lon="139.8080278" version="1" timestamp="2019-11-08T03:00:54Z" changeset="76784347" uid="7115748" user="Daaaaaaa"/>
+  <node id="6956477346" lat="35.6799616" lon="139.8081891" version="1" timestamp="2019-11-08T03:00:54Z" changeset="76784347" uid="7115748" user="Daaaaaaa"/>
+  <node id="6956477347" lat="35.6799530" lon="139.8080162" version="1" timestamp="2019-11-08T03:00:54Z" changeset="76784347" uid="7115748" user="Daaaaaaa"/>
+  <node id="6956477348" lat="35.6799406" lon="139.8080171" version="1" timestamp="2019-11-08T03:00:54Z" changeset="76784347" uid="7115748" user="Daaaaaaa"/>
+  <node id="6956477349" lat="35.6799368" lon="139.8079399" version="1" timestamp="2019-11-08T03:00:54Z" changeset="76784347" uid="7115748" user="Daaaaaaa"/>
+  <node id="6956477350" lat="35.6799203" lon="139.8078652" version="1" timestamp="2019-11-08T03:00:54Z" changeset="76784347" uid="7115748" user="Daaaaaaa"/>
+  <node id="6956477351" lat="35.6799241" lon="139.8079409" version="1" timestamp="2019-11-08T03:00:54Z" changeset="76784347" uid="7115748" user="Daaaaaaa"/>
+  <node id="6956477352" lat="35.6798871" lon="139.8078035" version="1" timestamp="2019-11-08T03:00:54Z" changeset="76784347" uid="7115748" user="Daaaaaaa"/>
+  <node id="6956477353" lat="35.6798902" lon="139.8078674" version="1" timestamp="2019-11-08T03:00:54Z" changeset="76784347" uid="7115748" user="Daaaaaaa"/>
+  <node id="6956477354" lat="35.6798295" lon="139.8078078" version="1" timestamp="2019-11-08T03:00:54Z" changeset="76784347" uid="7115748" user="Daaaaaaa"/>
+  <node id="6956477355" lat="35.6798281" lon="139.8077793" version="1" timestamp="2019-11-08T03:00:54Z" changeset="76784347" uid="7115748" user="Daaaaaaa"/>
+  <node id="6956477356" lat="35.6795558" lon="139.8077995" version="1" timestamp="2019-11-08T03:00:54Z" changeset="76784347" uid="7115748" user="Daaaaaaa"/>
+  <node id="6956477357" lat="35.6795574" lon="139.8078306" version="1" timestamp="2019-11-08T03:00:54Z" changeset="76784347" uid="7115748" user="Daaaaaaa"/>
+  <node id="6956477358" lat="35.6795421" lon="139.8079120" version="1" timestamp="2019-11-08T03:00:54Z" changeset="76784347" uid="7115748" user="Daaaaaaa"/>
+  <node id="6956477359" lat="35.6795382" lon="139.8078321" version="1" timestamp="2019-11-08T03:00:54Z" changeset="76784347" uid="7115748" user="Daaaaaaa"/>
+  <node id="6956477360" lat="35.6801408" lon="139.8085876" version="1" timestamp="2019-11-08T03:00:54Z" changeset="76784347" uid="7115748" user="Daaaaaaa"/>
+  <node id="6956477361" lat="35.6801328" lon="139.8084273" version="1" timestamp="2019-11-08T03:00:54Z" changeset="76784347" uid="7115748" user="Daaaaaaa"/>
+  <node id="6956477362" lat="35.6802081" lon="139.8084226" version="1" timestamp="2019-11-08T03:00:54Z" changeset="76784347" uid="7115748" user="Daaaaaaa"/>
+  <node id="6956477363" lat="35.6802148" lon="139.8085828" version="1" timestamp="2019-11-08T03:00:54Z" changeset="76784347" uid="7115748" user="Daaaaaaa"/>
+  <node id="7252953141" lat="35.6795201" lon="139.8089696" version="2" timestamp="2026-01-12T05:01:29Z" changeset="177121783" uid="17281421" user="Ky_AT">
+    <tag k="amenity" v="parking_entrance"/>
+  </node>
+  <node id="8251957358" lat="35.6795656" lon="139.8084269" version="1" timestamp="2020-12-22T14:27:42Z" changeset="96265190" uid="407245" user="kurauchi"/>
+  <node id="8251957359" lat="35.6795649" lon="139.8084075" version="1" timestamp="2020-12-22T14:27:42Z" changeset="96265190" uid="407245" user="kurauchi"/>
+  <node id="8251957360" lat="35.6795437" lon="139.8084090" version="1" timestamp="2020-12-22T14:27:42Z" changeset="96265190" uid="407245" user="kurauchi"/>
+  <node id="8251957361" lat="35.6795438" lon="139.8084224" version="1" timestamp="2020-12-22T14:27:42Z" changeset="96265190" uid="407245" user="kurauchi"/>
+  <node id="8251957362" lat="35.6797128" lon="139.8084112" version="1" timestamp="2020-12-22T14:27:42Z" changeset="96265190" uid="407245" user="kurauchi"/>
+  <node id="8251957363" lat="35.6796807" lon="139.8083746" version="1" timestamp="2020-12-22T14:27:42Z" changeset="96265190" uid="407245" user="kurauchi"/>
+  <node id="8251957364" lat="35.6796461" lon="139.8083653" version="1" timestamp="2020-12-22T14:27:42Z" changeset="96265190" uid="407245" user="kurauchi"/>
+  <node id="8251957365" lat="35.6796295" lon="139.8083663" version="1" timestamp="2020-12-22T14:27:42Z" changeset="96265190" uid="407245" user="kurauchi"/>
+  <node id="8251957366" lat="35.6795960" lon="139.8083857" version="1" timestamp="2020-12-22T14:27:42Z" changeset="96265190" uid="407245" user="kurauchi"/>
+  <node id="8251957367" lat="35.6795775" lon="139.8084132" version="1" timestamp="2020-12-22T14:27:42Z" changeset="96265190" uid="407245" user="kurauchi"/>
+  <node id="8251957368" lat="35.6795865" lon="139.8083978" version="1" timestamp="2020-12-22T14:27:42Z" changeset="96265190" uid="407245" user="kurauchi"/>
+  <node id="8251957369" lat="35.6796093" lon="139.8083740" version="1" timestamp="2020-12-22T14:27:42Z" changeset="96265190" uid="407245" user="kurauchi"/>
+  <node id="8251957370" lat="35.6796981" lon="139.8083904" version="1" timestamp="2020-12-22T14:27:42Z" changeset="96265190" uid="407245" user="kurauchi"/>
+  <node id="8251957371" lat="35.6796611" lon="139.8083669" version="1" timestamp="2020-12-22T14:27:42Z" changeset="96265190" uid="407245" user="kurauchi"/>
+  <node id="8251957372" lat="35.6797205" lon="139.8084350" version="1" timestamp="2020-12-22T14:27:42Z" changeset="96265190" uid="407245" user="kurauchi"/>
+  <node id="8251957373" lat="35.6795715" lon="139.8084287" version="1" timestamp="2020-12-22T14:27:42Z" changeset="96265190" uid="407245" user="kurauchi"/>
+  <node id="8251957374" lat="35.6797227" lon="139.8084594" version="1" timestamp="2020-12-22T14:27:42Z" changeset="96265190" uid="407245" user="kurauchi"/>
+  <node id="8251957375" lat="35.6799154" lon="139.8085236" version="1" timestamp="2020-12-22T14:27:42Z" changeset="96265190" uid="407245" user="kurauchi"/>
+  <node id="8251957376" lat="35.6795299" lon="139.8084166" version="1" timestamp="2020-12-22T14:27:42Z" changeset="96265190" uid="407245" user="kurauchi"/>
+  <node id="8251957377" lat="35.6795261" lon="139.8083146" version="1" timestamp="2020-12-22T14:27:42Z" changeset="96265190" uid="407245" user="kurauchi"/>
+  <node id="8251957378" lat="35.6799048" lon="139.8082848" version="1" timestamp="2020-12-22T14:27:42Z" changeset="96265190" uid="407245" user="kurauchi"/>
+  <node id="10913199924" lat="35.6765675" lon="139.8074426" version="1" timestamp="2023-05-20T00:40:56Z" changeset="136320102" uid="610947" user="muramototomoya">
+    <tag k="information" v="map"/>
+    <tag k="name" v="木場公園　公園全体案内図"/>
+    <tag k="tourism" v="information"/>
+  </node>
+  <node id="10913199925" lat="35.6746637" lon="139.8058306" version="1" timestamp="2023-05-20T00:40:56Z" changeset="136320102" uid="610947" user="muramototomoya">
+    <tag k="information" v="map"/>
+    <tag k="name" v="木場親水公園"/>
+    <tag k="tourism" v="information"/>
+  </node>
+  <way id="33976878" version="10" timestamp="2020-12-22T14:27:42Z" changeset="96265190" uid="407245" user="kurauchi">
+    <nd ref="389334499"/>
+    <nd ref="4092003620"/>
+    <nd ref="4092003599"/>
+    <nd ref="6956477328"/>
+    <nd ref="6956477329"/>
+    <nd ref="4092003627"/>
+    <nd ref="6956477358"/>
+    <nd ref="6956477359"/>
+    <nd ref="6956477357"/>
+    <nd ref="6956477356"/>
+    <nd ref="6956477355"/>
+    <nd ref="6956477354"/>
+    <nd ref="6956477352"/>
+    <nd ref="6956477353"/>
+    <nd ref="6956477350"/>
+    <nd ref="6956477351"/>
+    <nd ref="6956477349"/>
+    <nd ref="6956477348"/>
+    <nd ref="6956477347"/>
+    <nd ref="6956477346"/>
+    <nd ref="6956477344"/>
+    <nd ref="6956477345"/>
+    <nd ref="389334501"/>
+    <nd ref="6956477361"/>
+    <nd ref="6956477362"/>
+    <nd ref="6956477363"/>
+    <nd ref="6956477360"/>
+    <nd ref="389334502"/>
+    <nd ref="6956477343"/>
+    <nd ref="6956477342"/>
+    <nd ref="6956477341"/>
+    <nd ref="6956477340"/>
+    <nd ref="6956477339"/>
+    <nd ref="6956477338"/>
+    <nd ref="6956477337"/>
+    <nd ref="6956477336"/>
+    <nd ref="6956477335"/>
+    <nd ref="6956477334"/>
+    <nd ref="6956477333"/>
+    <nd ref="6956477332"/>
+    <nd ref="6956477331"/>
+    <nd ref="6956477330"/>
+    <nd ref="7252953141"/>
+    <nd ref="389334500"/>
+    <nd ref="4092003608"/>
+    <nd ref="389334499"/>
+    <tag k="source" v="KSJ2;(URL)"/>
+  </way>
+  <way id="887544987" version="1" timestamp="2020-12-22T14:27:42Z" changeset="96265190" uid="407245" user="kurauchi">
+    <nd ref="8251957378"/>
+    <nd ref="8251957375"/>
+    <nd ref="8251957374"/>
+    <nd ref="8251957372"/>
+    <nd ref="8251957362"/>
+    <nd ref="8251957370"/>
+    <nd ref="8251957363"/>
+    <nd ref="8251957371"/>
+    <nd ref="8251957364"/>
+    <nd ref="8251957365"/>
+    <nd ref="8251957369"/>
+    <nd ref="8251957366"/>
+    <nd ref="8251957368"/>
+    <nd ref="8251957367"/>
+    <nd ref="8251957373"/>
+    <nd ref="8251957358"/>
+    <nd ref="8251957359"/>
+    <nd ref="8251957360"/>
+    <nd ref="8251957361"/>
+    <nd ref="8251957376"/>
+    <nd ref="8251957377"/>
+    <nd ref="8251957378"/>
+  </way>
+  <relation id="12077221" version="4" timestamp="2026-04-29T06:25:57Z" changeset="181971726" uid="156646" user="archie">
+    <member type="way" ref="887544987" role="inner"/>
+    <member type="way" ref="33976878" role="outer"/>
+    <tag k="addr:block_number" v="1"/>
+    <tag k="addr:city" v="江東区"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:neighbourhood" v="三好四丁目"/>
+    <tag k="addr:postcode" v="135-0022"/>
+    <tag k="addr:province" v="東京都"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="building" v="yes"/>
+    <tag k="fee" v="yes"/>
+    <tag k="layer" v="1"/>
+    <tag k="museum" v="art"/>
+    <tag k="name" v="東京都現代美術館"/>
+    <tag k="name:de" v="Museum für zeitgenössische Kunst Tokio"/>
+    <tag k="name:en" v="Museum of Contemporary Art Tokyo"/>
+    <tag k="name:es" v="Museo de arte contemporáneo de Tokio"/>
+    <tag k="name:fr" v="Musée d'art contemporain de Tokyo"/>
+    <tag k="name:ja" v="東京都現代美術館"/>
+    <tag k="opening_hours" v="Tu-Su 10:00-18:00; Mo off"/>
+    <tag k="operator" v="東京都歴史文化財団"/>
+    <tag k="phone" v="+81-3-52454111"/>
+    <tag k="toilets" v="yes"/>
+    <tag k="tourism" v="museum"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="website" v="https://www.mot-art-museum.jp/"/>
+    <tag k="wikidata" v="Q1649688"/>
+    <tag k="wikipedia" v="ja:東京都現代美術館"/>
+  </relation>
+
+</osm>

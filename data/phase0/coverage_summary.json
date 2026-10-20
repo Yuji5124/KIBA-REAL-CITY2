@@ -1,0 +1,22 @@
+{
+  "park_area_m2": 238551.6,
+  "inside_legacy_m2": 130107.8,
+  "outside_legacy_m2": 108443.9,
+  "outside_pct": 45.46,
+  "park_inside_dem1a_cache_pct": 70.97,
+  "tiles": 55,
+  "tiles_full": 16,
+  "tiles_partial": 14,
+  "tiles_none": 25,
+  "bridge_bounds_local_m": [
+    58.7,
+    19.5,
+    118.0,
+    268.3
+  ],
+  "bridge_inside_legacy": false,
+  "g62_pylon_local_m": [
+    82.1,
+    132.1
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "test_date": "2026-10-17",
+  "blender_version": "4.4.3",
+  "addon_version": "1.8",
+  "protocol_version": 13,
+  "tests": {
+    "connection": "PASS",
+    "scene_creation": "PASS",
+    "cube_generation": "PASS",
+    "glb_export": "PASS",
+    "glb_validation": "PASS"
+  },
+  "glb_file": {
+    "path": "C:\\Users\\hp\\Desktop\\KIBA-REAL-CITY\\tests\\blender_mcp\\test_cube.glb",
+    "exists": true,
+    "size_bytes": 1788
+  },
+  "cube_info": {
+    "name": "MCP_Test_Cube.001",
+    "dimensions": "2.0 x 2.0 x 2.0 m",
+    "vertices": 8,
+    "faces": 6,
+    "edges": 12
+  },
+  "original_scene_preserved": true
+}

@@ -1,0 +1,36 @@
+import { cp, mkdir, readFile, writeFile } from 'node:fs/promises';
+import { join, resolve } from 'node:path';
+const root=resolve(process.argv[2]||'.'), build=join(root,'build-phase2f');
+const source=join(root,'build-phase2e','web','phase2e'), out=join(build,'web','phase2f');
+await mkdir(out,{recursive:true}); await cp(source,out,{recursive:true,force:true});
+await cp(join(root,'build-phase2e','data'),join(build,'data'),{recursive:true,force:true});
+await cp(join(root,'build-phase2e','reports'),join(build,'reports'),{recursive:true,force:true});
+await mkdir(join(build,'data','processed','phase2f'),{recursive:true});
+await cp(join(root,'data','processed','phase2f','bridge_deck_candidate.json'),join(build,'data','processed','phase2f','bridge_deck_candidate.json'),{force:true});
+const baseline=join(build,'web','phase2e-before'); await mkdir(baseline,{recursive:true}); await cp(source,baseline,{recursive:true,force:true});
+let bh=await readFile(join(baseline,'index.html'),'utf8'); bh=bh.replace('<button id="test">24m移動テスト</button>','<button id="test">24m移動テスト</button><button id="saveShot">画面PNG保存</button>'); await writeFile(join(baseline,'index.html'),bh);
+let ba=await readFile(join(baseline,'app.js'),'utf8');
+ba=ba.replace("new THREE.WebGLRenderer({antialias:false,powerPreference:'high-performance'})","new THREE.WebGLRenderer({antialias:false,powerPreference:'high-performance',preserveDrawingBuffer:true})"); ba=ba.replace("$('#debug').addEventListener('change'", "$('#saveShot').addEventListener('click',()=>{renderer.domElement.toBlob(async b=>{const r=await fetch('/__phase2f_screenshot__/phase2e_before_top.png',{method:'POST',body:b});status.textContent=r.ok?'PNG保存: screenshots/phase2f/phase2e_before_top.png':'PNG保存失敗'},'image/png')});$('#debug').addEventListener('change'"); await writeFile(join(baseline,'app.js'),ba);
+let app=await readFile(join(out,'app.js'),'utf8');
+app=app.replace("new THREE.WebGLRenderer({antialias:false,powerPreference:'high-performance'})","new THREE.WebGLRenderer({antialias:false,powerPreference:'high-performance',preserveDrawingBuffer:true})");
+function rep(a,b,label){if(!app.includes(a))throw Error(`Missing patch anchor: ${label}`);app=app.replace(a,b)}
+rep("const root=new THREE.Group(),navGroup=new THREE.Group(),foliageGroup=new THREE.Group(),bridgeGroup=new THREE.Group();scene.add(root,navGroup,foliageGroup,bridgeGroup);", "const root=new THREE.Group(),navGroup=new THREE.Group(),foliageGroup=new THREE.Group(),bridgeGroup=new THREE.Group(),deckGroup=new THREE.Group();scene.add(root,navGroup,foliageGroup,bridgeGroup,deckGroup);",'scene groups');
+rep('const materials={terrain:', 'const materials={deck:new THREE.MeshStandardMaterial({color:0xb5bac0,roughness:.88,side:THREE.DoubleSide}),gapDeck:new THREE.MeshStandardMaterial({color:0xe29a43,roughness:.8,side:THREE.DoubleSide}),terrain:','materials');
+rep("Promise.all([fetch('../../data/processed/phase2b/phase2b_scene.json')", "Promise.all([fetch('../../data/processed/phase2f/bridge_deck_candidate.json').then(r=>{if(!r.ok)throw Error(`Phase 2F HTTP ${r.status}`);return r.json()}),fetch('../../data/processed/phase2b/phase2b_scene.json')",'candidate load');
+rep('.then(async ([a,b,c])=>{render(a,b,c);', ".then(async ([deck,a,b,c])=>{render(a,b,c);for(const [kind,mat] of [['mapped_osm_route',materials.deck],['boundary_clipped_visual_candidate',materials.gapDeck]]){const p=[],i=[];for(const s of deck.surfaces.filter(q=>q.kind===kind)){const n=p.length/3;for(const v of s.corners)p.push(...v);i.push(n,n+2,n+1,n+1,n+2,n+3)}if(i.length){const g=new THREE.BufferGeometry();g.setAttribute('position',new THREE.Float32BufferAttribute(p,3));g.setIndex(i);g.computeVertexNormals();const m=new THREE.Mesh(g,mat);m.name=kind==='boundary_clipped_visual_candidate'?'推定橋面・境界クリップ補間・通行不可':'橋面候補・OSM経路・推定高';m.userData={collisionEnabled:false,estimated:true};deckGroup.add(m)}}",'candidate mesh');
+rep("$('#bridgeStatus').textContent=`G6.2表示 ${model.meshes}メッシュ · 見た目専用 · 橋面高さ未照合 · 橋梁13ラン要確認`;status.textContent='GLBは座標候補に登録 · Phase 2Cの橋梁移動面は推定/要確認のまま';", "$('#bridgeStatus').textContent=`G6.2 ${model.meshes}メッシュ · 新規橋面候補 ${deck.surfaces.length}区間 · 推定/通行不可`;status.textContent='Phase 2F橋面候補は見た目専用 · 移動判定はPhase 2Cから不変';",'status');
+rep("$('#viewStatus').textContent='橋梁地上視点';updateVegetationLOD();return;}", "$('#viewStatus').textContent='橋梁地上視点';updateVegetationLOD();return;}if(mode==='side'){controls.enabled=false;controls.target.set(80,17,-170);camera.position.set(235,48,-170);camera.lookAt(80,17,-170);foliageGroup.visible=false;$('#viewStatus').textContent='橋梁側面視点';updateVegetationLOD();return;}",'side view');
+rep('bridgeGroup.traverse(o=>{if(o.isMesh)meshes++});perf.textContent=', 'bridgeGroup.traverse(o=>{if(o.isMesh)meshes++});deckGroup.traverse(o=>{if(o.isMesh)meshes++});perf.textContent=','metrics');
+rep("$('#viewBridge').addEventListener('click',()=>setView('bridge'));", "$('#viewBridge').addEventListener('click',()=>setView('bridge'));$('#viewSide').addEventListener('click',()=>setView('side'));$('#deckToggle').addEventListener('change',e=>deckGroup.visible=e.target.checked);",'controls');
+rep("$('#debug').addEventListener('change'", "$('#saveShot').addEventListener('click',()=>{const names={top:'phase2f_top.png',bridge:'phase2f_bridge.png',side:'phase2f_side.png',robot:'phase2f_robot.png'};renderer.domElement.toBlob(async b=>{const r=await fetch('/__phase2f_screenshot__/'+names[viewMode],{method:'POST',body:b});status.textContent=r.ok?'PNG保存: screenshots/phase2f/'+names[viewMode]:'PNG保存失敗'},'image/png')});$('#debug').addEventListener('change'",'screenshot');
+rep("camera.position.set(118,14,-102);camera.lookAt(82,10,-142);", "camera.position.set(155,42,-62);camera.lookAt(82,18,-142);foliageGroup.visible=false;",'bridge camera');
+rep("if(mode==='top'){controls.enabled=true;", "if(mode==='top'){foliageGroup.visible=true;controls.enabled=true;",'top foliage');
+rep("}else{controls.enabled=false;if(robotPos){", "}else{foliageGroup.visible=true;controls.enabled=false;if(robotPos){",'robot foliage');
+await writeFile(join(out,'app.js'),app);
+let html=await readFile(join(out,'index.html'),'utf8'); html=html.replaceAll('Phase 2E','Phase 2F').replace('木場公園 · Phase 2F G6.2統合','木場公園 · Phase 2F 橋面候補');
+html=html.replace('<button id="viewBridge">橋梁地上視点</button>', '<button id="viewBridge">橋梁地上視点</button><button id="viewSide">橋梁側面</button>');
+html=html.replace('<button id="test">24m移動テスト</button>', '<button id="test">24m移動テスト</button><button id="saveShot">画面PNG保存</button>');
+html=html.replace('<label><input id="debug" type="checkbox"> 移動判定レイヤーを表示</label>', '<label><input id="debug" type="checkbox"> 移動判定レイヤーを表示</label><label><input id="deckToggle" type="checkbox" checked> 推定橋面候補を表示（通行不可）</label>');
+html=html.replace('<span><i class="grass"></i>草地</span>', '<span><i class="grass"></i>草地</span><span><i class="estimated"></i>推定橋面</span>'); await writeFile(join(out,'index.html'),html);
+console.log(`Phase 2F viewer assembled: ${out}`);
+

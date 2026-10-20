@@ -1,0 +1,51 @@
+{
+  "phase": "KIBA PARK DRIVE Phase D1.1",
+  "browser": "http://127.0.0.1:8786/web/phaseD11/",
+  "testType": "live in-app browser interaction and rendered screenshots",
+  "roundTrip": "GOAL",
+  "turningTest": "PASS",
+  "operations": [
+    "Reset to A-course start and confirm four wheel contacts",
+    "W forward to the turnaround checkpoint",
+    "D steering while coasting at the mid-course location",
+    "S braking and reverse along the validated course ribbon",
+    "Return to route station 0 and allow speed to settle to 0.0 km/h; GOAL displayed"
+  ],
+  "wheelResidualsCm": {
+    "start": {"FL": 0.9, "FR": 1.5, "RL": 1.5, "RR": 0.9},
+    "midcourseAfterSteering": {"FL": 0.3, "FR": 2.1, "RL": 2.1, "RR": 0.3},
+    "returningReverseAtStation10_2m": {"FL": 3.0, "FR": -0.6, "RL": -0.6, "RR": 3.0},
+    "goal": {"FL": 1.7, "FR": 0.7, "RL": 0.7, "RR": 1.7}
+  },
+  "maximumAbsoluteObservedWheelResidualCm": 3.0,
+  "observedPitchRollDegrees": {
+    "start": {"pitch": 1.3, "roll": -0.3},
+    "midcourse": {"pitch": 1.3, "roll": -0.5},
+    "reverse": {"pitch": 0.4, "roll": 1.2},
+    "goal": {"pitch": 2.4, "roll": -2.7}
+  },
+  "demDeltaCm": {
+    "start": [10.7, 13.9, 9.4, 8.6],
+    "midcourse": [8.1, 14.6, 10.6, 9.1],
+    "meaning": "Rendered OSM road surface is used as support; these are differences from DEM sampling, not applied terrain edits."
+  },
+  "renderMetricsObserved": {
+    "fpsRange": [37.5, 60.1],
+    "typicalFps": 60.1,
+    "drawCallsRange": [147, 158],
+    "trianglesRange": [615344, 617170],
+    "meshes": 81
+  },
+  "bridge13RunsRemainBlocked": true,
+  "screenshotFiles": [
+    "screenshots/phaseD11/d11_after_start.png",
+    "screenshots/phaseD11/d11_midcourse.png",
+    "screenshots/phaseD11/d11_turnaround.png",
+    "screenshots/phaseD11/d11_return.png"
+  ],
+  "limitations": [
+    "DEV residuals are the four GLB wheel bounding-box lowest-point samples relative to the rendered OSM road triangles, not physical suspension or tire deformation.",
+    "The road-to-DEM differences near 8.6–14.6 cm reflect source surface disagreement; neither surface was modified.",
+    "37.5 FPS was a transient observed capture; most live HUD readings were 60.1 FPS."
+  ]
+}

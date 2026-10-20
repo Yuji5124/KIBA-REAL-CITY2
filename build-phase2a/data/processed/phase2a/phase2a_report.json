@@ -1,0 +1,52 @@
+{
+  "phase1Snapshot": {
+    "osmFiles": 16,
+    "phase1MeasuredVertices": 3640,
+    "phase1MissingVertices": 92,
+    "phase1MissingCells": 375
+  },
+  "demTileCount": 17,
+  "demMissingCauseCounts": {
+    "dem17_nodata+dem15_nodata": 92
+  },
+  "measuredVertices": 3640,
+  "interpolatedVertices": 92,
+  "unresolvedVertices": 0,
+  "phase1MeasuredHeightMaxDifferenceMetres": 0.0,
+  "interpolatedHeightRange": [
+    1.091,
+    5.328
+  ],
+  "interpolationMaxNeighborDistanceMetres": 28.808,
+  "roadInputWayCount": 143,
+  "roadRibbonRunCount": 146,
+  "roadRunsClippedToPark": 146,
+  "roadExcludedRunCount": 0,
+  "roadRenderedGroups": 3,
+  "roadMeshVertices": 17932,
+  "roadMeshTriangles": 17640,
+  "roadTotalCenterlineKm": 10.461,
+  "roadWidthRangeMetres": [
+    1.8,
+    5.5
+  ],
+  "roadClearanceMetres": {
+    "target": 0.06,
+    "observedMin": 0.06,
+    "observedMax": 0.06,
+    "negativeClearanceSamples": 0,
+    "clearanceVariance": 0.0,
+    "note": "The ribbon vertices are sampled on the terrain surface then raised by exactly 0.06m; edge locations using nearest valid terrain fallback are counted separately."
+  },
+  "roadHeightChangeBetweenAdjacentStationsMetres": {
+    "max": 0.655,
+    "maxGradeRatio": 0.7058
+  },
+  "terrainFaceCountPhase1": 6766,
+  "terrainFaceCountPhase2": 7020,
+  "terrainGapCellsPhase1": 375,
+  "terrainGapCellsPhase2": 0,
+  "terrainFallbackSamplesForRoadEdges": 1793,
+  "pathwaySegmentContinuity": "raw OSM paths clipped at park boundary; no out-of-bound vertex filtering joins",
+  "fpsMeasurement": "browser runtime display; captured during visual review, varies by device"
+}

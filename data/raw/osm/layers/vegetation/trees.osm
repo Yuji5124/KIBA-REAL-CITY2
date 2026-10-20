@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2026-10-17T22:12:20Z"/>
+
+  <bounds minlat="35.6708181" minlon="139.8057307" maxlat="35.6808323" maxlon="139.8113834"/>
+
+  <node id="6616761083" lat="35.6747374" lon="139.8076518" version="1" timestamp="2019-07-15T14:59:42Z" changeset="72269626" uid="550560" user="OSMuser111107">
+    <tag k="natural" v="tree"/>
+  </node>
+  <node id="6616761084" lat="35.6749640" lon="139.8076491" version="1" timestamp="2019-07-15T14:59:42Z" changeset="72269626" uid="550560" user="OSMuser111107">
+    <tag k="natural" v="tree"/>
+  </node>
+  <node id="6616790785" lat="35.6746306" lon="139.8075793" version="1" timestamp="2019-07-15T14:59:42Z" changeset="72269626" uid="550560" user="OSMuser111107">
+    <tag k="natural" v="tree"/>
+  </node>
+  <node id="6616790800" lat="35.6724386" lon="139.8076625" version="1" timestamp="2019-07-15T14:59:42Z" changeset="72269626" uid="550560" user="OSMuser111107">
+    <tag k="natural" v="tree"/>
+  </node>
+  <node id="6616790801" lat="35.6718699" lon="139.8074667" version="1" timestamp="2019-07-15T14:59:42Z" changeset="72269626" uid="550560" user="OSMuser111107">
+    <tag k="natural" v="tree"/>
+  </node>
+  <node id="6616790802" lat="35.6721641" lon="139.8082848" version="1" timestamp="2019-07-15T14:59:42Z" changeset="72269626" uid="550560" user="OSMuser111107">
+    <tag k="natural" v="tree"/>
+  </node>
+  <node id="6616790803" lat="35.6719549" lon="139.8077912" version="1" timestamp="2019-07-15T14:59:42Z" changeset="72269626" uid="550560" user="OSMuser111107">
+    <tag k="natural" v="tree"/>
+  </node>
+  <node id="6616790804" lat="35.6723689" lon="139.8085691" version="1" timestamp="2019-07-15T14:59:42Z" changeset="72269626" uid="550560" user="OSMuser111107">
+    <tag k="natural" v="tree"/>
+  </node>
+  <node id="6616790805" lat="35.6727110" lon="139.8085181" version="1" timestamp="2019-07-15T14:59:42Z" changeset="72269626" uid="550560" user="OSMuser111107">
+    <tag k="natural" v="tree"/>
+  </node>
+  <node id="6616790806" lat="35.6728483" lon="139.8084537" version="1" timestamp="2019-07-15T14:59:42Z" changeset="72269626" uid="550560" user="OSMuser111107">
+    <tag k="natural" v="tree"/>
+  </node>
+  <node id="6616790807" lat="35.6727786" lon="139.8088963" version="1" timestamp="2019-07-15T14:59:42Z" changeset="72269626" uid="550560" user="OSMuser111107">
+    <tag k="natural" v="tree"/>
+  </node>
+  <node id="6616790808" lat="35.6729028" lon="139.8078851" version="1" timestamp="2019-07-15T14:59:42Z" changeset="72269626" uid="550560" user="OSMuser111107">
+    <tag k="natural" v="tree"/>
+  </node>
+  <node id="6616790809" lat="35.6726217" lon="139.8090304" version="1" timestamp="2019-07-15T14:59:42Z" changeset="72269626" uid="550560" user="OSMuser111107">
+    <tag k="natural" v="tree"/>
+  </node>
+  <node id="6616790810" lat="35.6723755" lon="139.8087783" version="1" timestamp="2019-07-15T14:59:42Z" changeset="72269626" uid="550560" user="OSMuser111107">
+    <tag k="natural" v="tree"/>
+  </node>
+  <node id="6616790811" lat="35.6722382" lon="139.8088346" version="1" timestamp="2019-07-15T14:59:42Z" changeset="72269626" uid="550560" user="OSMuser111107">
+    <tag k="natural" v="tree"/>
+  </node>
+  <node id="6616790812" lat="35.6721292" lon="139.8088534" version="1" timestamp="2019-07-15T14:59:42Z" changeset="72269626" uid="550560" user="OSMuser111107">
+    <tag k="natural" v="tree"/>
+  </node>
+  <node id="6616790813" lat="35.6719222" lon="139.8086737" version="1" timestamp="2019-07-15T14:59:42Z" changeset="72269626" uid="550560" user="OSMuser111107">
+    <tag k="natural" v="tree"/>
+  </node>
+  <node id="6616790814" lat="35.6720203" lon="139.8085530" version="1" timestamp="2019-07-15T14:59:42Z" changeset="72269626" uid="550560" user="OSMuser111107">
+    <tag k="natural" v="tree"/>
+  </node>
+  <node id="6616790817" lat="35.6721314" lon="139.8077644" version="1" timestamp="2019-07-15T14:59:42Z" changeset="72269626" uid="550560" user="OSMuser111107">
+    <tag k="natural" v="tree"/>
+  </node>
+  <node id="6616790818" lat="35.6720530" lon="139.8077456" version="1" timestamp="2019-07-15T14:59:42Z" changeset="72269626" uid="550560" user="OSMuser111107">
+    <tag k="natural" v="tree"/>
+  </node>
+  <node id="6616790819" lat="35.6719310" lon="139.8083009" version="1" timestamp="2019-07-15T14:59:42Z" changeset="72269626" uid="550560" user="OSMuser111107">
+    <tag k="natural" v="tree"/>
+  </node>
+  <node id="6616790820" lat="35.6731054" lon="139.8081989" version="1" timestamp="2019-07-15T14:59:42Z" changeset="72269626" uid="550560" user="OSMuser111107">
+    <tag k="natural" v="tree"/>
+  </node>
+  <node id="6616790821" lat="35.6733364" lon="139.8081372" version="1" timestamp="2019-07-15T14:59:42Z" changeset="72269626" uid="550560" user="OSMuser111107">
+    <tag k="natural" v="tree"/>
+  </node>
+  <node id="6616790822" lat="35.6731446" lon="139.8084618" version="1" timestamp="2019-07-15T14:59:42Z" changeset="72269626" uid="550560" user="OSMuser111107">
+    <tag k="natural" v="tree"/>
+  </node>
+  <node id="6616790823" lat="35.6731206" lon="139.8088695" version="1" timestamp="2019-07-15T14:59:42Z" changeset="72269626" uid="550560" user="OSMuser111107">
+    <tag k="natural" v="tree"/>
+  </node>
+  <node id="6616790824" lat="35.6733015" lon="139.8085959" version="1" timestamp="2019-07-15T14:59:42Z" changeset="72269626" uid="550560" user="OSMuser111107">
+    <tag k="natural" v="tree"/>
+  </node>
+  <node id="6616790825" lat="35.6730487" lon="139.8089929" version="1" timestamp="2019-07-15T14:59:42Z" changeset="72269626" uid="550560" user="OSMuser111107">
+    <tag k="natural" v="tree"/>
+  </node>
+  <node id="6982871965" lat="35.6764953" lon="139.8080974" version="1" timestamp="2019-11-16T15:29:01Z" changeset="77167651" uid="7115748" user="Daaaaaaa">
+    <tag k="natural" v="tree"/>
+  </node>
+  <node id="6982871966" lat="35.6764990" lon="139.8082051" version="2" timestamp="2020-02-29T05:52:33Z" changeset="81612806" uid="10814707" user="sinn156b">
+    <tag k="amenity" v="bench"/>
+    <tag k="natural" v="tree"/>
+  </node>
+  <node id="6982871967" lat="35.6765030" lon="139.8083209" version="1" timestamp="2019-11-16T15:29:01Z" changeset="77167651" uid="7115748" user="Daaaaaaa">
+    <tag k="natural" v="tree"/>
+  </node>
+  <node id="6982871968" lat="35.6765067" lon="139.8084276" version="1" timestamp="2019-11-16T15:29:01Z" changeset="77167651" uid="7115748" user="Daaaaaaa">
+    <tag k="natural" v="tree"/>
+  </node>
+  <node id="6982871969" lat="35.6765126" lon="139.8085994" version="1" timestamp="2019-11-16T15:29:01Z" changeset="77167651" uid="7115748" user="Daaaaaaa">
+    <tag k="natural" v="tree"/>
+  </node>
+  <node id="6982871970" lat="35.6765237" lon="139.8089247" version="1" timestamp="2019-11-16T15:29:01Z" changeset="77167651" uid="7115748" user="Daaaaaaa">
+    <tag k="natural" v="tree"/>
+  </node>
+  <node id="6982871971" lat="35.6765293" lon="139.8090862" version="1" timestamp="2019-11-16T15:29:01Z" changeset="77167651" uid="7115748" user="Daaaaaaa">
+    <tag k="natural" v="tree"/>
+  </node>
+  <node id="6982871972" lat="35.6765326" lon="139.8091838" version="1" timestamp="2019-11-16T15:29:01Z" changeset="77167651" uid="7115748" user="Daaaaaaa">
+    <tag k="natural" v="tree"/>
+  </node>
+  <node id="6982871973" lat="35.6765629" lon="139.8080920" version="1" timestamp="2019-11-16T15:29:01Z" changeset="77167651" uid="7115748" user="Daaaaaaa">
+    <tag k="natural" v="tree"/>
+  </node>
+  <node id="6982871974" lat="35.6765666" lon="139.8081997" version="1" timestamp="2019-11-16T15:29:01Z" changeset="77167651" uid="7115748" user="Daaaaaaa">
+    <tag k="natural" v="tree"/>
+  </node>
+  <node id="6982871975" lat="35.6765705" lon="139.8083156" version="1" timestamp="2019-11-16T15:29:01Z" changeset="77167651" uid="7115748" user="Daaaaaaa">
+    <tag k="natural" v="tree"/>
+  </node>
+  <node id="6982871976" lat="35.6765742" lon="139.8084222" version="1" timestamp="2019-11-16T15:29:01Z" changeset="77167651" uid="7115748" user="Daaaaaaa">
+    <tag k="natural" v="tree"/>
+  </node>
+  <node id="6982871977" lat="35.6765801" lon="139.8085940" version="1" timestamp="2019-11-16T15:29:01Z" changeset="77167651" uid="7115748" user="Daaaaaaa">
+    <tag k="natural" v="tree"/>
+  </node>
+  <node id="6982871978" lat="35.6765913" lon="139.8089193" version="1" timestamp="2019-11-16T15:29:01Z" changeset="77167651" uid="7115748" user="Daaaaaaa">
+    <tag k="natural" v="tree"/>
+  </node>
+  <node id="6982871979" lat="35.6765968" lon="139.8090809" version="1" timestamp="2019-11-16T15:29:01Z" changeset="77167651" uid="7115748" user="Daaaaaaa">
+    <tag k="natural" v="tree"/>
+  </node>
+  <node id="6982871980" lat="35.6766002" lon="139.8091785" version="1" timestamp="2019-11-16T15:29:01Z" changeset="77167651" uid="7115748" user="Daaaaaaa">
+    <tag k="natural" v="tree"/>
+  </node>
+
+</osm>

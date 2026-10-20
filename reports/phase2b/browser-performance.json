@@ -1,0 +1,23 @@
+{
+  "verification": "Measured in the local browser after full load with debug points hidden; HUD sampled by live accessibility state.",
+  "viewportPixels": [1280, 720],
+  "devicePixelRatio": 1.0,
+  "phase2a": {
+    "liveHudFpsSamplesAfterWarmup": [60.1, 54.3],
+    "drawCalls": 7,
+    "renderedTriangles": 25465,
+    "meshCount": 6
+  },
+  "phase2b": {
+    "liveHudFpsSample": 60.1,
+    "drawCalls": 8,
+    "renderedTriangles": 525352,
+    "meshCount": 8
+  },
+  "comparison": {
+    "triangleMultiplier": 20.63,
+    "drawCallDelta": 1,
+    "meshDelta": 2
+  },
+  "note": "Screenshot pixels sometimes show 0.0 FPS because capture pauses requestAnimationFrame; the live HUD accessibility read before/after capture showed 60.0 FPS. Background tabs may be throttled to 1 FPS. Values are specific to this workstation/browser and are not a device-independent benchmark."
+}

@@ -1,0 +1,59 @@
+{
+  "phase": "2G",
+  "result": "PASS",
+  "navUnchanged": true,
+  "phase2cNavSha256": "2a127eff41dce83fb98b3fc725bcc130d060495f3b2c2ffcc27e65bca7578b55",
+  "candidateQuads": 320,
+  "mappedQuads": 319,
+  "visualOnlyGapQuads": 1,
+  "finiteCoordinateVertices": 1280,
+  "bridgeRuns": {
+    "review": 8,
+    "blocked": 5,
+    "walkable": 0,
+    "reviewSegments": 760,
+    "blockedSegments": 146
+  },
+  "robotTest": {
+    "result": "PASS",
+    "way": "777288664",
+    "distanceMetres": 24,
+    "sweptProbes": 326,
+    "reviewCrossings": 0,
+    "stairs": "BLOCK",
+    "over35Percent": "BLOCK",
+    "gap": "BLOCK",
+    "boundary": "BLOCK"
+  },
+  "browserViews": [
+    "top",
+    "bridge",
+    "side",
+    "robot"
+  ],
+  "screenshots": {
+    "phase2g_top.png": {
+      "width": 1280,
+      "height": 720,
+      "bytes": 191409
+    },
+    "phase2g_bridge.png": {
+      "width": 1280,
+      "height": 720,
+      "bytes": 371071
+    },
+    "phase2g_side.png": {
+      "width": 1280,
+      "height": 720,
+      "bytes": 298941
+    },
+    "phase2g_robot.png": {
+      "width": 1280,
+      "height": 720,
+      "bytes": 74222
+    }
+  },
+  "collisionEnabled": false,
+  "navigationModified": false,
+  "unresolvedOverallLengthMetres": 100.555
+}

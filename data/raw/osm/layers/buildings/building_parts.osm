@@ -1,0 +1,1091 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2026-10-17T22:10:21Z"/>
+
+  <bounds minlat="35.6708181" minlon="139.8057307" maxlat="35.6808323" maxlon="139.8113834"/>
+
+  <node id="14269642742" lat="35.6789555" lon="139.8055777" version="1" timestamp="2026-10-10T03:54:49Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269642743" lat="35.6789632" lon="139.8057491" version="1" timestamp="2026-10-10T03:54:49Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269642744" lat="35.6789674" lon="139.8058468" version="1" timestamp="2026-10-10T03:54:49Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269642745" lat="35.6789314" lon="139.8058493" version="1" timestamp="2026-10-10T03:54:49Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269642746" lat="35.6789363" lon="139.8059621" version="1" timestamp="2026-10-10T03:54:49Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269642747" lat="35.6788421" lon="139.8059685" version="1" timestamp="2026-10-10T03:54:49Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269642748" lat="35.6788213" lon="139.8055046" version="1" timestamp="2026-10-10T03:54:49Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269642749" lat="35.6787719" lon="139.8055080" version="1" timestamp="2026-10-10T03:54:49Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269642750" lat="35.6787635" lon="139.8053194" version="1" timestamp="2026-10-10T03:54:49Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269642751" lat="35.6789056" lon="139.8053098" version="1" timestamp="2026-10-10T03:54:49Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269642752" lat="35.6789104" lon="139.8054174" version="1" timestamp="2026-10-10T03:54:49Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269642753" lat="35.6789481" lon="139.8054150" version="1" timestamp="2026-10-10T03:54:49Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269642785" lat="35.6769154" lon="139.8098942" version="1" timestamp="2026-10-10T03:54:49Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269642811" lat="35.6767805" lon="139.8074991" version="1" timestamp="2026-10-10T03:54:49Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269642812" lat="35.6768582" lon="139.8074970" version="1" timestamp="2026-10-10T03:54:49Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269642813" lat="35.6768640" lon="139.8078231" version="1" timestamp="2026-10-10T03:54:49Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269642814" lat="35.6767021" lon="139.8078274" version="1" timestamp="2026-10-10T03:54:49Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269642815" lat="35.6766963" lon="139.8075014" version="1" timestamp="2026-10-10T03:54:49Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269642816" lat="35.6767446" lon="139.8075000" version="1" timestamp="2026-10-10T03:54:49Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643575" lat="35.6775684" lon="139.8059694" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643576" lat="35.6775995" lon="139.8059650" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643577" lat="35.6776038" lon="139.8060090" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643578" lat="35.6775522" lon="139.8060165" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643579" lat="35.6775615" lon="139.8061139" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643580" lat="35.6776016" lon="139.8061081" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643581" lat="35.6776042" lon="139.8061343" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643582" lat="35.6775640" lon="139.8061401" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643583" lat="35.6775644" lon="139.8061445" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643584" lat="35.6776846" lon="139.8061273" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643585" lat="35.6776982" lon="139.8062707" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643586" lat="35.6775857" lon="139.8062868" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643587" lat="35.6775825" lon="139.8062528" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643588" lat="35.6775713" lon="139.8062543" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643589" lat="35.6775688" lon="139.8062275" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643590" lat="35.6775799" lon="139.8062258" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643591" lat="35.6775755" lon="139.8061797" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643592" lat="35.6775552" lon="139.8061826" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643593" lat="35.6775573" lon="139.8062042" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643594" lat="35.6775146" lon="139.8062102" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643595" lat="35.6775158" lon="139.8062229" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643596" lat="35.6774876" lon="139.8062269" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643597" lat="35.6774864" lon="139.8062142" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643598" lat="35.6774390" lon="139.8062210" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643599" lat="35.6773984" lon="139.8057928" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643600" lat="35.6775257" lon="139.8057746" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643601" lat="35.6775298" lon="139.8058186" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643602" lat="35.6775699" lon="139.8058129" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643603" lat="35.6775725" lon="139.8058403" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643604" lat="35.6775324" lon="139.8058459" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643605" lat="35.6775396" lon="139.8059204" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643606" lat="35.6775635" lon="139.8059169" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643814" lat="35.6790443" lon="139.8064210" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643815" lat="35.6790567" lon="139.8066468" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643816" lat="35.6789208" lon="139.8066580" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643817" lat="35.6789084" lon="139.8064320" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643818" lat="35.6789540" lon="139.8064283" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643831" lat="35.6792767" lon="139.8063276" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643832" lat="35.6793740" lon="139.8063205" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643833" lat="35.6793780" lon="139.8063202" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643834" lat="35.6793790" lon="139.8063417" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643835" lat="35.6793989" lon="139.8063403" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643836" lat="35.6794010" lon="139.8063825" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643837" lat="35.6793946" lon="139.8063829" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643838" lat="35.6793955" lon="139.8064018" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643839" lat="35.6793824" lon="139.8064028" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643840" lat="35.6793842" lon="139.8064373" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643841" lat="35.6794119" lon="139.8064352" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643842" lat="35.6794156" lon="139.8065091" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643843" lat="35.6793883" lon="139.8065111" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643844" lat="35.6793932" lon="139.8066109" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643845" lat="35.6792843" lon="139.8066188" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643846" lat="35.6792712" lon="139.8063281" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643863" lat="35.6800427" lon="139.8062987" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643864" lat="35.6800463" lon="139.8063662" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643865" lat="35.6800386" lon="139.8063668" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643866" lat="35.6800398" lon="139.8063885" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643867" lat="35.6800627" lon="139.8063867" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643868" lat="35.6800652" lon="139.8064339" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643869" lat="35.6800549" lon="139.8064348" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643870" lat="35.6800619" lon="139.8065661" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643871" lat="35.6798946" lon="139.8065795" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269643872" lat="35.6798803" lon="139.8063119" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269644383" lat="35.6800407" lon="139.8062603" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269644384" lat="35.6800573" lon="139.8062590" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269644385" lat="35.6800632" lon="139.8063697" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269644386" lat="35.6800466" lon="139.8063711" version="1" timestamp="2026-10-10T03:54:50Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269644517" lat="35.6756497" lon="139.8062797" version="1" timestamp="2026-10-10T03:54:52Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269644518" lat="35.6756519" lon="139.8063744" version="1" timestamp="2026-10-10T03:54:52Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269644519" lat="35.6755532" lon="139.8063779" version="1" timestamp="2026-10-10T03:54:52Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269644520" lat="35.6755504" lon="139.8062649" version="1" timestamp="2026-10-10T03:54:52Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269644521" lat="35.6755501" lon="139.8062510" version="1" timestamp="2026-10-10T03:54:52Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269644522" lat="35.6755607" lon="139.8062507" version="1" timestamp="2026-10-10T03:54:52Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269644523" lat="35.6756062" lon="139.8062490" version="1" timestamp="2026-10-10T03:54:52Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269644524" lat="35.6756171" lon="139.8062487" version="1" timestamp="2026-10-10T03:54:52Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269644525" lat="35.6756167" lon="139.8062311" version="1" timestamp="2026-10-10T03:54:52Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269644526" lat="35.6756495" lon="139.8062300" version="1" timestamp="2026-10-10T03:54:52Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269644527" lat="35.6756499" lon="139.8062481" version="1" timestamp="2026-10-10T03:54:52Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269644528" lat="35.6756768" lon="139.8062471" version="1" timestamp="2026-10-10T03:54:52Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269644529" lat="35.6756775" lon="139.8062787" version="1" timestamp="2026-10-10T03:54:52Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269644932" lat="35.6786269" lon="139.8059982" version="1" timestamp="2026-10-10T03:54:52Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269644933" lat="35.6786675" lon="139.8059953" version="1" timestamp="2026-10-10T03:54:52Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269644934" lat="35.6789742" lon="139.8059733" version="1" timestamp="2026-10-10T03:54:52Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269644935" lat="35.6789755" lon="139.8060007" version="1" timestamp="2026-10-10T03:54:52Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269644936" lat="35.6789901" lon="139.8059997" version="1" timestamp="2026-10-10T03:54:52Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269644937" lat="35.6789932" lon="139.8060633" version="1" timestamp="2026-10-10T03:54:52Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269644938" lat="35.6789786" lon="139.8060643" version="1" timestamp="2026-10-10T03:54:52Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269644939" lat="35.6789794" lon="139.8060803" version="1" timestamp="2026-10-10T03:54:52Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269644940" lat="35.6789939" lon="139.8060792" version="1" timestamp="2026-10-10T03:54:52Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269644941" lat="35.6789969" lon="139.8061403" version="1" timestamp="2026-10-10T03:54:52Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269644942" lat="35.6789823" lon="139.8061414" version="1" timestamp="2026-10-10T03:54:52Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269644943" lat="35.6789846" lon="139.8061906" version="1" timestamp="2026-10-10T03:54:52Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269644944" lat="35.6786778" lon="139.8062126" version="1" timestamp="2026-10-10T03:54:52Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269644945" lat="35.6786368" lon="139.8062155" version="1" timestamp="2026-10-10T03:54:52Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269645279" lat="35.6771340" lon="139.8101885" version="1" timestamp="2026-10-10T03:54:52Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269645280" lat="35.6771302" lon="139.8101520" version="1" timestamp="2026-10-10T03:54:52Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269645281" lat="35.6772302" lon="139.8101362" version="1" timestamp="2026-10-10T03:54:52Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269645282" lat="35.6772340" lon="139.8101726" version="1" timestamp="2026-10-10T03:54:52Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269645283" lat="35.6772486" lon="139.8103113" version="1" timestamp="2026-10-10T03:54:52Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269645284" lat="35.6771589" lon="139.8103254" version="1" timestamp="2026-10-10T03:54:52Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269645285" lat="35.6771557" lon="139.8102946" version="1" timestamp="2026-10-10T03:54:52Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269645286" lat="35.6771454" lon="139.8102962" version="1" timestamp="2026-10-10T03:54:52Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269645398" lat="35.6776140" lon="139.8058860" version="1" timestamp="2026-10-10T03:54:52Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269645399" lat="35.6776100" lon="139.8058431" version="1" timestamp="2026-10-10T03:54:52Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269645400" lat="35.6776271" lon="139.8058406" version="1" timestamp="2026-10-10T03:54:52Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269645401" lat="35.6776311" lon="139.8058835" version="1" timestamp="2026-10-10T03:54:52Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269645423" lat="35.6755116" lon="139.8063851" version="1" timestamp="2026-10-10T03:54:52Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269645424" lat="35.6755003" lon="139.8063856" version="1" timestamp="2026-10-10T03:54:52Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269645425" lat="35.6754990" lon="139.8063036" version="1" timestamp="2026-10-10T03:54:52Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269645426" lat="35.6755116" lon="139.8062894" version="1" timestamp="2026-10-10T03:54:52Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269645427" lat="35.6755327" lon="139.8062656" version="1" timestamp="2026-10-10T03:54:52Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269645428" lat="35.6755533" lon="139.8063837" version="1" timestamp="2026-10-10T03:54:52Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269645490" lat="35.6791657" lon="139.8110180" version="1" timestamp="2026-10-10T03:54:57Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269645491" lat="35.6791594" lon="139.8110191" version="1" timestamp="2026-10-10T03:54:57Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269645492" lat="35.6791447" lon="139.8108609" version="1" timestamp="2026-10-10T03:54:57Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269645493" lat="35.6797715" lon="139.8107733" version="1" timestamp="2026-10-10T03:54:57Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269645494" lat="35.6797862" lon="139.8109314" version="1" timestamp="2026-10-10T03:54:57Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269645495" lat="35.6797371" lon="139.8109383" version="1" timestamp="2026-10-10T03:54:57Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269645496" lat="35.6797389" lon="139.8109596" version="1" timestamp="2026-10-10T03:54:57Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269645497" lat="35.6797025" lon="139.8109641" version="1" timestamp="2026-10-10T03:54:57Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269645498" lat="35.6797007" lon="139.8109434" version="1" timestamp="2026-10-10T03:54:57Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269645499" lat="35.6792170" lon="139.8110120" version="1" timestamp="2026-10-10T03:54:57Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269645500" lat="35.6792200" lon="139.8110506" version="1" timestamp="2026-10-10T03:54:57Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269645598" lat="35.6771849" lon="139.8114692" version="1" timestamp="2026-10-10T03:54:53Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269645599" lat="35.6771697" lon="139.8112896" version="1" timestamp="2026-10-10T03:54:53Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269645600" lat="35.6770916" lon="139.8112997" version="1" timestamp="2026-10-10T03:54:53Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269645601" lat="35.6770864" lon="139.8112390" version="1" timestamp="2026-10-10T03:54:53Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269645602" lat="35.6770825" lon="139.8111931" version="1" timestamp="2026-10-10T03:54:53Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269645603" lat="35.6771078" lon="139.8111899" version="1" timestamp="2026-10-10T03:54:53Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269645604" lat="35.6771056" lon="139.8111621" version="1" timestamp="2026-10-10T03:54:53Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269645605" lat="35.6771483" lon="139.8111569" version="1" timestamp="2026-10-10T03:54:53Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269645606" lat="35.6771505" lon="139.8111844" version="1" timestamp="2026-10-10T03:54:53Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269645607" lat="35.6774763" lon="139.8111427" version="1" timestamp="2026-10-10T03:54:53Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269645608" lat="35.6774844" lon="139.8112388" version="1" timestamp="2026-10-10T03:54:53Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269645609" lat="35.6775007" lon="139.8114289" version="1" timestamp="2026-10-10T03:54:53Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269646485" lat="35.6809329" lon="139.8114255" version="1" timestamp="2026-10-10T03:54:53Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269646486" lat="35.6809356" lon="139.8114572" version="1" timestamp="2026-10-10T03:54:53Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269646487" lat="35.6808491" lon="139.8114680" version="1" timestamp="2026-10-10T03:54:53Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269646488" lat="35.6808369" lon="139.8113234" version="1" timestamp="2026-10-10T03:54:53Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269646489" lat="35.6808318" lon="139.8112620" version="1" timestamp="2026-10-10T03:54:53Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269646490" lat="35.6808298" lon="139.8112379" version="1" timestamp="2026-10-10T03:54:53Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269646491" lat="35.6808234" lon="139.8111613" version="1" timestamp="2026-10-10T03:54:53Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269646492" lat="35.6809393" lon="139.8111468" version="1" timestamp="2026-10-10T03:54:53Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269646493" lat="35.6809469" lon="139.8112379" version="1" timestamp="2026-10-10T03:54:53Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269646494" lat="35.6809624" lon="139.8114217" version="1" timestamp="2026-10-10T03:54:53Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269646574" lat="35.6808189" lon="139.8113256" version="1" timestamp="2026-10-10T03:54:55Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269646575" lat="35.6808137" lon="139.8112642" version="1" timestamp="2026-10-10T03:54:55Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269646966" lat="35.6765359" lon="139.8099765" version="1" timestamp="2026-10-10T03:54:55Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269646967" lat="35.6765740" lon="139.8099753" version="1" timestamp="2026-10-10T03:54:55Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269646968" lat="35.6765749" lon="139.8100186" version="1" timestamp="2026-10-10T03:54:55Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269646969" lat="35.6765373" lon="139.8100197" version="1" timestamp="2026-10-10T03:54:55Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269647214" lat="35.6789501" lon="139.8063579" version="1" timestamp="2026-10-10T03:54:55Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269647215" lat="35.6790405" lon="139.8063505" version="1" timestamp="2026-10-10T03:54:55Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269647402" lat="35.6767751" lon="139.8056302" version="1" timestamp="2026-10-10T03:54:55Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269647403" lat="35.6767779" lon="139.8057645" version="1" timestamp="2026-10-10T03:54:55Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269647404" lat="35.6767446" lon="139.8057655" version="1" timestamp="2026-10-10T03:54:55Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269647405" lat="35.6767431" lon="139.8056884" version="1" timestamp="2026-10-10T03:54:55Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269647406" lat="35.6767518" lon="139.8056882" version="1" timestamp="2026-10-10T03:54:55Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269647407" lat="35.6767506" lon="139.8056315" version="1" timestamp="2026-10-10T03:54:55Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269647408" lat="35.6767312" lon="139.8053161" version="1" timestamp="2026-10-10T03:54:55Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269647501" lat="35.6791687" lon="139.8110565" version="1" timestamp="2026-10-10T03:54:57Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269647887" lat="35.6768601" lon="139.8113813" version="1" timestamp="2026-10-10T03:54:57Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269647888" lat="35.6768456" lon="139.8113830" version="1" timestamp="2026-10-10T03:54:57Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269647889" lat="35.6768358" lon="139.8112594" version="1" timestamp="2026-10-10T03:54:57Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269647890" lat="35.6768510" lon="139.8112575" version="1" timestamp="2026-10-10T03:54:57Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269647891" lat="35.6768495" lon="139.8112390" version="1" timestamp="2026-10-10T03:54:57Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269647892" lat="35.6768424" lon="139.8111483" version="1" timestamp="2026-10-10T03:54:57Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269647893" lat="35.6769378" lon="139.8111369" version="1" timestamp="2026-10-10T03:54:57Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269647894" lat="35.6769391" lon="139.8111527" version="1" timestamp="2026-10-10T03:54:57Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269647895" lat="35.6770086" lon="139.8111444" version="1" timestamp="2026-10-10T03:54:57Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269647896" lat="35.6770160" lon="139.8112390" version="1" timestamp="2026-10-10T03:54:57Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269647897" lat="35.6770257" lon="139.8113616" version="1" timestamp="2026-10-10T03:54:57Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269647898" lat="35.6768661" lon="139.8114581" version="1" timestamp="2026-10-10T03:54:57Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269647899" lat="35.6770318" lon="139.8114384" version="1" timestamp="2026-10-10T03:54:57Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269647955" lat="35.6763859" lon="139.8058097" version="1" timestamp="2026-10-10T03:54:57Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269647956" lat="35.6763894" lon="139.8059685" version="1" timestamp="2026-10-10T03:54:57Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269647957" lat="35.6763743" lon="139.8059614" version="1" timestamp="2026-10-10T03:54:57Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269647958" lat="35.6763557" lon="139.8059510" version="1" timestamp="2026-10-10T03:54:57Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269647959" lat="35.6763448" lon="139.8059414" version="1" timestamp="2026-10-10T03:54:57Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269647960" lat="35.6763293" lon="139.8059229" version="1" timestamp="2026-10-10T03:54:57Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269647961" lat="35.6763205" lon="139.8059112" version="1" timestamp="2026-10-10T03:54:57Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269647962" lat="35.6763097" lon="139.8058982" version="1" timestamp="2026-10-10T03:54:57Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269647963" lat="35.6763086" lon="139.8058459" version="1" timestamp="2026-10-10T03:54:57Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269647964" lat="35.6763078" lon="139.8058124" version="1" timestamp="2026-10-10T03:54:57Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269648251" lat="35.6792553" lon="139.8053583" version="1" timestamp="2026-10-10T03:54:57Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269648252" lat="35.6792358" lon="139.8050891" version="1" timestamp="2026-10-10T03:54:57Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269648253" lat="35.6793907" lon="139.8050723" version="1" timestamp="2026-10-10T03:54:57Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269648254" lat="35.6794036" lon="139.8052515" version="1" timestamp="2026-10-10T03:54:57Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269648255" lat="35.6793699" lon="139.8052552" version="1" timestamp="2026-10-10T03:54:57Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269648256" lat="35.6793954" lon="139.8056073" version="1" timestamp="2026-10-10T03:54:57Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269648257" lat="35.6794088" lon="139.8056059" version="1" timestamp="2026-10-10T03:54:57Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269648258" lat="35.6794133" lon="139.8056678" version="1" timestamp="2026-10-10T03:54:57Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269648259" lat="35.6794257" lon="139.8056664" version="1" timestamp="2026-10-10T03:54:57Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269648260" lat="35.6794340" lon="139.8057807" version="1" timestamp="2026-10-10T03:54:57Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269648261" lat="35.6793294" lon="139.8057920" version="1" timestamp="2026-10-10T03:54:57Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269648262" lat="35.6793194" lon="139.8056532" version="1" timestamp="2026-10-10T03:54:57Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269648263" lat="35.6792770" lon="139.8056578" version="1" timestamp="2026-10-10T03:54:57Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269648264" lat="35.6792710" lon="139.8055750" version="1" timestamp="2026-10-10T03:54:57Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269650130" lat="35.6806362" lon="139.8057560" version="1" timestamp="2026-10-10T03:55:00Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269650131" lat="35.6806349" lon="139.8057275" version="1" timestamp="2026-10-10T03:55:00Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269650132" lat="35.6807212" lon="139.8057221" version="1" timestamp="2026-10-10T03:55:00Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269650133" lat="35.6807251" lon="139.8057891" version="1" timestamp="2026-10-10T03:55:00Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269650134" lat="35.6806382" lon="139.8057946" version="1" timestamp="2026-10-10T03:55:00Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269650325" lat="35.6806444" lon="139.8059263" version="1" timestamp="2026-10-10T03:55:00Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269650326" lat="35.6806008" lon="139.8059304" version="1" timestamp="2026-10-10T03:55:00Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269650327" lat="35.6805940" lon="139.8057610" version="1" timestamp="2026-10-10T03:55:00Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269650596" lat="35.6776655" lon="139.8058787" version="1" timestamp="2026-10-10T03:55:02Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269650597" lat="35.6776714" lon="139.8059410" version="1" timestamp="2026-10-10T03:55:02Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269650598" lat="35.6776199" lon="139.8059483" version="1" timestamp="2026-10-10T03:55:02Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269651560" lat="35.6775481" lon="139.8059723" version="1" timestamp="2026-10-10T03:55:04Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269651938" lat="35.6789205" lon="139.8055798" version="1" timestamp="2026-10-10T03:55:04Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269651939" lat="35.6789279" lon="139.8057518" version="1" timestamp="2026-10-10T03:55:04Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269652194" lat="35.6806027" lon="139.8063256" version="1" timestamp="2026-10-10T03:55:04Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269652195" lat="35.6806389" lon="139.8063228" version="1" timestamp="2026-10-10T03:55:04Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269652196" lat="35.6806416" lon="139.8063720" version="1" timestamp="2026-10-10T03:55:04Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269652197" lat="35.6806279" lon="139.8063731" version="1" timestamp="2026-10-10T03:55:04Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269652198" lat="35.6806051" lon="139.8063739" version="1" timestamp="2026-10-10T03:55:04Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269652233" lat="35.6806736" lon="139.8063200" version="1" timestamp="2026-10-10T03:55:04Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269652234" lat="35.6806764" lon="139.8063693" version="1" timestamp="2026-10-10T03:55:04Z" changeset="190281206" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269652683" lat="35.6765412" lon="139.8101477" version="1" timestamp="2026-10-10T03:55:08Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269652684" lat="35.6765766" lon="139.8101461" version="1" timestamp="2026-10-10T03:55:08Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269652685" lat="35.6765783" lon="139.8101993" version="1" timestamp="2026-10-10T03:55:08Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269652686" lat="35.6765478" lon="139.8102008" version="1" timestamp="2026-10-10T03:55:08Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269652687" lat="35.6765489" lon="139.8102364" version="1" timestamp="2026-10-10T03:55:08Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269652688" lat="35.6765418" lon="139.8102367" version="1" timestamp="2026-10-10T03:55:08Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269652689" lat="35.6765424" lon="139.8102585" version="1" timestamp="2026-10-10T03:55:08Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269652690" lat="35.6764276" lon="139.8102638" version="1" timestamp="2026-10-10T03:55:08Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269652691" lat="35.6764179" lon="139.8099469" version="1" timestamp="2026-10-10T03:55:08Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269652692" lat="35.6765333" lon="139.8099415" version="1" timestamp="2026-10-10T03:55:08Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269652693" lat="35.6765341" lon="139.8099677" version="1" timestamp="2026-10-10T03:55:08Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269652694" lat="35.6765357" lon="139.8099676" version="1" timestamp="2026-10-10T03:55:08Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269652695" lat="35.6797086" lon="139.8055693" version="1" timestamp="2026-10-10T03:55:08Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269652696" lat="35.6797277" lon="139.8055673" version="1" timestamp="2026-10-10T03:55:08Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269652697" lat="35.6797420" lon="139.8057707" version="1" timestamp="2026-10-10T03:55:08Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269652698" lat="35.6797229" lon="139.8057727" version="1" timestamp="2026-10-10T03:55:08Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269652699" lat="35.6796784" lon="139.8051444" version="1" timestamp="2026-10-10T03:55:08Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269652700" lat="35.6796973" lon="139.8054108" version="1" timestamp="2026-10-10T03:55:08Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269652701" lat="35.6797271" lon="139.8058314" version="1" timestamp="2026-10-10T03:55:08Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269652702" lat="35.6797335" lon="139.8059219" version="1" timestamp="2026-10-10T03:55:08Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269652703" lat="35.6797397" lon="139.8060086" version="1" timestamp="2026-10-10T03:55:08Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269652704" lat="35.6796301" lon="139.8060230" version="1" timestamp="2026-10-10T03:55:08Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269652705" lat="35.6794702" lon="139.8060389" version="1" timestamp="2026-10-10T03:55:08Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269652706" lat="35.6794005" lon="139.8050449" version="1" timestamp="2026-10-10T03:55:08Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269652707" lat="35.6796693" lon="139.8050162" version="1" timestamp="2026-10-10T03:55:08Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269653964" lat="35.6768524" lon="139.8100828" version="1" timestamp="2026-10-10T03:55:10Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269653965" lat="35.6768389" lon="139.8099028" version="1" timestamp="2026-10-10T03:55:10Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269653966" lat="35.6769532" lon="139.8098898" version="1" timestamp="2026-10-10T03:55:10Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269653967" lat="35.6769618" lon="139.8100050" version="1" timestamp="2026-10-10T03:55:10Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269653968" lat="35.6769642" lon="139.8100048" version="1" timestamp="2026-10-10T03:55:10Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269653969" lat="35.6769737" lon="139.8101315" version="1" timestamp="2026-10-10T03:55:10Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269653970" lat="35.6769447" lon="139.8101348" version="1" timestamp="2026-10-10T03:55:10Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269653971" lat="35.6769455" lon="139.8101462" version="1" timestamp="2026-10-10T03:55:10Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269653972" lat="35.6768579" lon="139.8101561" version="1" timestamp="2026-10-10T03:55:10Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269653973" lat="35.6767443" lon="139.8074864" version="1" timestamp="2026-10-10T03:55:10Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269653974" lat="35.6767802" lon="139.8074854" version="1" timestamp="2026-10-10T03:55:10Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269654477" lat="35.6755600" lon="139.8062203" version="1" timestamp="2026-10-10T03:55:10Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269654478" lat="35.6756055" lon="139.8062187" version="1" timestamp="2026-10-10T03:55:10Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269655252" lat="35.6769400" lon="139.8100730" version="1" timestamp="2026-10-10T03:55:12Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269655562" lat="35.6762534" lon="139.8058478" version="1" timestamp="2026-10-10T03:55:12Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269655563" lat="35.6762527" lon="139.8058142" version="1" timestamp="2026-10-10T03:55:12Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269655708" lat="35.6797463" lon="139.8058295" version="1" timestamp="2026-10-10T03:55:13Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269655709" lat="35.6797526" lon="139.8059198" version="1" timestamp="2026-10-10T03:55:13Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269655864" lat="35.6768004" lon="139.8057956" version="1" timestamp="2026-10-10T03:55:13Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269655865" lat="35.6767995" lon="139.8057552" version="1" timestamp="2026-10-10T03:55:13Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269655866" lat="35.6768264" lon="139.8057543" version="1" timestamp="2026-10-10T03:55:13Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269655867" lat="35.6768303" lon="139.8059257" version="1" timestamp="2026-10-10T03:55:13Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269655868" lat="35.6765523" lon="139.8059352" version="1" timestamp="2026-10-10T03:55:13Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269655869" lat="35.6765511" lon="139.8058799" version="1" timestamp="2026-10-10T03:55:13Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269655870" lat="35.6765063" lon="139.8058815" version="1" timestamp="2026-10-10T03:55:13Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269655871" lat="35.6765077" lon="139.8059413" version="1" timestamp="2026-10-10T03:55:13Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269655872" lat="35.6765014" lon="139.8059415" version="1" timestamp="2026-10-10T03:55:13Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269655873" lat="35.6765019" lon="139.8059647" version="1" timestamp="2026-10-10T03:55:13Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269656101" lat="35.6792743" lon="139.8062667" version="1" timestamp="2026-10-10T03:55:13Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269656102" lat="35.6793705" lon="139.8062621" version="1" timestamp="2026-10-10T03:55:13Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269656421" lat="35.6767460" lon="139.8053147" version="1" timestamp="2026-10-10T03:55:13Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <node id="14269656422" lat="35.6767663" lon="139.8056311" version="1" timestamp="2026-10-10T03:55:13Z" changeset="190281215" uid="23288121" user="yoisho2734_import"/>
+  <way id="228511412" version="2" timestamp="2026-10-10T03:55:24Z" changeset="190281215" uid="23288121" user="yoisho2734_import">
+    <nd ref="14269642811"/>
+    <nd ref="14269642816"/>
+    <nd ref="14269642815"/>
+    <nd ref="14269642814"/>
+    <nd ref="14269642813"/>
+    <nd ref="14269642812"/>
+    <nd ref="14269642811"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="building:part" v="yes"/>
+    <tag k="ele" v="1.4"/>
+    <tag k="height" v="7.2"/>
+    <tag k="source" v="MLIT_PLATEAU 13108-bldg-25059"/>
+    <tag k="survey:date" v="2021"/>
+  </way>
+  <way id="617646741" version="2" timestamp="2026-10-10T03:55:24Z" changeset="190281215" uid="23288121" user="yoisho2734_import">
+    <nd ref="14269642743"/>
+    <nd ref="14269651939"/>
+    <nd ref="14269651938"/>
+    <nd ref="14269642742"/>
+    <nd ref="14269642753"/>
+    <nd ref="14269642752"/>
+    <nd ref="14269642751"/>
+    <nd ref="14269642750"/>
+    <nd ref="14269642749"/>
+    <nd ref="14269642748"/>
+    <nd ref="14269642747"/>
+    <nd ref="14269642746"/>
+    <nd ref="14269642745"/>
+    <nd ref="14269642744"/>
+    <nd ref="14269642743"/>
+    <tag k="building:levels" v="4"/>
+    <tag k="building:part" v="public"/>
+    <tag k="ele" v="0.6"/>
+    <tag k="height" v="19.4"/>
+    <tag k="name" v="区立深川第六中学校"/>
+    <tag k="source" v="MLIT_PLATEAU 13108-bldg-29100"/>
+    <tag k="survey:date" v="2021"/>
+  </way>
+  <way id="617646742" version="2" timestamp="2026-10-10T03:55:24Z" changeset="190281215" uid="23288121" user="yoisho2734_import">
+    <nd ref="14269644944"/>
+    <nd ref="14269644943"/>
+    <nd ref="14269644942"/>
+    <nd ref="14269644939"/>
+    <nd ref="14269644938"/>
+    <nd ref="14269644935"/>
+    <nd ref="14269644934"/>
+    <nd ref="14269644933"/>
+    <nd ref="14269644944"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="building:part" v="public"/>
+    <tag k="ele" v="0.1"/>
+    <tag k="height" v="10.7"/>
+    <tag k="source" v="MLIT_PLATEAU 13108-bldg-28911"/>
+    <tag k="survey:date" v="2021"/>
+  </way>
+  <way id="704572336" version="2" timestamp="2026-10-10T03:55:24Z" changeset="190281215" uid="23288121" user="yoisho2734_import">
+    <nd ref="14269647955"/>
+    <nd ref="14269647956"/>
+    <nd ref="14269655873"/>
+    <nd ref="14269655872"/>
+    <nd ref="14269655871"/>
+    <nd ref="14269655870"/>
+    <nd ref="14269655869"/>
+    <nd ref="14269655868"/>
+    <nd ref="14269655867"/>
+    <nd ref="14269655866"/>
+    <nd ref="14269655865"/>
+    <nd ref="14269655864"/>
+    <nd ref="14269647955"/>
+    <tag k="building:levels" v="12"/>
+    <tag k="building:part" v="apartments"/>
+    <tag k="ele" v="0.8"/>
+    <tag k="height" v="38.7"/>
+    <tag k="source" v="MLIT_PLATEAU 13108-bldg-24248"/>
+    <tag k="survey:date" v="2021"/>
+  </way>
+  <way id="795882954" version="2" timestamp="2026-10-10T03:55:24Z" changeset="190281215" uid="23288121" user="yoisho2734_import">
+    <nd ref="14269646969"/>
+    <nd ref="14269646966"/>
+    <nd ref="14269652694"/>
+    <nd ref="14269652693"/>
+    <nd ref="14269652692"/>
+    <nd ref="14269652691"/>
+    <nd ref="14269652690"/>
+    <nd ref="14269652689"/>
+    <nd ref="14269652688"/>
+    <nd ref="14269652687"/>
+    <nd ref="14269652686"/>
+    <nd ref="14269652685"/>
+    <nd ref="14269652684"/>
+    <nd ref="14269652683"/>
+    <nd ref="14269646969"/>
+    <tag k="building:levels" v="6"/>
+    <tag k="building:part" v="apartments"/>
+    <tag k="ele" v="0.8"/>
+    <tag k="height" v="25.4"/>
+    <tag k="source" v="MLIT_PLATEAU 13108-bldg-24508"/>
+    <tag k="survey:date" v="2021"/>
+  </way>
+  <way id="795882955" version="3" timestamp="2026-10-10T03:55:24Z" changeset="190281215" uid="23288121" user="yoisho2734_import">
+    <nd ref="14269653970"/>
+    <nd ref="14269653969"/>
+    <nd ref="14269653968"/>
+    <nd ref="14269653967"/>
+    <nd ref="14269653966"/>
+    <nd ref="14269642785"/>
+    <nd ref="14269653965"/>
+    <nd ref="14269653964"/>
+    <nd ref="14269655252"/>
+    <nd ref="14269653970"/>
+    <tag k="building:levels" v="5"/>
+    <tag k="building:part" v="commercial"/>
+    <tag k="ele" v="0.2"/>
+    <tag k="height" v="26.4"/>
+    <tag k="source" v="MLIT_PLATEAU 13108-bldg-25309"/>
+    <tag k="survey:date" v="2021"/>
+  </way>
+  <way id="798172566" version="2" timestamp="2026-10-10T03:55:24Z" changeset="190281215" uid="23288121" user="yoisho2734_import">
+    <nd ref="14269644517"/>
+    <nd ref="14269644529"/>
+    <nd ref="14269644528"/>
+    <nd ref="14269644527"/>
+    <nd ref="14269644526"/>
+    <nd ref="14269644525"/>
+    <nd ref="14269644524"/>
+    <nd ref="14269644523"/>
+    <nd ref="14269644522"/>
+    <nd ref="14269644521"/>
+    <nd ref="14269644520"/>
+    <nd ref="14269644519"/>
+    <nd ref="14269644518"/>
+    <nd ref="14269644517"/>
+    <tag k="building:levels" v="10"/>
+    <tag k="building:part" v="apartments"/>
+    <tag k="ele" v="1.8"/>
+    <tag k="height" v="37.9"/>
+    <tag k="source" v="MLIT_PLATEAU 13108-bldg-23031"/>
+    <tag k="survey:date" v="2021"/>
+  </way>
+  <way id="798630649" version="2" timestamp="2026-10-10T03:55:24Z" changeset="190281215" uid="23288121" user="yoisho2734_import">
+    <nd ref="14269643814"/>
+    <nd ref="14269643818"/>
+    <nd ref="14269643817"/>
+    <nd ref="14269643816"/>
+    <nd ref="14269643815"/>
+    <nd ref="14269643814"/>
+    <tag k="building:levels" v="3"/>
+    <tag k="building:part" v="commercial"/>
+    <tag k="ele" v="-0.1"/>
+    <tag k="height" v="16.4"/>
+    <tag k="source" v="MLIT_PLATEAU 13108-bldg-29389"/>
+    <tag k="survey:date" v="2021"/>
+  </way>
+  <way id="798630652" version="2" timestamp="2026-10-10T03:55:24Z" changeset="190281215" uid="23288121" user="yoisho2734_import">
+    <nd ref="14269643831"/>
+    <nd ref="14269643846"/>
+    <nd ref="14269643845"/>
+    <nd ref="14269643844"/>
+    <nd ref="14269643843"/>
+    <nd ref="14269643842"/>
+    <nd ref="14269643841"/>
+    <nd ref="14269643840"/>
+    <nd ref="14269643839"/>
+    <nd ref="14269643838"/>
+    <nd ref="14269643837"/>
+    <nd ref="14269643836"/>
+    <nd ref="14269643835"/>
+    <nd ref="14269643834"/>
+    <nd ref="14269643833"/>
+    <nd ref="14269643832"/>
+    <nd ref="14269643831"/>
+    <tag k="building:levels" v="7"/>
+    <tag k="building:part" v="apartments"/>
+    <tag k="ele" v="0"/>
+    <tag k="height" v="28.8"/>
+    <tag k="source" v="MLIT_PLATEAU 13108-bldg-30124"/>
+    <tag k="survey:date" v="2021"/>
+  </way>
+  <way id="798630656" version="2" timestamp="2026-10-10T03:55:24Z" changeset="190281215" uid="23288121" user="yoisho2734_import">
+    <nd ref="14269643863"/>
+    <nd ref="14269643872"/>
+    <nd ref="14269643871"/>
+    <nd ref="14269643870"/>
+    <nd ref="14269643869"/>
+    <nd ref="14269643868"/>
+    <nd ref="14269643867"/>
+    <nd ref="14269643866"/>
+    <nd ref="14269643865"/>
+    <nd ref="14269643864"/>
+    <nd ref="14269643863"/>
+    <tag k="building:levels" v="10"/>
+    <tag k="building:part" v="apartments"/>
+    <tag k="ele" v="-0.1"/>
+    <tag k="height" v="33.1"/>
+    <tag k="name" v="マイキャッスル木場公園"/>
+    <tag k="source" v="MLIT_PLATEAU 13108-bldg-31519"/>
+    <tag k="survey:date" v="2021"/>
+  </way>
+  <way id="801860769" version="2" timestamp="2026-10-10T03:55:24Z" changeset="190281215" uid="23288121" user="yoisho2734_import">
+    <nd ref="14269643575"/>
+    <nd ref="14269643606"/>
+    <nd ref="14269643605"/>
+    <nd ref="14269643604"/>
+    <nd ref="14269643603"/>
+    <nd ref="14269643602"/>
+    <nd ref="14269643601"/>
+    <nd ref="14269643600"/>
+    <nd ref="14269643599"/>
+    <nd ref="14269643598"/>
+    <nd ref="14269643597"/>
+    <nd ref="14269643596"/>
+    <nd ref="14269643595"/>
+    <nd ref="14269643594"/>
+    <nd ref="14269643593"/>
+    <nd ref="14269643592"/>
+    <nd ref="14269643591"/>
+    <nd ref="14269643590"/>
+    <nd ref="14269643589"/>
+    <nd ref="14269643588"/>
+    <nd ref="14269643587"/>
+    <nd ref="14269643586"/>
+    <nd ref="14269643585"/>
+    <nd ref="14269643584"/>
+    <nd ref="14269643583"/>
+    <nd ref="14269643582"/>
+    <nd ref="14269643581"/>
+    <nd ref="14269643580"/>
+    <nd ref="14269643579"/>
+    <nd ref="14269643578"/>
+    <nd ref="14269651560"/>
+    <nd ref="14269643575"/>
+    <tag k="building:levels" v="10"/>
+    <tag k="building:part" v="apartments"/>
+    <tag k="ele" v="0.5"/>
+    <tag k="height" v="34.8"/>
+    <tag k="name" v="木場公園平野三丁目ハイツ"/>
+    <tag k="name:en" v="Kiba Park #3 Hights"/>
+    <tag k="source" v="MLIT_PLATEAU 13108-bldg-26370"/>
+    <tag k="survey:date" v="2021"/>
+  </way>
+  <way id="887389125" version="2" timestamp="2026-10-10T03:55:24Z" changeset="190281215" uid="23288121" user="yoisho2734_import">
+    <nd ref="14269645282"/>
+    <nd ref="14269645279"/>
+    <nd ref="14269645286"/>
+    <nd ref="14269645285"/>
+    <nd ref="14269645284"/>
+    <nd ref="14269645283"/>
+    <nd ref="14269645282"/>
+    <tag k="building:levels" v="3"/>
+    <tag k="building:part" v="public"/>
+    <tag k="ele" v="0.7"/>
+    <tag k="height" v="10.2"/>
+    <tag k="source" v="MLIT_PLATEAU 13108-bldg-25856"/>
+    <tag k="survey:date" v="2021"/>
+  </way>
+  <way id="887389160" version="2" timestamp="2026-10-10T03:55:29Z" changeset="190281219" uid="23288121" user="yoisho2734_import">
+    <nd ref="14269647887"/>
+    <nd ref="14269647897"/>
+    <nd ref="14269647896"/>
+    <nd ref="14269647895"/>
+    <nd ref="14269647894"/>
+    <nd ref="14269647893"/>
+    <nd ref="14269647892"/>
+    <nd ref="14269647891"/>
+    <nd ref="14269647890"/>
+    <nd ref="14269647889"/>
+    <nd ref="14269647888"/>
+    <nd ref="14269647887"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="building:part" v="warehouse"/>
+    <tag k="ele" v="0.7"/>
+    <tag k="height" v="8.4"/>
+    <tag k="source" v="MLIT_PLATEAU 13108-bldg-25297"/>
+    <tag k="survey:date" v="2021"/>
+  </way>
+  <way id="887389161" version="2" timestamp="2026-10-10T03:55:29Z" changeset="190281219" uid="23288121" user="yoisho2734_import">
+    <nd ref="14269647898"/>
+    <nd ref="14269647899"/>
+    <nd ref="14269647897"/>
+    <nd ref="14269647887"/>
+    <nd ref="14269647898"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="building:part" v="warehouse"/>
+    <tag k="ele" v="0.7"/>
+    <tag k="height" v="8.1"/>
+    <tag k="source" v="MLIT_PLATEAU 13108-bldg-25298"/>
+    <tag k="survey:date" v="2021"/>
+  </way>
+  <way id="887389164" version="2" timestamp="2026-10-10T03:55:29Z" changeset="190281219" uid="23288121" user="yoisho2734_import">
+    <nd ref="14269645598"/>
+    <nd ref="14269645609"/>
+    <nd ref="14269645608"/>
+    <nd ref="14269645607"/>
+    <nd ref="14269645606"/>
+    <nd ref="14269645603"/>
+    <nd ref="14269645602"/>
+    <nd ref="14269645601"/>
+    <nd ref="14269645600"/>
+    <nd ref="14269645599"/>
+    <nd ref="14269645598"/>
+    <tag k="building:levels" v="5"/>
+    <tag k="building:part" v="commercial"/>
+    <tag k="ele" v="0.2"/>
+    <tag k="height" v="35.9"/>
+    <tag k="source" v="MLIT_PLATEAU 13108-bldg-25762"/>
+    <tag k="survey:date" v="2021"/>
+  </way>
+  <way id="887389186" version="2" timestamp="2026-10-10T03:55:29Z" changeset="190281219" uid="23288121" user="yoisho2734_import">
+    <nd ref="14269645498"/>
+    <nd ref="14269645495"/>
+    <nd ref="14269645494"/>
+    <nd ref="14269645493"/>
+    <nd ref="14269645492"/>
+    <nd ref="14269645491"/>
+    <nd ref="14269645490"/>
+    <nd ref="14269645499"/>
+    <nd ref="14269645498"/>
+    <tag k="building:levels" v="10"/>
+    <tag k="building:part" v="apartments"/>
+    <tag k="ele" v="1.2"/>
+    <tag k="height" v="30.8"/>
+    <tag k="source" v="MLIT_PLATEAU 13108-bldg-29847"/>
+    <tag k="survey:date" v="2021"/>
+  </way>
+  <way id="887544986" version="2" timestamp="2026-10-10T03:55:29Z" changeset="190281219" uid="23288121" user="yoisho2734_import">
+    <nd ref="14269652699"/>
+    <nd ref="14269652707"/>
+    <nd ref="14269652706"/>
+    <nd ref="14269652705"/>
+    <nd ref="14269652704"/>
+    <nd ref="14269652703"/>
+    <nd ref="14269652702"/>
+    <nd ref="14269652701"/>
+    <nd ref="14269652698"/>
+    <nd ref="14269652695"/>
+    <nd ref="14269652700"/>
+    <nd ref="14269652699"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="building:part" v="industrial"/>
+    <tag k="ele" v="0.6"/>
+    <tag k="height" v="12.6"/>
+    <tag k="source" v="MLIT_PLATEAU 13108-bldg-30437"/>
+    <tag k="survey:date" v="2021"/>
+  </way>
+  <way id="887547154" version="2" timestamp="2026-10-10T03:55:29Z" changeset="190281219" uid="23288121" user="yoisho2734_import">
+    <nd ref="14269652194"/>
+    <nd ref="14269652198"/>
+    <nd ref="14269652197"/>
+    <nd ref="14269652196"/>
+    <nd ref="14269652195"/>
+    <nd ref="14269652194"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="building:part" v="house"/>
+    <tag k="ele" v="0.3"/>
+    <tag k="height" v="8"/>
+    <tag k="source" v="MLIT_PLATEAU 13108-bldg-33294"/>
+    <tag k="survey:date" v="2021"/>
+  </way>
+  <way id="887547155" version="2" timestamp="2026-10-10T03:55:29Z" changeset="190281219" uid="23288121" user="yoisho2734_import">
+    <nd ref="14269652196"/>
+    <nd ref="14269652234"/>
+    <nd ref="14269652233"/>
+    <nd ref="14269652195"/>
+    <nd ref="14269652196"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="building:part" v="house"/>
+    <tag k="ele" v="0.3"/>
+    <tag k="height" v="7.9"/>
+    <tag k="source" v="MLIT_PLATEAU 13108-bldg-33381"/>
+    <tag k="survey:date" v="2021"/>
+  </way>
+  <way id="887547287" version="2" timestamp="2026-10-10T03:55:29Z" changeset="190281219" uid="23288121" user="yoisho2734_import">
+    <nd ref="14269650130"/>
+    <nd ref="14269650327"/>
+    <nd ref="14269650326"/>
+    <nd ref="14269650325"/>
+    <nd ref="14269650134"/>
+    <nd ref="14269650130"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="building:part" v="apartments"/>
+    <tag k="ele" v="0.2"/>
+    <tag k="height" v="9"/>
+    <tag k="source" v="MLIT_PLATEAU 13108-bldg-33280"/>
+    <tag k="survey:date" v="2021"/>
+  </way>
+  <way id="887547292" version="2" timestamp="2026-10-10T03:55:29Z" changeset="190281219" uid="23288121" user="yoisho2734_import">
+    <nd ref="14269650130"/>
+    <nd ref="14269650134"/>
+    <nd ref="14269650133"/>
+    <nd ref="14269650132"/>
+    <nd ref="14269650131"/>
+    <nd ref="14269650130"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="building:part" v="house"/>
+    <tag k="ele" v="0.4"/>
+    <tag k="height" v="7.8"/>
+    <tag k="source" v="MLIT_PLATEAU 13108-bldg-33281"/>
+    <tag k="survey:date" v="2021"/>
+  </way>
+  <way id="982001856" version="2" timestamp="2026-10-10T03:55:29Z" changeset="190281219" uid="23288121" user="yoisho2734_import">
+    <nd ref="14269646574"/>
+    <nd ref="14269646488"/>
+    <nd ref="14269646489"/>
+    <nd ref="14269646575"/>
+    <nd ref="14269646574"/>
+    <tag k="building:part" v="yes"/>
+    <tag k="ele" v="0.2"/>
+    <tag k="height" v="11.1"/>
+    <tag k="source" v="MLIT_PLATEAU 13108-bldg-33819"/>
+  </way>
+  <way id="982001860" version="2" timestamp="2026-10-10T03:55:29Z" changeset="190281219" uid="23288121" user="yoisho2734_import">
+    <nd ref="14269646485"/>
+    <nd ref="14269646494"/>
+    <nd ref="14269646493"/>
+    <nd ref="14269646492"/>
+    <nd ref="14269646491"/>
+    <nd ref="14269646490"/>
+    <nd ref="14269646489"/>
+    <nd ref="14269646488"/>
+    <nd ref="14269646487"/>
+    <nd ref="14269646486"/>
+    <nd ref="14269646485"/>
+    <tag k="building:levels" v="3"/>
+    <tag k="building:part" v="public"/>
+    <tag k="ele" v="0"/>
+    <tag k="height" v="15.6"/>
+    <tag k="source" v="MLIT_PLATEAU 13108-bldg-33820"/>
+    <tag k="survey:date" v="2021"/>
+  </way>
+  <way id="1566988701" version="1" timestamp="2026-10-10T03:55:19Z" changeset="190281215" uid="23288121" user="yoisho2734_import">
+    <nd ref="14269643863"/>
+    <nd ref="14269643864"/>
+    <nd ref="14269644386"/>
+    <nd ref="14269644385"/>
+    <nd ref="14269644384"/>
+    <nd ref="14269644383"/>
+    <nd ref="14269643863"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="building:part" v="apartments"/>
+    <tag k="ele" v="-0.1"/>
+    <tag k="height" v="28.7"/>
+    <tag k="source" v="MLIT_PLATEAU 13108-bldg-31520"/>
+    <tag k="survey:date" v="2021"/>
+  </way>
+  <way id="1566988757" version="1" timestamp="2026-10-10T03:55:21Z" changeset="190281215" uid="23288121" user="yoisho2734_import">
+    <nd ref="14269645398"/>
+    <nd ref="14269645401"/>
+    <nd ref="14269645400"/>
+    <nd ref="14269645399"/>
+    <nd ref="14269645398"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="building:part" v="apartments"/>
+    <tag k="ele" v="0.9"/>
+    <tag k="height" v="1.8"/>
+    <tag k="source" v="MLIT_PLATEAU 13108-bldg-26759"/>
+    <tag k="survey:date" v="2021"/>
+  </way>
+  <way id="1566988762" version="1" timestamp="2026-10-10T03:55:21Z" changeset="190281215" uid="23288121" user="yoisho2734_import">
+    <nd ref="14269645423"/>
+    <nd ref="14269645428"/>
+    <nd ref="14269644519"/>
+    <nd ref="14269644520"/>
+    <nd ref="14269645427"/>
+    <nd ref="14269645426"/>
+    <nd ref="14269645425"/>
+    <nd ref="14269645424"/>
+    <nd ref="14269645423"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="building:part" v="apartments"/>
+    <tag k="ele" v="1.7"/>
+    <tag k="height" v="16.2"/>
+    <tag k="source" v="MLIT_PLATEAU 13108-bldg-23030"/>
+    <tag k="survey:date" v="2021"/>
+  </way>
+  <way id="1566988898" version="1" timestamp="2026-10-10T03:55:21Z" changeset="190281215" uid="23288121" user="yoisho2734_import">
+    <nd ref="14269646966"/>
+    <nd ref="14269646969"/>
+    <nd ref="14269646968"/>
+    <nd ref="14269646967"/>
+    <nd ref="14269646966"/>
+    <tag k="building:levels" v="6"/>
+    <tag k="building:part" v="apartments"/>
+    <tag k="ele" v="0.9"/>
+    <tag k="height" v="18.3"/>
+    <tag k="source" v="MLIT_PLATEAU 13108-bldg-24509"/>
+    <tag k="survey:date" v="2021"/>
+  </way>
+  <way id="1566988912" version="1" timestamp="2026-10-10T03:55:21Z" changeset="190281215" uid="23288121" user="yoisho2734_import">
+    <nd ref="14269643818"/>
+    <nd ref="14269643814"/>
+    <nd ref="14269647215"/>
+    <nd ref="14269647214"/>
+    <nd ref="14269643818"/>
+    <tag k="building:part" v="yes"/>
+    <tag k="ele" v="0.3"/>
+    <tag k="height" v="11.4"/>
+    <tag k="source" v="MLIT_PLATEAU 13108-bldg-29390"/>
+  </way>
+  <way id="1566988997" version="1" timestamp="2026-10-10T03:55:21Z" changeset="190281215" uid="23288121" user="yoisho2734_import">
+    <nd ref="14269647955"/>
+    <nd ref="14269647964"/>
+    <nd ref="14269647963"/>
+    <nd ref="14269647962"/>
+    <nd ref="14269647961"/>
+    <nd ref="14269647960"/>
+    <nd ref="14269647959"/>
+    <nd ref="14269647958"/>
+    <nd ref="14269647957"/>
+    <nd ref="14269647956"/>
+    <nd ref="14269647955"/>
+    <tag k="building:levels" v="12"/>
+    <tag k="building:part" v="apartments"/>
+    <tag k="ele" v="0.7"/>
+    <tag k="height" v="10.6"/>
+    <tag k="source" v="MLIT_PLATEAU 13108-bldg-24247"/>
+    <tag k="survey:date" v="2021"/>
+  </way>
+  <way id="1566989016" version="1" timestamp="2026-10-10T03:55:21Z" changeset="190281215" uid="23288121" user="yoisho2734_import">
+    <nd ref="14269648251"/>
+    <nd ref="14269648264"/>
+    <nd ref="14269648263"/>
+    <nd ref="14269648262"/>
+    <nd ref="14269648261"/>
+    <nd ref="14269648260"/>
+    <nd ref="14269648259"/>
+    <nd ref="14269648258"/>
+    <nd ref="14269648257"/>
+    <nd ref="14269648256"/>
+    <nd ref="14269648255"/>
+    <nd ref="14269648254"/>
+    <nd ref="14269648253"/>
+    <nd ref="14269648252"/>
+    <nd ref="14269648251"/>
+    <tag k="building:part" v="yes"/>
+    <tag k="ele" v="0.5"/>
+    <tag k="height" v="32.7"/>
+    <tag k="source" v="MLIT_PLATEAU 13108-bldg-2505795"/>
+  </way>
+  <way id="1566989149" version="1" timestamp="2026-10-10T03:55:21Z" changeset="190281215" uid="23288121" user="yoisho2734_import">
+    <nd ref="14269645398"/>
+    <nd ref="14269650598"/>
+    <nd ref="14269650597"/>
+    <nd ref="14269650596"/>
+    <nd ref="14269645401"/>
+    <nd ref="14269645398"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="building:part" v="apartments"/>
+    <tag k="ele" v="0.9"/>
+    <tag k="height" v="3"/>
+    <tag k="source" v="MLIT_PLATEAU 13108-bldg-26760"/>
+    <tag k="survey:date" v="2021"/>
+  </way>
+  <way id="1566989255" version="1" timestamp="2026-10-10T03:55:21Z" changeset="190281215" uid="23288121" user="yoisho2734_import">
+    <nd ref="14269643575"/>
+    <nd ref="14269651560"/>
+    <nd ref="14269643578"/>
+    <nd ref="14269643577"/>
+    <nd ref="14269643576"/>
+    <nd ref="14269643575"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="building:part" v="apartments"/>
+    <tag k="ele" v="1"/>
+    <tag k="height" v="26.6"/>
+    <tag k="source" v="MLIT_PLATEAU 13108-bldg-26371"/>
+    <tag k="survey:date" v="2021"/>
+  </way>
+  <way id="1566989379" version="1" timestamp="2026-10-10T03:55:21Z" changeset="190281215" uid="23288121" user="yoisho2734_import">
+    <nd ref="14269652695"/>
+    <nd ref="14269652698"/>
+    <nd ref="14269652697"/>
+    <nd ref="14269652696"/>
+    <nd ref="14269652695"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="building:part" v="industrial"/>
+    <tag k="ele" v="1"/>
+    <tag k="height" v="8.9"/>
+    <tag k="source" v="MLIT_PLATEAU 13108-bldg-30440"/>
+    <tag k="survey:date" v="2021"/>
+  </way>
+  <way id="1566989413" version="1" timestamp="2026-10-10T03:55:21Z" changeset="190281215" uid="23288121" user="yoisho2734_import">
+    <nd ref="14269642742"/>
+    <nd ref="14269651938"/>
+    <nd ref="14269651939"/>
+    <nd ref="14269642743"/>
+    <nd ref="14269642742"/>
+    <tag k="building:levels" v="4"/>
+    <tag k="building:part" v="public"/>
+    <tag k="ele" v="0.7"/>
+    <tag k="height" v="13.6"/>
+    <tag k="source" v="MLIT_PLATEAU 13108-bldg-29101"/>
+    <tag k="survey:date" v="2021"/>
+  </way>
+  <way id="1566989473" version="1" timestamp="2026-10-10T03:55:21Z" changeset="190281215" uid="23288121" user="yoisho2734_import">
+    <nd ref="14269645282"/>
+    <nd ref="14269645281"/>
+    <nd ref="14269645280"/>
+    <nd ref="14269645279"/>
+    <nd ref="14269645282"/>
+    <tag k="building:part" v="yes"/>
+    <tag k="ele" v="0.8"/>
+    <tag k="height" v="9.1"/>
+    <tag k="source" v="MLIT_PLATEAU 13108-bldg-25855"/>
+  </way>
+  <way id="1566989575" version="1" timestamp="2026-10-10T03:55:21Z" changeset="190281215" uid="23288121" user="yoisho2734_import">
+    <nd ref="14269644522"/>
+    <nd ref="14269644523"/>
+    <nd ref="14269654478"/>
+    <nd ref="14269654477"/>
+    <nd ref="14269644522"/>
+    <tag k="building:part" v="yes"/>
+    <tag k="ele" v="2.1"/>
+    <tag k="height" v="31"/>
+    <tag k="source" v="MLIT_PLATEAU 13108-bldg-23032"/>
+  </way>
+  <way id="1566989580" version="1" timestamp="2026-10-10T03:55:21Z" changeset="190281215" uid="23288121" user="yoisho2734_import">
+    <nd ref="14269645499"/>
+    <nd ref="14269645490"/>
+    <nd ref="14269647501"/>
+    <nd ref="14269645500"/>
+    <nd ref="14269645499"/>
+    <tag k="building:part" v="yes"/>
+    <tag k="ele" v="1.1"/>
+    <tag k="height" v="23.9"/>
+    <tag k="source" v="MLIT_PLATEAU 13108-bldg-29848"/>
+  </way>
+  <way id="1566989590" version="1" timestamp="2026-10-10T03:55:21Z" changeset="190281215" uid="23288121" user="yoisho2734_import">
+    <nd ref="14269644939"/>
+    <nd ref="14269644942"/>
+    <nd ref="14269644941"/>
+    <nd ref="14269644940"/>
+    <nd ref="14269644939"/>
+    <tag k="building:part" v="yes"/>
+    <tag k="ele" v="0.4"/>
+    <tag k="height" v="6.2"/>
+    <tag k="source" v="MLIT_PLATEAU 13108-bldg-28912"/>
+  </way>
+  <way id="1566989634" version="1" timestamp="2026-10-10T03:55:21Z" changeset="190281215" uid="23288121" user="yoisho2734_import">
+    <nd ref="14269644523"/>
+    <nd ref="14269654478"/>
+    <nd ref="14269654477"/>
+    <nd ref="14269644522"/>
+    <nd ref="14269644521"/>
+    <nd ref="14269644520"/>
+    <nd ref="14269644519"/>
+    <nd ref="14269644518"/>
+    <nd ref="14269644517"/>
+    <nd ref="14269644529"/>
+    <nd ref="14269644528"/>
+    <nd ref="14269644527"/>
+    <nd ref="14269644526"/>
+    <nd ref="14269644525"/>
+    <nd ref="14269644524"/>
+    <nd ref="14269644523"/>
+    <tag k="building:levels" v="10"/>
+    <tag k="building:part" v="apartments"/>
+    <tag k="ele" v="1.8"/>
+    <tag k="height" v="37.9"/>
+  </way>
+  <way id="1566989666" version="1" timestamp="2026-10-10T03:55:21Z" changeset="190281215" uid="23288121" user="yoisho2734_import">
+    <nd ref="14269645603"/>
+    <nd ref="14269645606"/>
+    <nd ref="14269645605"/>
+    <nd ref="14269645604"/>
+    <nd ref="14269645603"/>
+    <tag k="building:part" v="yes"/>
+    <tag k="ele" v="1"/>
+    <tag k="height" v="10.8"/>
+    <tag k="source" v="MLIT_PLATEAU 13108-bldg-25763"/>
+  </way>
+  <way id="1566989731" version="1" timestamp="2026-10-10T03:55:21Z" changeset="190281215" uid="23288121" user="yoisho2734_import">
+    <nd ref="14269647963"/>
+    <nd ref="14269647964"/>
+    <nd ref="14269655563"/>
+    <nd ref="14269655562"/>
+    <nd ref="14269647963"/>
+    <tag k="building:part" v="yes"/>
+    <tag k="ele" v="0.5"/>
+    <tag k="height" v="3"/>
+    <tag k="source" v="MLIT_PLATEAU 13108-bldg-24246"/>
+  </way>
+  <way id="1566989736" version="1" timestamp="2026-10-10T03:55:21Z" changeset="190281215" uid="23288121" user="yoisho2734_import">
+    <nd ref="14269645495"/>
+    <nd ref="14269645498"/>
+    <nd ref="14269645497"/>
+    <nd ref="14269645496"/>
+    <nd ref="14269645495"/>
+    <tag k="building:levels" v="10"/>
+    <tag k="building:part" v="apartments"/>
+    <tag k="ele" v="1.2"/>
+    <tag k="height" v="29.4"/>
+    <tag k="source" v="MLIT_PLATEAU 13108-bldg-29849"/>
+    <tag k="survey:date" v="2021"/>
+  </way>
+  <way id="1566989753" version="1" timestamp="2026-10-10T03:55:21Z" changeset="190281215" uid="23288121" user="yoisho2734_import">
+    <nd ref="14269644935"/>
+    <nd ref="14269644938"/>
+    <nd ref="14269644937"/>
+    <nd ref="14269644936"/>
+    <nd ref="14269644935"/>
+    <tag k="building:part" v="yes"/>
+    <tag k="ele" v="0.6"/>
+    <tag k="height" v="6.7"/>
+    <tag k="source" v="MLIT_PLATEAU 13108-bldg-28913"/>
+  </way>
+  <way id="1566989834" version="1" timestamp="2026-10-10T03:55:24Z" changeset="190281215" uid="23288121" user="yoisho2734_import">
+    <nd ref="14269643831"/>
+    <nd ref="14269643832"/>
+    <nd ref="14269656102"/>
+    <nd ref="14269656101"/>
+    <nd ref="14269643831"/>
+    <tag k="building:levels" v="7"/>
+    <tag k="building:part" v="apartments"/>
+    <tag k="ele" v="0"/>
+    <tag k="height" v="16.7"/>
+    <tag k="source" v="MLIT_PLATEAU 13108-bldg-30125"/>
+    <tag k="survey:date" v="2021"/>
+  </way>
+  <way id="1566989878" version="1" timestamp="2026-10-10T03:55:24Z" changeset="190281215" uid="23288121" user="yoisho2734_import">
+    <nd ref="14269647402"/>
+    <nd ref="14269656422"/>
+    <nd ref="14269656421"/>
+    <nd ref="14269647408"/>
+    <nd ref="14269647407"/>
+    <nd ref="14269647406"/>
+    <nd ref="14269647405"/>
+    <nd ref="14269647404"/>
+    <nd ref="14269647403"/>
+    <nd ref="14269647402"/>
+    <tag k="building:part" v="yes"/>
+    <tag k="ele" v="1"/>
+    <tag k="height" v="14.2"/>
+    <tag k="source" v="MLIT_PLATEAU 13108-bldg-24991"/>
+  </way>
+  <way id="1566989942" version="1" timestamp="2026-10-10T03:55:24Z" changeset="190281215" uid="23288121" user="yoisho2734_import">
+    <nd ref="14269653970"/>
+    <nd ref="14269655252"/>
+    <nd ref="14269653964"/>
+    <nd ref="14269653972"/>
+    <nd ref="14269653971"/>
+    <nd ref="14269653970"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="building:part" v="commercial"/>
+    <tag k="ele" v="0.3"/>
+    <tag k="height" v="16.7"/>
+    <tag k="source" v="MLIT_PLATEAU 13108-bldg-25310"/>
+    <tag k="survey:date" v="2021"/>
+  </way>
+  <way id="1566989945" version="1" timestamp="2026-10-10T03:55:24Z" changeset="190281215" uid="23288121" user="yoisho2734_import">
+    <nd ref="14269642816"/>
+    <nd ref="14269642811"/>
+    <nd ref="14269653974"/>
+    <nd ref="14269653973"/>
+    <nd ref="14269642816"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="building:part" v="yes"/>
+    <tag k="ele" v="1.5"/>
+    <tag k="height" v="2.6"/>
+    <tag k="source" v="MLIT_PLATEAU 13108-bldg-25060"/>
+    <tag k="survey:date" v="2021"/>
+  </way>
+  <way id="1566990107" version="1" timestamp="2026-10-10T03:55:24Z" changeset="190281215" uid="23288121" user="yoisho2734_import">
+    <nd ref="14269652701"/>
+    <nd ref="14269652702"/>
+    <nd ref="14269655709"/>
+    <nd ref="14269655708"/>
+    <nd ref="14269652701"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="building:part" v="industrial"/>
+    <tag k="ele" v="0.8"/>
+    <tag k="height" v="9"/>
+    <tag k="source" v="MLIT_PLATEAU 13108-bldg-30438"/>
+    <tag k="survey:date" v="2021"/>
+  </way>
+  <way id="1566990227" version="1" timestamp="2026-10-10T03:55:24Z" changeset="190281215" uid="23288121" user="yoisho2734_import">
+    <nd ref="14269644932"/>
+    <nd ref="14269644945"/>
+    <nd ref="14269644944"/>
+    <nd ref="14269644933"/>
+    <nd ref="14269644932"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="building:part" v="public"/>
+    <tag k="ele" v="0.2"/>
+    <tag k="height" v="9.2"/>
+    <tag k="source" v="MLIT_PLATEAU 13108-bldg-28830"/>
+    <tag k="survey:date" v="2021"/>
+  </way>
+
+</osm>

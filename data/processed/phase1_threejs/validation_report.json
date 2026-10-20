@@ -1,0 +1,290 @@
+{
+  "osmFiles": 16,
+  "uniqueNodes": 8592,
+  "uniqueWays": 1331,
+  "uniqueRelations": 30,
+  "duplicateIdsRemoved": 1342,
+  "tagConflicts": [],
+  "brokenReferenceCount": 0,
+  "brokenReferences": [],
+  "demTilesFound": 17,
+  "demTilesDecoded": 17,
+  "demTileResolutionCounts": {
+    "1a": 15,
+    "5a": 2
+  },
+  "demTileCoverage": [
+    {
+      "file": "data\\raw\\gsi\\dem1a_png\\17\\116437\\51613.png",
+      "zoom": 17,
+      "validPixels": 65384,
+      "elevationRange": [
+        -0.29,
+        1.61
+      ],
+      "coverageLonLat": [
+        139.803772,
+        35.6796096,
+        139.8065186,
+        35.6818406
+      ]
+    },
+    {
+      "file": "data\\raw\\gsi\\dem1a_png\\17\\116437\\51614.png",
+      "zoom": 17,
+      "validPixels": 65330,
+      "elevationRange": [
+        -1.19,
+        1.91
+      ],
+      "coverageLonLat": [
+        139.803772,
+        35.6773786,
+        139.8065186,
+        35.6796096
+      ]
+    },
+    {
+      "file": "data\\raw\\gsi\\dem1a_png\\17\\116437\\51615.png",
+      "zoom": 17,
+      "validPixels": 59265,
+      "elevationRange": [
+        -2.36,
+        3.11
+      ],
+      "coverageLonLat": [
+        139.803772,
+        35.6751474,
+        139.8065186,
+        35.6773786
+      ]
+    },
+    {
+      "file": "data\\raw\\gsi\\dem1a_png\\17\\116437\\51616.png",
+      "zoom": 17,
+      "validPixels": 63586,
+      "elevationRange": [
+        -0.91,
+        2.71
+      ],
+      "coverageLonLat": [
+        139.803772,
+        35.6729163,
+        139.8065186,
+        35.6751474
+      ]
+    },
+    {
+      "file": "data\\raw\\gsi\\dem1a_png\\17\\116437\\51617.png",
+      "zoom": 17,
+      "validPixels": 64136,
+      "elevationRange": [
+        -1.69,
+        5.69
+      ],
+      "coverageLonLat": [
+        139.803772,
+        35.670685,
+        139.8065186,
+        35.6729163
+      ]
+    },
+    {
+      "file": "data\\raw\\gsi\\dem1a_png\\17\\116438\\51613.png",
+      "zoom": 17,
+      "validPixels": 65447,
+      "elevationRange": [
+        -0.25,
+        2.31
+      ],
+      "coverageLonLat": [
+        139.8065186,
+        35.6796096,
+        139.8092651,
+        35.6818406
+      ]
+    },
+    {
+      "file": "data\\raw\\gsi\\dem1a_png\\17\\116438\\51614.png",
+      "zoom": 17,
+      "validPixels": 65417,
+      "elevationRange": [
+        -0.59,
+        4.91
+      ],
+      "coverageLonLat": [
+        139.8065186,
+        35.6773786,
+        139.8092651,
+        35.6796096
+      ]
+    },
+    {
+      "file": "data\\raw\\gsi\\dem1a_png\\17\\116438\\51615.png",
+      "zoom": 17,
+      "validPixels": 59989,
+      "elevationRange": [
+        -0.95,
+        5.32
+      ],
+      "coverageLonLat": [
+        139.8065186,
+        35.6751474,
+        139.8092651,
+        35.6773786
+      ]
+    },
+    {
+      "file": "data\\raw\\gsi\\dem1a_png\\17\\116438\\51616.png",
+      "zoom": 17,
+      "validPixels": 64692,
+      "elevationRange": [
+        0.35,
+        5.78
+      ],
+      "coverageLonLat": [
+        139.8065186,
+        35.6729163,
+        139.8092651,
+        35.6751474
+      ]
+    },
+    {
+      "file": "data\\raw\\gsi\\dem1a_png\\17\\116438\\51617.png",
+      "zoom": 17,
+      "validPixels": 65041,
+      "elevationRange": [
+        -0.19,
+        3.31
+      ],
+      "coverageLonLat": [
+        139.8065186,
+        35.670685,
+        139.8092651,
+        35.6729163
+      ]
+    },
+    {
+      "file": "data\\raw\\gsi\\dem1a_png\\17\\116439\\51613.png",
+      "zoom": 17,
+      "validPixels": 58855,
+      "elevationRange": [
+        -1.29,
+        3.49
+      ],
+      "coverageLonLat": [
+        139.8092651,
+        35.6796096,
+        139.8120117,
+        35.6818406
+      ]
+    },
+    {
+      "file": "data\\raw\\gsi\\dem1a_png\\17\\116439\\51614.png",
+      "zoom": 17,
+      "validPixels": 58720,
+      "elevationRange": [
+        -0.79,
+        4.07
+      ],
+      "coverageLonLat": [
+        139.8092651,
+        35.6773786,
+        139.8120117,
+        35.6796096
+      ]
+    },
+    {
+      "file": "data\\raw\\gsi\\dem1a_png\\17\\116439\\51615.png",
+      "zoom": 17,
+      "validPixels": 55473,
+      "elevationRange": [
+        -0.49,
+        4.6
+      ],
+      "coverageLonLat": [
+        139.8092651,
+        35.6751474,
+        139.8120117,
+        35.6773786
+      ]
+    },
+    {
+      "file": "data\\raw\\gsi\\dem1a_png\\17\\116439\\51616.png",
+      "zoom": 17,
+      "validPixels": 61967,
+      "elevationRange": [
+        -0.59,
+        5.02
+      ],
+      "coverageLonLat": [
+        139.8092651,
+        35.6729163,
+        139.8120117,
+        35.6751474
+      ]
+    },
+    {
+      "file": "data\\raw\\gsi\\dem1a_png\\17\\116439\\51617.png",
+      "zoom": 17,
+      "validPixels": 61629,
+      "elevationRange": [
+        -1.32,
+        2.69
+      ],
+      "coverageLonLat": [
+        139.8092651,
+        35.670685,
+        139.8120117,
+        35.6729163
+      ]
+    },
+    {
+      "file": "data\\raw\\gsi\\dem5a_png\\15\\29109\\12903.png",
+      "zoom": 15,
+      "validPixels": 61683,
+      "elevationRange": [
+        -1.39,
+        5.06
+      ],
+      "coverageLonLat": [
+        139.8010254,
+        35.6751474,
+        139.8120117,
+        35.6840715
+      ]
+    },
+    {
+      "file": "data\\raw\\gsi\\dem5a_png\\15\\29109\\12904.png",
+      "zoom": 15,
+      "validPixels": 62203,
+      "elevationRange": [
+        -2.2,
+        5.52
+      ],
+      "coverageLonLat": [
+        139.8010254,
+        35.6662223,
+        139.8120117,
+        35.6751474
+      ]
+    }
+  ],
+  "validTerrainVertices": 3640,
+  "parkValidVertices": 3640,
+  "parkMissingVertices": 92,
+  "outsideParkGridVertices": 2518,
+  "missingTerrainCells": 375,
+  "featureCounts": {
+    "paths": 143,
+    "buildings": 28,
+    "water": 6,
+    "vegetation": 48,
+    "facilities": 78
+  },
+  "coordinateOriginResidualMetres": [
+    -0.0,
+    -4e-06
+  ],
+  "fountainsValidEmpty": true
+}

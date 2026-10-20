@@ -1,0 +1,51 @@
+{
+  "phase": "3A",
+  "result": "PASS",
+  "checks": {
+    "terrain_present": true,
+    "phase2c_route_is_24m": true,
+    "stairs_blocked_segments_exist": true,
+    "steep_slope_blocked_segments_exist": true,
+    "bridge_walkable_segments_zero": true,
+    "phase2c_collision_reused": true,
+    "experimental_bridge_ui_removed": true,
+    "game_actions_present": true,
+    "hud_present": true,
+    "bridge_visual_is_noncolliding": true,
+    "phase3a_screenshots_exist": true,
+    "phase2c_nav_copy_hash_matches_phase2j": true,
+    "javascript_syntax_ok": true
+  },
+  "source": "Phase 2J read-only copied into build-phase3a",
+  "navigation": "Phase 2C copied unchanged; source/copy SHA-256 matches. Browser 24m test: PASS, 326 swept probes, 0 review crossings; stairs, >35% slope, gap, and boundary: BLOCK. Bridge remains 13 runs, 0 walkable segments.",
+  "browserVerification": {
+    "result": "PASS live in-app browser",
+    "inputs": "WASD forward moved (5 accepted probes, 0 blocked); enemy hit player (100 to 96 HP); Space hit (enemy 100 to 66 HP); J hit (66 to 32 HP); Space defeated enemy and showed CLEAR (player survived at 72 HP).",
+    "screenshots": [
+      "screenshots/phase3a/phase3a_game.png",
+      "screenshots/phase3a/phase3a_top.png"
+    ]
+  },
+  "performanceComparison": {
+    "view": "same park-wide overhead view, sampled in browser after stabilization",
+    "phase2j": {
+      "fps": 56.0,
+      "drawCalls": 62,
+      "triangles": 627814,
+      "meshes": 56
+    },
+    "phase3a": {
+      "fps": 54.7,
+      "drawCalls": 58,
+      "triangles": 627814,
+      "meshes": 63
+    },
+    "delta": {
+      "fps": -1.3,
+      "drawCalls": -4,
+      "triangles": 0,
+      "meshes": 7
+    },
+    "note": "Single HUD samples; FPS can fluctuate. Seven extra meshes include the playable player/enemy robot proxies; triangle total matched."
+  }
+}

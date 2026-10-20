@@ -1,0 +1,28 @@
+{
+  "phase": "KIBA PARK DRIVE Phase D1",
+  "browser": "in-app browser, localhost 127.0.0.1:8785/web/phaseD1/",
+  "observations": {
+    "busGlbVisibleInParkScene": true,
+    "acceleratorW": "Observed speed rise to 10.2 km/h; course station advanced 2.8m to 7.8m.",
+    "steeringD": "Observed course station advance to 10.9m while turning; speed changed with throttle/brake input.",
+    "cameraToggleC": "Observed chase and elevated overview camera perspectives; both rendered park road and bus.",
+    "courseCheckpoint": "W reached outbound checkpoint; status changed to RETURN.",
+    "brakeReverseS": "S changed speed to reverse (4.3 km/h · R); station moved toward start.",
+    "roundTripGoal": "Returned to 0.0m at 0.0 km/h; UI displayed GOAL · Aコース往復完了.",
+    "battleModeSeparate": "Battle button restored Phase 3A combat UI; attack hit enemy and reduced enemy HP from 100 to 66. Enemy also damaged player during observation; battle remains separate from bus mode.",
+    "boundaryTest": "Manual steering/throttle was exercised on the A test ribbon without a boundary violation. No off-road impact was deliberately forced, so collision-stop triggering is not claimed as browser-observed. Static full-body sweep validates the modeled A corridor only.",
+    "bridgePolicy": "Phase 2C data validation reports 13 bridge runs and 0 walkable bridge segments; unchanged source hash in D1 and Phase 3A.",
+    "courseBC": "B and C selectors are disabled and report-only pending vehicle footprint/obstacle validation."
+  },
+  "livePerformanceSamples": [
+    {"mode":"drive, chase/road view", "fps":60.1, "drawCalls":156, "triangles":616444, "meshes":81},
+    {"mode":"drive, while moving", "fps":60.1, "drawCalls":155, "triangles":616254, "meshes":81},
+    {"mode":"battle, after attack", "fps":60.1, "drawCalls":143, "triangles":542412, "meshes":81}
+  ],
+  "screenshots": [
+    "screenshots/phaseD1/d1_drive_start.png",
+    "screenshots/phaseD1/d1_overview.png",
+    "screenshots/phaseD1/d1_battle_mode.png"
+  ],
+  "metricsAreViewportDependent": true
+}

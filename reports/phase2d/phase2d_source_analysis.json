@@ -1,0 +1,302 @@
+{
+  "sourcePhase2b": "data/processed/phase2b/phase2b_scene.json",
+  "sourcePhase2c": "data/processed/phase2c/phase2c_navigation.json",
+  "rawInputsModified": false,
+  "phase2cMovementLogicCopiedToSeparateViewer": true,
+  "vegetation": {
+    "phase2bVegetationFeatures": 48,
+    "rawOsmNaturalTreePoints": 42,
+    "mappedTreesUsed": 42,
+    "osmVegetationAreasUsed": 5,
+    "estimatedTrees": 759,
+    "estimatedShrubs": 530,
+    "grassTufts": 5551
+  },
+  "treePointSources": {
+    "measuredOSM": "mappedTrees list; horizontal position from OSM node, y sampled from existing DEM mesh",
+    "estimatedAerial": "estimatedTrees with source=estimated_from_aerial_canopy; placed only where an existing aerial tile covers the park and a green, textured pixel neighborhood passes the canopy-likelihood screen",
+    "estimatedArea": "estimatedTrees with source=estimated_from_osm_vegetation_area; placement is synthetic within mapped OSM woodland polygons, not a measured tree"
+  },
+  "photoCoverage": {
+    "tileCount": 14,
+    "zoom": 18,
+    "tileSizePixels": 256,
+    "tiles": [
+      {
+        "zoom": 18,
+        "x": 232875,
+        "y": 103226,
+        "file": "data/raw/gsi/seamlessphoto/18/232875/103226.jpg",
+        "boundsLocalMetres": [
+          -249.17,
+          -808.9,
+          -124.83,
+          -685.11
+        ],
+        "widthPixels": 256,
+        "heightPixels": 256,
+        "sha256": "03ecff28afb8239e5ce8cf9ae65a46d1906d9f0a4260e97bc065d7da8f795660"
+      },
+      {
+        "zoom": 18,
+        "x": 232875,
+        "y": 103227,
+        "file": "data/raw/gsi/seamlessphoto/18/232875/103227.jpg",
+        "boundsLocalMetres": [
+          -249.21,
+          -685.15,
+          -124.87,
+          -561.36
+        ],
+        "widthPixels": 256,
+        "heightPixels": 256,
+        "sha256": "d425e951e5075a503da3936bb4d8e64531c2600c944a2b1a4cf67caccd7737b9"
+      },
+      {
+        "zoom": 18,
+        "x": 232875,
+        "y": 103228,
+        "file": "data/raw/gsi/seamlessphoto/18/232875/103228.jpg",
+        "boundsLocalMetres": [
+          -249.24,
+          -561.39,
+          -124.9,
+          -437.6
+        ],
+        "widthPixels": 256,
+        "heightPixels": 256,
+        "sha256": "1abe43de97508f0409cf48164b1cb8edfd27dfc2e62f5e27f58cadac1391bb74"
+      },
+      {
+        "zoom": 18,
+        "x": 232875,
+        "y": 103229,
+        "file": "data/raw/gsi/seamlessphoto/18/232875/103229.jpg",
+        "boundsLocalMetres": [
+          -249.28,
+          -437.63,
+          -124.93,
+          -313.84
+        ],
+        "widthPixels": 256,
+        "heightPixels": 256,
+        "sha256": "d48da084880e3c3caff8e425725e2c83d5ce9b5525d1df0e418c8fabcfd7fbd8"
+      },
+      {
+        "zoom": 18,
+        "x": 232875,
+        "y": 103230,
+        "file": "data/raw/gsi/seamlessphoto/18/232875/103230.jpg",
+        "boundsLocalMetres": [
+          -249.31,
+          -313.87,
+          -124.97,
+          -190.08
+        ],
+        "widthPixels": 256,
+        "heightPixels": 256,
+        "sha256": "bd8fea1102ec7677625a44a18dcd130c88da4dea713f1040487fdcb1639406cb"
+      },
+      {
+        "zoom": 18,
+        "x": 232875,
+        "y": 103231,
+        "file": "data/raw/gsi/seamlessphoto/18/232875/103231.jpg",
+        "boundsLocalMetres": [
+          -249.35,
+          -190.11,
+          -125.0,
+          -66.31
+        ],
+        "widthPixels": 256,
+        "heightPixels": 256,
+        "sha256": "2fd3403f4f7b3edf87f70fbd8d69e2703f552f5ccfab8092c63f47ac05ebf0a7"
+      },
+      {
+        "zoom": 18,
+        "x": 232875,
+        "y": 103232,
+        "file": "data/raw/gsi/seamlessphoto/18/232875/103232.jpg",
+        "boundsLocalMetres": [
+          -249.39,
+          -66.35,
+          -125.04,
+          57.45
+        ],
+        "widthPixels": 256,
+        "heightPixels": 256,
+        "sha256": "e6929e844a5870b15defde7981117ad3069c68bccb27db31f195c0b0c335d4a1"
+      },
+      {
+        "zoom": 18,
+        "x": 232875,
+        "y": 103233,
+        "file": "data/raw/gsi/seamlessphoto/18/232875/103233.jpg",
+        "boundsLocalMetres": [
+          -249.42,
+          57.42,
+          -125.07,
+          181.22
+        ],
+        "widthPixels": 256,
+        "heightPixels": 256,
+        "sha256": "3607a38a0ed6c5132e2a8b078ca813b63822e00192c52073a6af4b5346112622"
+      },
+      {
+        "zoom": 18,
+        "x": 232875,
+        "y": 103234,
+        "file": "data/raw/gsi/seamlessphoto/18/232875/103234.jpg",
+        "boundsLocalMetres": [
+          -249.46,
+          181.18,
+          -125.1,
+          304.99
+        ],
+        "widthPixels": 256,
+        "heightPixels": 256,
+        "sha256": "a3549ecb2e0f1ef2f4cba6532096aa9c228c0170384c8e42bca73d9de5bfea0e"
+      },
+      {
+        "zoom": 18,
+        "x": 232875,
+        "y": 103235,
+        "file": "data/raw/gsi/seamlessphoto/18/232875/103235.jpg",
+        "boundsLocalMetres": [
+          -249.49,
+          304.95,
+          -125.14,
+          428.76
+        ],
+        "widthPixels": 256,
+        "heightPixels": 256,
+        "sha256": "e2245a6fde098fe8552d7ef14d615b539e07cacf323340ee06bc91386e99e36d",
+        "parkGridSamples": 23
+      },
+      {
+        "zoom": 18,
+        "x": 232876,
+        "y": 103226,
+        "file": "data/raw/gsi/seamlessphoto/18/232876/103226.jpg",
+        "boundsLocalMetres": [
+          -124.87,
+          -808.87,
+          -0.53,
+          -685.08
+        ],
+        "widthPixels": 256,
+        "heightPixels": 256,
+        "sha256": "7faad0421dcf5de220fb81ebdfd03dbf4a5a894e9c22c87e69d3acee7277eb7a"
+      },
+      {
+        "zoom": 18,
+        "x": 232876,
+        "y": 103227,
+        "file": "data/raw/gsi/seamlessphoto/18/232876/103227.jpg",
+        "boundsLocalMetres": [
+          -124.9,
+          -685.11,
+          -0.56,
+          -561.32
+        ],
+        "widthPixels": 256,
+        "heightPixels": 256,
+        "sha256": "ca198d35c869405559f5a1aa85ec1636e041b1f9e9f394dbc2b1451bbba1c635",
+        "parkGridSamples": 640
+      },
+      {
+        "zoom": 18,
+        "x": 232876,
+        "y": 103228,
+        "file": "data/raw/gsi/seamlessphoto/18/232876/103228.jpg",
+        "boundsLocalMetres": [
+          -124.93,
+          -561.36,
+          -0.59,
+          -437.57
+        ],
+        "widthPixels": 256,
+        "heightPixels": 256,
+        "sha256": "d7b9bc46936a447c8d8f5887dae99d64ad317cf692c56e1059b59f3542d79eb5",
+        "parkGridSamples": 1105
+      },
+      {
+        "zoom": 18,
+        "x": 232876,
+        "y": 103229,
+        "file": "data/raw/gsi/seamlessphoto/18/232876/103229.jpg",
+        "boundsLocalMetres": [
+          -124.97,
+          -437.6,
+          -0.62,
+          -313.81
+        ],
+        "widthPixels": 256,
+        "heightPixels": 256,
+        "sha256": "2a152237d2dd95d521132125627b0ee6f09393fa7cda9070521ac8088ab9c093",
+        "parkGridSamples": 996
+      }
+    ],
+    "parkCoverageGridStepMetres": 3,
+    "parkGridSamples": 26502,
+    "coveredParkGridSamples": 2764,
+    "coveredParkPercent": 10.43,
+    "treePointCoverageCount": 0,
+    "photoOnlyTreeEstimates": 209
+  },
+  "placement": {
+    "spacingTargetMetres": 6.2,
+    "osmTreeRejections": {},
+    "photoCanopyCounts": {
+      "estimated_from_osm_vegetation_area": 550,
+      "photo_non_green_rejected": 4,
+      "estimated_from_aerial_canopy": 209
+    },
+    "polygons": [
+      {
+        "osmId": "1189997816",
+        "kind": "woodland",
+        "areaSquareMetres": 8509.4,
+        "estimatedTrees": 129
+      },
+      {
+        "osmId": "1189997819",
+        "kind": "woodland",
+        "areaSquareMetres": 6289.1,
+        "estimatedTrees": 99
+      },
+      {
+        "osmId": "1189997820",
+        "kind": "woodland",
+        "areaSquareMetres": 19635.0,
+        "estimatedTrees": 281
+      },
+      {
+        "osmId": "1189997826",
+        "kind": "woodland",
+        "areaSquareMetres": 3075.8,
+        "estimatedTrees": 41
+      },
+      {
+        "osmId": "1418377586",
+        "kind": "lawn",
+        "areaSquareMetres": 23832.5,
+        "estimatedTrees": 0
+      }
+    ]
+  },
+  "render": {
+    "terrainChanged": false,
+    "movementLayerChanged": false,
+    "treeInstancesInstanced": true,
+    "nearLodMetres": 180,
+    "farLodMetres": 520,
+    "drawCallsAddedExpected": 12,
+    "viewDistanceCulling": true
+  },
+  "limitations": [
+    "Aerial tiles cover only a sampled fraction of the park; OSM-area placements elsewhere are synthetic, not photo-observed.",
+    "OSM tree points provide horizontal positions; height/species/crown dimensions are approximations.",
+    "Canopy screening uses a green-pixel and local texture heuristic, not a trained tree detector."
+  ]
+}

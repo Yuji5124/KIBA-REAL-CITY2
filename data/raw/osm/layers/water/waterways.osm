@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2026-10-17T22:13:21Z"/>
+
+  <bounds minlat="35.6708181" minlon="139.8057307" maxlat="35.6808323" maxlon="139.8113834"/>
+
+  <node id="1443878812" lat="35.6716403" lon="139.7907064" version="2" timestamp="2012-08-02T02:41:52Z" changeset="12580843" uid="618878" user="nakanao"/>
+  <node id="1443878817" lat="35.6713104" lon="139.7914856" version="2" timestamp="2012-08-02T02:41:52Z" changeset="12580843" uid="618878" user="nakanao"/>
+  <node id="1443878837" lat="35.6716061" lon="139.7907581" version="2" timestamp="2012-08-02T02:41:52Z" changeset="12580843" uid="618878" user="nakanao"/>
+  <node id="1443878842" lat="35.6691075" lon="139.8014457" version="2" timestamp="2012-08-02T02:41:52Z" changeset="12580843" uid="618878" user="nakanao"/>
+  <node id="1443878874" lat="35.6742871" lon="139.7868280" version="1" timestamp="2011-09-24T02:05:33Z" changeset="9381101" uid="165869" user="chdr"/>
+  <node id="1443878908" lat="35.6699309" lon="139.7982229" version="1" timestamp="2011-09-24T02:05:34Z" changeset="9381101" uid="165869" user="chdr"/>
+  <node id="1443878926" lat="35.6713209" lon="139.7920505" version="2" timestamp="2012-08-02T02:41:52Z" changeset="12580843" uid="618878" user="nakanao"/>
+  <node id="1443879024" lat="35.6701750" lon="139.7976006" version="1" timestamp="2011-09-24T02:05:37Z" changeset="9381101" uid="165869" user="chdr"/>
+  <node id="1443879046" lat="35.6712814" lon="139.7917128" version="2" timestamp="2012-08-02T02:41:52Z" changeset="12580843" uid="618878" user="nakanao"/>
+  <node id="1443879067" lat="35.6717177" lon="139.7935451" version="1" timestamp="2011-09-24T02:05:39Z" changeset="9381101" uid="165869" user="chdr"/>
+  <node id="1443879068" lat="35.6734870" lon="139.7882451" version="1" timestamp="2011-09-24T02:05:39Z" changeset="9381101" uid="165869" user="chdr"/>
+  <node id="1443879080" lat="35.6710588" lon="139.7955342" version="1" timestamp="2011-09-24T02:05:39Z" changeset="9381101" uid="165869" user="chdr"/>
+  <node id="1443879094" lat="35.6726067" lon="139.7895003" version="1" timestamp="2011-09-24T02:05:40Z" changeset="9381101" uid="165869" user="chdr"/>
+  <node id="1443879099" lat="35.6717089" lon="139.7933502" version="2" timestamp="2012-08-02T02:41:52Z" changeset="12580843" uid="618878" user="nakanao"/>
+  <node id="1847701615" lat="35.6687829" lon="139.8066845" version="1" timestamp="2012-08-02T02:40:54Z" changeset="12580843" uid="618878" user="nakanao"/>
+  <node id="1847701616" lat="35.6688216" lon="139.8016447" version="1" timestamp="2012-08-02T02:40:54Z" changeset="12580843" uid="618878" user="nakanao"/>
+  <node id="1847701617" lat="35.6688836" lon="139.8080924" version="1" timestamp="2012-08-02T02:40:54Z" changeset="12580843" uid="618878" user="nakanao"/>
+  <node id="1847701618" lat="35.6689057" lon="139.8083295" version="1" timestamp="2012-08-02T02:40:54Z" changeset="12580843" uid="618878" user="nakanao"/>
+  <node id="1847701619" lat="35.6689327" lon="139.8083989" version="1" timestamp="2012-08-02T02:40:54Z" changeset="12580843" uid="618878" user="nakanao"/>
+  <node id="1847701620" lat="35.6689689" lon="139.8084632" version="1" timestamp="2012-08-02T02:40:54Z" changeset="12580843" uid="618878" user="nakanao"/>
+  <node id="1847701621" lat="35.6690372" lon="139.8085191" version="1" timestamp="2012-08-02T02:40:54Z" changeset="12580843" uid="618878" user="nakanao"/>
+  <node id="1847701623" lat="35.6695908" lon="139.8087844" version="1" timestamp="2012-08-02T02:40:54Z" changeset="12580843" uid="618878" user="nakanao"/>
+  <node id="1847701626" lat="35.6712867" lon="139.7918952" version="1" timestamp="2012-08-02T02:40:54Z" changeset="12580843" uid="618878" user="nakanao"/>
+  <node id="1847701629" lat="35.6732114" lon="139.8100803" version="1" timestamp="2012-08-02T02:40:54Z" changeset="12580843" uid="618878" user="nakanao"/>
+  <node id="1847701647" lat="35.6843462" lon="139.8098199" version="1" timestamp="2012-08-02T02:40:55Z" changeset="12580843" uid="618878" user="nakanao"/>
+  <node id="2367224677" lat="35.6728429" lon="139.7891815" version="2" timestamp="2016-10-27T07:09:53Z" changeset="43210255" uid="213778" user="ohwada"/>
+  <node id="2378641194" lat="35.6745667" lon="139.8057294" version="2" timestamp="2019-12-28T18:07:53Z" changeset="78961868" uid="7115748" user="Daaaaaaa"/>
+  <node id="2599141238" lat="35.6688004" lon="139.8044109" version="1" timestamp="2013-12-29T02:36:47Z" changeset="19690217" uid="378532" user="nyampire"/>
+  <node id="2599141244" lat="35.6758839" lon="139.8049734" version="1" timestamp="2013-12-29T02:36:47Z" changeset="19690217" uid="378532" user="nyampire"/>
+  <node id="2599141245" lat="35.6759303" lon="139.8060684" version="1" timestamp="2013-12-29T02:36:47Z" changeset="19690217" uid="378532" user="nyampire"/>
+  <node id="2599141246" lat="35.6760544" lon="139.8093088" version="2" timestamp="2019-11-08T16:20:05Z" changeset="76821624" uid="7115748" user="Daaaaaaa"/>
+  <node id="2599141247" lat="35.6761038" lon="139.8109042" version="2" timestamp="2019-11-08T16:20:05Z" changeset="76821624" uid="7115748" user="Daaaaaaa"/>
+  <node id="2720635479" lat="35.6869442" lon="139.8095582" version="1" timestamp="2014-03-16T08:45:55Z" changeset="21131244" uid="571410" user="Антін Сартенченко"/>
+  <node id="2720635481" lat="35.6877087" lon="139.8094938" version="1" timestamp="2014-03-16T08:45:55Z" changeset="21131244" uid="571410" user="Антін Сартенченко"/>
+  <node id="2720635519" lat="35.6885875" lon="139.8094151" version="1" timestamp="2014-03-16T08:45:56Z" changeset="21131244" uid="571410" user="Антін Сартенченко"/>
+  <node id="2720635547" lat="35.6889040" lon="139.8093858" version="1" timestamp="2014-03-16T08:45:56Z" changeset="21131244" uid="571410" user="Антін Сартенченко"/>
+  <node id="2720635585" lat="35.6927377" lon="139.8090608" version="1" timestamp="2014-03-16T08:45:56Z" changeset="21131244" uid="571410" user="Антін Сартенченко"/>
+  <node id="6950216645" lat="35.6760927" lon="139.8111902" version="2" timestamp="2020-01-20T14:50:52Z" changeset="79803378" uid="7115748" user="Daaaaaaa"/>
+  <node id="6950216646" lat="35.6761576" lon="139.8125233" version="1" timestamp="2019-11-06T04:37:47Z" changeset="76676870" uid="7115748" user="Daaaaaaa"/>
+  <node id="7447621137" lat="35.6752827" lon="139.8059363" version="1" timestamp="2020-04-26T02:04:41Z" changeset="84126527" uid="11054781" user="Max_IN"/>
+  <node id="7447621138" lat="35.6755243" lon="139.8059873" version="1" timestamp="2020-04-26T02:04:41Z" changeset="84126527" uid="11054781" user="Max_IN"/>
+  <node id="11484203532" lat="35.6871681" lon="139.8095393" version="1" timestamp="2024-01-04T00:18:41Z" changeset="145859500" uid="19071241" user="Rokomo35"/>
+  <node id="11491089317" lat="35.6901642" lon="139.8092790" version="1" timestamp="2024-01-05T07:18:37Z" changeset="145908735" uid="19071241" user="Rokomo35"/>
+  <node id="11496899958" lat="35.6815247" lon="139.8101911" version="1" timestamp="2024-01-07T11:09:45Z" changeset="145986096" uid="19071241" user="Rokomo35"/>
+  <node id="11496911505" lat="35.6804546" lon="139.8103319" version="1" timestamp="2024-01-07T11:09:45Z" changeset="145986096" uid="19071241" user="Rokomo35"/>
+  <node id="11502709297" lat="35.6795009" lon="139.8104573" version="1" timestamp="2024-01-09T09:33:47Z" changeset="146058864" uid="19071241" user="Rokomo35"/>
+  <node id="11502709309" lat="35.6758536" lon="139.8046356" version="1" timestamp="2024-01-09T09:33:47Z" changeset="146058864" uid="19071241" user="Rokomo35"/>
+  <node id="11502709313" lat="35.6759666" lon="139.8070169" version="1" timestamp="2024-01-09T09:33:47Z" changeset="146058864" uid="19071241" user="Rokomo35"/>
+  <node id="11503040066" lat="35.6714283" lon="139.7924102" version="1" timestamp="2024-01-09T12:51:18Z" changeset="146065695" uid="19071241" user="Rokomo35"/>
+  <node id="11504705314" lat="35.6710713" lon="139.7954966" version="1" timestamp="2024-01-10T00:42:11Z" changeset="146085323" uid="19071241" user="Rokomo35"/>
+  <node id="11504705324" lat="35.6715470" lon="139.7940604" version="1" timestamp="2024-01-10T00:42:11Z" changeset="146085323" uid="19071241" user="Rokomo35"/>
+  <node id="11504705334" lat="35.6692933" lon="139.8007183" version="1" timestamp="2024-01-10T00:42:11Z" changeset="146085323" uid="19071241" user="Rokomo35"/>
+  <node id="11504731671" lat="35.6711526" lon="139.7952509" version="1" timestamp="2024-01-10T00:42:11Z" changeset="146085323" uid="19071241" user="Rokomo35"/>
+  <node id="11504731672" lat="35.6700455" lon="139.7979306" version="1" timestamp="2024-01-10T00:42:11Z" changeset="146085323" uid="19071241" user="Rokomo35"/>
+  <node id="11504776924" lat="35.6687915" lon="139.8055694" version="1" timestamp="2024-01-10T01:33:18Z" changeset="146086315" uid="19071241" user="Rokomo35"/>
+  <node id="11504776937" lat="35.6725979" lon="139.8098607" version="1" timestamp="2024-01-10T01:33:18Z" changeset="146086315" uid="19071241" user="Rokomo35"/>
+  <node id="11504790192" lat="35.6709186" lon="139.8092596" version="1" timestamp="2024-01-10T01:33:18Z" changeset="146086315" uid="19071241" user="Rokomo35"/>
+  <node id="11504790193" lat="35.6733070" lon="139.8101075" version="1" timestamp="2024-01-10T01:33:18Z" changeset="146086315" uid="19071241" user="Rokomo35"/>
+  <way id="19972684" version="12" timestamp="2024-07-11T23:47:48Z" changeset="153832822" uid="4757277" user="taketaketake">
+    <nd ref="2599141247"/>
+    <nd ref="6950216645"/>
+    <tag k="boat" v="yes"/>
+    <tag k="waterway" v="canal"/>
+  </way>
+  <way id="174022596" version="16" timestamp="2024-07-11T23:49:45Z" changeset="153832822" uid="4757277" user="taketaketake">
+    <nd ref="11504790192"/>
+    <nd ref="1847701623"/>
+    <nd ref="1847701621"/>
+    <nd ref="1847701620"/>
+    <nd ref="1847701619"/>
+    <nd ref="1847701618"/>
+    <nd ref="1847701617"/>
+    <tag k="name" v="大横川"/>
+    <tag k="name:en" v="Oyoko River"/>
+    <tag k="name:es" v="Río Oyoko"/>
+    <tag k="name:ja" v="大横川"/>
+    <tag k="name:ja_rm" v="Ōyokogawa"/>
+    <tag k="waterway" v="river"/>
+    <tag k="wikidata" v="Q11436511"/>
+  </way>
+  <way id="229240623" version="4" timestamp="2020-04-26T02:04:41Z" changeset="84126527" uid="11054781" user="Max_IN">
+    <nd ref="2599141245"/>
+    <nd ref="7447621138"/>
+    <nd ref="7447621137"/>
+    <nd ref="2378641194"/>
+    <tag k="tunnel" v="yes"/>
+    <tag k="waterway" v="river"/>
+  </way>
+  <way id="254089883" version="8" timestamp="2024-07-11T23:49:45Z" changeset="153832822" uid="4757277" user="taketaketake">
+    <nd ref="11502709313"/>
+    <nd ref="2599141246"/>
+    <nd ref="2599141247"/>
+    <tag k="name" v="仙台堀川"/>
+    <tag k="name:en" v="Sendaibori River"/>
+    <tag k="name:es" v="Río Sendaibori"/>
+    <tag k="waterway" v="canal"/>
+    <tag k="wikidata" v="Q3478521"/>
+  </way>
+  <way id="266525160" version="2" timestamp="2023-05-20T00:40:56Z" changeset="136320102" uid="610947" user="muramototomoya">
+    <nd ref="2720635479"/>
+    <nd ref="1847701647"/>
+    <tag k="name" v="大横川"/>
+    <tag k="waterway" v="river"/>
+  </way>
+  <way id="266525161" version="4" timestamp="2024-01-04T00:18:41Z" changeset="145859500" uid="19071241" user="Rokomo35">
+    <nd ref="2720635519"/>
+    <nd ref="2720635481"/>
+    <nd ref="11484203532"/>
+    <tag k="admin_level" v="7"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="waterway" v="canal"/>
+  </way>
+  <way id="266525163" version="3" timestamp="2024-02-29T16:30:29Z" changeset="148060740" uid="21122357" user="sibaking">
+    <nd ref="2720635585"/>
+    <nd ref="11491089317"/>
+    <tag k="name" v="大横川"/>
+    <tag k="name:en" v="Oyokogawa River"/>
+    <tag k="name:ja-Hira" v="おおよこがわ"/>
+    <tag k="waterway" v="canal"/>
+    <tag k="wikidata" v="Q11436511"/>
+    <tag k="wikipedia" v="ja:大横川"/>
+  </way>
+  <way id="742087590" version="2" timestamp="2019-11-06T04:37:47Z" changeset="76676870" uid="7115748" user="Daaaaaaa">
+    <nd ref="6950216645"/>
+    <nd ref="6950216646"/>
+    <tag k="boat" v="yes"/>
+    <tag k="layer" v="-1"/>
+    <tag k="tunnel" v="culvert"/>
+    <tag k="waterway" v="canal"/>
+  </way>
+  <way id="1236737232" version="1" timestamp="2024-01-04T00:18:41Z" changeset="145859500" uid="19071241" user="Rokomo35">
+    <nd ref="11484203532"/>
+    <nd ref="2720635479"/>
+    <tag k="admin_level" v="7"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="waterway" v="canal"/>
+  </way>
+  <way id="1237202578" version="1" timestamp="2024-01-05T07:18:37Z" changeset="145908735" uid="19071241" user="Rokomo35">
+    <nd ref="11491089317"/>
+    <nd ref="2720635547"/>
+    <nd ref="2720635519"/>
+    <tag k="waterway" v="canal"/>
+  </way>
+  <way id="1237745770" version="2" timestamp="2024-07-12T01:22:30Z" changeset="153833973" uid="4757277" user="taketaketake">
+    <nd ref="1847701647"/>
+    <nd ref="11496899958"/>
+    <tag k="name" v="大横川"/>
+    <tag k="name:en" v="Oyoko River"/>
+    <tag k="name:es" v="Río Oyoko"/>
+    <tag k="name:ja" v="大横川"/>
+    <tag k="name:ja_rm" v="Ōyokogawa"/>
+    <tag k="waterway" v="river"/>
+    <tag k="wikidata" v="Q11436511"/>
+  </way>
+  <way id="1237745786" version="2" timestamp="2024-07-12T01:22:30Z" changeset="153833973" uid="4757277" user="taketaketake">
+    <nd ref="11496899958"/>
+    <nd ref="11496911505"/>
+    <tag k="name" v="大横川"/>
+    <tag k="name:en" v="Oyoko River"/>
+    <tag k="name:es" v="Río Oyoko"/>
+    <tag k="name:ja" v="大横川"/>
+    <tag k="name:ja_rm" v="Ōyokogawa"/>
+    <tag k="waterway" v="river"/>
+    <tag k="wikidata" v="Q11436511"/>
+  </way>
+  <way id="1238263424" version="3" timestamp="2024-07-12T01:22:30Z" changeset="153833973" uid="4757277" user="taketaketake">
+    <nd ref="11502709297"/>
+    <nd ref="2599141247"/>
+    <tag k="name" v="大横川"/>
+    <tag k="name:en" v="Oyoko River"/>
+    <tag k="name:es" v="Río Oyoko"/>
+    <tag k="name:ja" v="大横川"/>
+    <tag k="name:ja_rm" v="Ōyokogawa"/>
+    <tag k="waterway" v="river"/>
+    <tag k="wikidata" v="Q11436511"/>
+  </way>
+  <way id="1238268261" version="2" timestamp="2024-07-12T01:22:30Z" changeset="153833973" uid="4757277" user="taketaketake">
+    <nd ref="11496911505"/>
+    <nd ref="11502709297"/>
+    <tag k="name" v="大横川"/>
+    <tag k="name:en" v="Oyoko River"/>
+    <tag k="name:es" v="Río Oyoko"/>
+    <tag k="name:ja" v="大横川"/>
+    <tag k="name:ja_rm" v="Ōyokogawa"/>
+    <tag k="waterway" v="river"/>
+    <tag k="wikidata" v="Q11436511"/>
+  </way>
+  <way id="1238268274" version="2" timestamp="2024-07-12T01:22:30Z" changeset="153833973" uid="4757277" user="taketaketake">
+    <nd ref="11502709309"/>
+    <nd ref="2599141244"/>
+    <nd ref="2599141245"/>
+    <nd ref="11502709313"/>
+    <tag k="name" v="仙台堀川"/>
+    <tag k="name:en" v="Sendaibori River"/>
+    <tag k="name:es" v="Río Sendaibori"/>
+    <tag k="waterway" v="canal"/>
+    <tag k="wikidata" v="Q3478521"/>
+  </way>
+  <way id="1238307139" version="3" timestamp="2025-07-05T04:49:37Z" changeset="168508641" uid="9040307" user="Triglav2018">
+    <nd ref="11503040066"/>
+    <nd ref="1443878926"/>
+    <nd ref="1847701626"/>
+    <nd ref="1443879046"/>
+    <nd ref="1443878817"/>
+    <nd ref="1443878837"/>
+    <nd ref="1443878812"/>
+    <nd ref="1443879094"/>
+    <nd ref="2367224677"/>
+    <tag k="name" v="大横川"/>
+    <tag k="name:en" v="Oyoko River"/>
+    <tag k="name:es" v="Río Oyoko"/>
+    <tag k="name:ja" v="大横川"/>
+    <tag k="name:ja_rm" v="Ōyokogawa"/>
+    <tag k="waterway" v="river"/>
+  </way>
+  <way id="1238307141" version="3" timestamp="2025-07-05T04:49:37Z" changeset="168508641" uid="9040307" user="Triglav2018">
+    <nd ref="2367224677"/>
+    <nd ref="1443879068"/>
+    <nd ref="1443878874"/>
+    <tag k="name" v="大横川"/>
+    <tag k="name:en" v="Oyoko River"/>
+    <tag k="name:es" v="Río Oyoko"/>
+    <tag k="name:ja" v="大横川"/>
+    <tag k="name:ja_rm" v="Ōyokogawa"/>
+    <tag k="waterway" v="river"/>
+  </way>
+  <way id="1238457920" version="3" timestamp="2025-07-05T04:49:37Z" changeset="168508641" uid="9040307" user="Triglav2018">
+    <nd ref="11504705324"/>
+    <nd ref="1443879067"/>
+    <nd ref="1443879099"/>
+    <nd ref="11503040066"/>
+    <tag k="name" v="大横川"/>
+    <tag k="name:en" v="Oyoko River"/>
+    <tag k="name:es" v="Río Oyoko"/>
+    <tag k="name:ja" v="大横川"/>
+    <tag k="name:ja_rm" v="Ōyokogawa"/>
+    <tag k="waterway" v="river"/>
+  </way>
+  <way id="1238457923" version="3" timestamp="2025-07-05T04:49:37Z" changeset="168508641" uid="9040307" user="Triglav2018">
+    <nd ref="11504731671"/>
+    <nd ref="11504705324"/>
+    <tag k="name" v="大横川"/>
+    <tag k="name:en" v="Oyoko River"/>
+    <tag k="name:es" v="Río Oyoko"/>
+    <tag k="name:ja" v="大横川"/>
+    <tag k="name:ja_rm" v="Ōyokogawa"/>
+    <tag k="waterway" v="river"/>
+  </way>
+  <way id="1238457924" version="3" timestamp="2025-07-05T04:49:37Z" changeset="168508641" uid="9040307" user="Triglav2018">
+    <nd ref="11504705334"/>
+    <nd ref="1443878908"/>
+    <nd ref="11504731672"/>
+    <tag k="name" v="大横川"/>
+    <tag k="name:en" v="Oyoko River"/>
+    <tag k="name:es" v="Río Oyoko"/>
+    <tag k="name:ja" v="大横川"/>
+    <tag k="name:ja_rm" v="Ōyokogawa"/>
+    <tag k="waterway" v="river"/>
+  </way>
+  <way id="1238457927" version="3" timestamp="2025-07-05T04:49:37Z" changeset="168508641" uid="9040307" user="Triglav2018">
+    <nd ref="1443878842"/>
+    <nd ref="11504705334"/>
+    <tag k="name" v="大横川"/>
+    <tag k="name:en" v="Oyoko River"/>
+    <tag k="name:es" v="Río Oyoko"/>
+    <tag k="name:ja" v="大横川"/>
+    <tag k="name:ja_rm" v="Ōyokogawa"/>
+    <tag k="waterway" v="river"/>
+  </way>
+  <way id="1238457928" version="2" timestamp="2024-07-12T01:22:30Z" changeset="153833973" uid="4757277" user="taketaketake">
+    <nd ref="1847701616"/>
+    <nd ref="1443878842"/>
+    <tag k="name" v="大横川"/>
+    <tag k="name:en" v="Oyoko River"/>
+    <tag k="name:es" v="Río Oyoko"/>
+    <tag k="name:ja" v="大横川"/>
+    <tag k="name:ja_rm" v="Ōyokogawa"/>
+    <tag k="waterway" v="river"/>
+    <tag k="wikidata" v="Q11436511"/>
+  </way>
+  <way id="1238457933" version="3" timestamp="2025-07-05T04:49:37Z" changeset="168508641" uid="9040307" user="Triglav2018">
+    <nd ref="11504705314"/>
+    <nd ref="11504731671"/>
+    <tag k="name" v="大横川"/>
+    <tag k="name:en" v="Oyoko River"/>
+    <tag k="name:es" v="Río Oyoko"/>
+    <tag k="name:ja" v="大横川"/>
+    <tag k="name:ja_rm" v="Ōyokogawa"/>
+    <tag k="waterway" v="river"/>
+  </way>
+  <way id="1238457935" version="3" timestamp="2025-07-05T04:49:37Z" changeset="168508641" uid="9040307" user="Triglav2018">
+    <nd ref="11504731672"/>
+    <nd ref="1443879024"/>
+    <nd ref="1443879080"/>
+    <nd ref="11504705314"/>
+    <tag k="name" v="大横川"/>
+    <tag k="name:en" v="Oyoko River"/>
+    <tag k="name:es" v="Río Oyoko"/>
+    <tag k="name:ja" v="大横川"/>
+    <tag k="name:ja_rm" v="Ōyokogawa"/>
+    <tag k="waterway" v="river"/>
+  </way>
+  <way id="1238463894" version="2" timestamp="2024-07-12T01:22:30Z" changeset="153833973" uid="4757277" user="taketaketake">
+    <nd ref="11504776924"/>
+    <nd ref="2599141238"/>
+    <nd ref="1847701616"/>
+    <tag k="name" v="大横川"/>
+    <tag k="name:en" v="Oyoko River"/>
+    <tag k="name:es" v="Río Oyoko"/>
+    <tag k="name:ja" v="大横川"/>
+    <tag k="name:ja_rm" v="Ōyokogawa"/>
+    <tag k="waterway" v="river"/>
+    <tag k="wikidata" v="Q11436511"/>
+  </way>
+  <way id="1238463899" version="2" timestamp="2024-07-12T01:22:30Z" changeset="153833973" uid="4757277" user="taketaketake">
+    <nd ref="2599141247"/>
+    <nd ref="11504790193"/>
+    <tag k="name" v="大横川"/>
+    <tag k="name:en" v="Oyoko River"/>
+    <tag k="name:es" v="Río Oyoko"/>
+    <tag k="name:ja" v="大横川"/>
+    <tag k="name:ja_rm" v="Ōyokogawa"/>
+    <tag k="waterway" v="river"/>
+    <tag k="wikidata" v="Q11436511"/>
+  </way>
+  <way id="1238463903" version="2" timestamp="2024-07-12T01:22:30Z" changeset="153833973" uid="4757277" user="taketaketake">
+    <nd ref="1847701617"/>
+    <nd ref="1847701615"/>
+    <nd ref="11504776924"/>
+    <tag k="name" v="大横川"/>
+    <tag k="name:en" v="Oyoko River"/>
+    <tag k="name:es" v="Río Oyoko"/>
+    <tag k="name:ja" v="大横川"/>
+    <tag k="name:ja_rm" v="Ōyokogawa"/>
+    <tag k="waterway" v="river"/>
+    <tag k="wikidata" v="Q11436511"/>
+  </way>
+  <way id="1238463917" version="2" timestamp="2024-07-12T01:22:30Z" changeset="153833973" uid="4757277" user="taketaketake">
+    <nd ref="11504776937"/>
+    <nd ref="11504790192"/>
+    <tag k="name" v="大横川"/>
+    <tag k="name:en" v="Oyoko River"/>
+    <tag k="name:es" v="Río Oyoko"/>
+    <tag k="name:ja" v="大横川"/>
+    <tag k="name:ja_rm" v="Ōyokogawa"/>
+    <tag k="waterway" v="river"/>
+    <tag k="wikidata" v="Q11436511"/>
+  </way>
+  <way id="1238463922" version="2" timestamp="2024-07-12T01:22:30Z" changeset="153833973" uid="4757277" user="taketaketake">
+    <nd ref="11504790193"/>
+    <nd ref="1847701629"/>
+    <nd ref="11504776937"/>
+    <tag k="name" v="大横川"/>
+    <tag k="name:en" v="Oyoko River"/>
+    <tag k="name:es" v="Río Oyoko"/>
+    <tag k="name:ja" v="大横川"/>
+    <tag k="name:ja_rm" v="Ōyokogawa"/>
+    <tag k="waterway" v="river"/>
+    <tag k="wikidata" v="Q11436511"/>
+  </way>
+  <relation id="19323631" version="1" timestamp="2025-07-05T04:49:37Z" changeset="168508641" uid="9040307" user="Triglav2018">
+    <member type="way" ref="1238307141" role=""/>
+    <member type="way" ref="1238307139" role=""/>
+    <member type="way" ref="1238457920" role=""/>
+    <member type="way" ref="1238457923" role=""/>
+    <member type="way" ref="1238457933" role=""/>
+    <member type="way" ref="1238457935" role=""/>
+    <member type="way" ref="1238457924" role=""/>
+    <member type="way" ref="1238457927" role=""/>
+    <member type="way" ref="1238457928" role=""/>
+    <member type="way" ref="1238463894" role=""/>
+    <member type="way" ref="1238463903" role=""/>
+    <member type="way" ref="174022596" role=""/>
+    <member type="way" ref="1238463917" role=""/>
+    <member type="way" ref="1238463922" role=""/>
+    <member type="way" ref="1238463899" role=""/>
+    <member type="way" ref="1238263424" role=""/>
+    <member type="way" ref="1238268261" role=""/>
+    <member type="way" ref="1237745786" role=""/>
+    <member type="way" ref="1237745770" role=""/>
+    <member type="way" ref="266525160" role=""/>
+    <member type="way" ref="1236737232" role=""/>
+    <member type="way" ref="266525161" role=""/>
+    <member type="way" ref="1237202578" role=""/>
+    <member type="way" ref="266525163" role=""/>
+    <tag k="name" v="大横川"/>
+    <tag k="type" v="waterway"/>
+    <tag k="waterway" v="river"/>
+    <tag k="wikidata" v="Q11436511"/>
+  </relation>
+
+</osm>

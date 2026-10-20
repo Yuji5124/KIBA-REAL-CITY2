@@ -1,0 +1,11 @@
+import { cp, mkdir, rm } from 'node:fs/promises';
+import { resolve } from 'node:path';
+const root=resolve(process.argv[2]??process.cwd());
+const out=resolve(root,'build-phase2a');
+await rm(out,{recursive:true,force:true});
+await mkdir(resolve(out,'web'),{recursive:true});
+await mkdir(resolve(out,'data/processed/phase2a'),{recursive:true});
+await cp(resolve(root,'web/phase2a'),resolve(out,'web/phase2a'),{recursive:true});
+await cp(resolve(root,'data/processed/phase2a/phase2a_scene.json'),resolve(out,'data/processed/phase2a/phase2a_scene.json'));
+await cp(resolve(root,'data/processed/phase2a/phase2a_report.json'),resolve(out,'data/processed/phase2a/phase2a_report.json'));
+console.log(`Phase 2A viewer built: ${out}`);

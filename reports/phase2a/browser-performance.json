@@ -1,0 +1,10 @@
+{
+  "verification": "actual browser session via Codex in-app browser; scene loaded from local HTTP server",
+  "viewportPixels": [1280, 720],
+  "liveHudFpsSamplesAfterWarmup": [60.1, 54.3],
+  "drawCalls": 7,
+  "renderedTriangles": 25465,
+  "meshCount": 6,
+  "devicePixelRatio": 1.0,
+  "note": "Live DOM/HUD reads after warm-up were 60.1 and 54.3 FPS. Screenshot raster showed a brief capture-time dip; the in-app capture can pause rendering. Hardware/browser specific."
+}

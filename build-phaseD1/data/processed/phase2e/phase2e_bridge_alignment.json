@@ -1,0 +1,402 @@
+{
+  "phase": "2E",
+  "coordinateSystem": "Three.js: x=east, y=T.P. metres, z=-north; local origin from KPR",
+  "phase2bOriginEPSG6677": [
+    -2302.317826321731,
+    -36106.717222697174
+  ],
+  "glbCrs": "EPSG:6677",
+  "glbOriginEPSG6677": [
+    -2302.317826321731,
+    -36106.717222697174
+  ],
+  "originMatchesPhase2b": true,
+  "registration": {
+    "translationMetres": [
+      0,
+      0,
+      0
+    ],
+    "rotationDegrees": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1.0,
+    "basis": "GLB vertices are Y-up in the same local X/east, Z/-north frame; raw scene extras claim Z-up and conflict with mesh layout. Identity transform is a visually registered hypothesis, not a survey control-point verification."
+  },
+  "asset": {
+    "sourceFile": "Kiba_Park_Ohashi_G6.2_visual_details.glb",
+    "sourceSha256": "57b8c6cfdace86467664e40eaa8ad31f1c639a9e59a2a652b6d8ba3a61e9bcff",
+    "sanitizedFile": "Kiba_Park_Ohashi_G6.2_visual_details_sanitized.glb",
+    "sanitizedSha256": "5b9a20e6e0bf5bf688e98b01ea7b69740ccc23b00362b2e4ce2046143ff96ddd",
+    "metadataFieldsRemoved": 4,
+    "boundsXYZ": [
+      [
+        73.86833953857422,
+        89.5999984741211
+      ],
+      [
+        0.0,
+        60.0
+      ],
+      [
+        -236.01809692382812,
+        -47.979087829589844
+      ]
+    ],
+    "dimensionsXYZMetres": [
+      15.732,
+      60.0,
+      188.039
+    ],
+    "meshNodes": 27,
+    "primitiveCount": 27,
+    "materialCount": 2,
+    "triangleCount": 356,
+    "componentNames": [
+      "G6.2 | west pylon",
+      "G6.2 | east pylon",
+      "G6.2 | pylon crossbeam",
+      "G6.2 | west stay | y48",
+      "G6.2 | west stay | y62",
+      "G6.2 | west stay | y76",
+      "G6.2 | west stay | y90",
+      "G6.2 | west stay | y104",
+      "G6.2 | west stay | y114",
+      "G6.2 | west stay | y150",
+      "G6.2 | west stay | y166",
+      "G6.2 | west stay | y184",
+      "G6.2 | west stay | y202",
+      "G6.2 | west stay | y220",
+      "G6.2 | west stay | y236",
+      "G6.2 | east stay | y48",
+      "G6.2 | east stay | y62",
+      "G6.2 | east stay | y76",
+      "G6.2 | east stay | y90",
+      "G6.2 | east stay | y104",
+      "G6.2 | east stay | y114",
+      "G6.2 | east stay | y150",
+      "G6.2 | east stay | y166",
+      "G6.2 | east stay | y184",
+      "G6.2 | east stay | y202",
+      "G6.2 | east stay | y220",
+      "G6.2 | east stay | y236"
+    ],
+    "components": [
+      {
+        "node": "G6.2 | west pylon",
+        "extras": {
+          "visual_only": true,
+          "reference_height_m": 60.0,
+          "walk_collision": false,
+          "source": "Public park and engineering archive dimensions; approximate local form."
+        },
+        "vertices": 56,
+        "triangles": 28
+      },
+      {
+        "node": "G6.2 | east pylon",
+        "extras": {
+          "visual_only": true,
+          "reference_height_m": 60.0,
+          "walk_collision": false,
+          "source": "Public park and engineering archive dimensions; approximate local form."
+        },
+        "vertices": 56,
+        "triangles": 28
+      },
+      {
+        "node": "G6.2 | pylon crossbeam",
+        "extras": {
+          "visual_only": true,
+          "walk_collision": false
+        },
+        "vertices": 24,
+        "triangles": 12
+      },
+      {
+        "node": "G6.2 | west stay | y48",
+        "extras": {
+          "visual_only": true,
+          "walk_collision": false,
+          "reference": "Cable-stayed form from OSM bridge:structure=cable-stayed; simplified stays."
+        },
+        "vertices": 14,
+        "triangles": 12
+      },
+      {
+        "node": "G6.2 | west stay | y62",
+        "extras": {
+          "visual_only": true,
+          "walk_collision": false,
+          "reference": "Cable-stayed form from OSM bridge:structure=cable-stayed; simplified stays."
+        },
+        "vertices": 14,
+        "triangles": 12
+      },
+      {
+        "node": "G6.2 | west stay | y76",
+        "extras": {
+          "visual_only": true,
+          "walk_collision": false,
+          "reference": "Cable-stayed form from OSM bridge:structure=cable-stayed; simplified stays."
+        },
+        "vertices": 14,
+        "triangles": 12
+      },
+      {
+        "node": "G6.2 | west stay | y90",
+        "extras": {
+          "visual_only": true,
+          "walk_collision": false,
+          "reference": "Cable-stayed form from OSM bridge:structure=cable-stayed; simplified stays."
+        },
+        "vertices": 14,
+        "triangles": 12
+      },
+      {
+        "node": "G6.2 | west stay | y104",
+        "extras": {
+          "visual_only": true,
+          "walk_collision": false,
+          "reference": "Cable-stayed form from OSM bridge:structure=cable-stayed; simplified stays."
+        },
+        "vertices": 14,
+        "triangles": 12
+      },
+      {
+        "node": "G6.2 | west stay | y114",
+        "extras": {
+          "visual_only": true,
+          "walk_collision": false,
+          "reference": "Cable-stayed form from OSM bridge:structure=cable-stayed; simplified stays."
+        },
+        "vertices": 14,
+        "triangles": 12
+      },
+      {
+        "node": "G6.2 | west stay | y150",
+        "extras": {
+          "visual_only": true,
+          "walk_collision": false,
+          "reference": "Cable-stayed form from OSM bridge:structure=cable-stayed; simplified stays."
+        },
+        "vertices": 14,
+        "triangles": 12
+      },
+      {
+        "node": "G6.2 | west stay | y166",
+        "extras": {
+          "visual_only": true,
+          "walk_collision": false,
+          "reference": "Cable-stayed form from OSM bridge:structure=cable-stayed; simplified stays."
+        },
+        "vertices": 14,
+        "triangles": 12
+      },
+      {
+        "node": "G6.2 | west stay | y184",
+        "extras": {
+          "visual_only": true,
+          "walk_collision": false,
+          "reference": "Cable-stayed form from OSM bridge:structure=cable-stayed; simplified stays."
+        },
+        "vertices": 14,
+        "triangles": 12
+      },
+      {
+        "node": "G6.2 | west stay | y202",
+        "extras": {
+          "visual_only": true,
+          "walk_collision": false,
+          "reference": "Cable-stayed form from OSM bridge:structure=cable-stayed; simplified stays."
+        },
+        "vertices": 14,
+        "triangles": 12
+      },
+      {
+        "node": "G6.2 | west stay | y220",
+        "extras": {
+          "visual_only": true,
+          "walk_collision": false,
+          "reference": "Cable-stayed form from OSM bridge:structure=cable-stayed; simplified stays."
+        },
+        "vertices": 14,
+        "triangles": 12
+      },
+      {
+        "node": "G6.2 | west stay | y236",
+        "extras": {
+          "visual_only": true,
+          "walk_collision": false,
+          "reference": "Cable-stayed form from OSM bridge:structure=cable-stayed; simplified stays."
+        },
+        "vertices": 14,
+        "triangles": 12
+      },
+      {
+        "node": "G6.2 | east stay | y48",
+        "extras": {
+          "visual_only": true,
+          "walk_collision": false,
+          "reference": "Cable-stayed form from OSM bridge:structure=cable-stayed; simplified stays."
+        },
+        "vertices": 14,
+        "triangles": 12
+      },
+      {
+        "node": "G6.2 | east stay | y62",
+        "extras": {
+          "visual_only": true,
+          "walk_collision": false,
+          "reference": "Cable-stayed form from OSM bridge:structure=cable-stayed; simplified stays."
+        },
+        "vertices": 14,
+        "triangles": 12
+      },
+      {
+        "node": "G6.2 | east stay | y76",
+        "extras": {
+          "visual_only": true,
+          "walk_collision": false,
+          "reference": "Cable-stayed form from OSM bridge:structure=cable-stayed; simplified stays."
+        },
+        "vertices": 14,
+        "triangles": 12
+      },
+      {
+        "node": "G6.2 | east stay | y90",
+        "extras": {
+          "visual_only": true,
+          "walk_collision": false,
+          "reference": "Cable-stayed form from OSM bridge:structure=cable-stayed; simplified stays."
+        },
+        "vertices": 14,
+        "triangles": 12
+      },
+      {
+        "node": "G6.2 | east stay | y104",
+        "extras": {
+          "visual_only": true,
+          "walk_collision": false,
+          "reference": "Cable-stayed form from OSM bridge:structure=cable-stayed; simplified stays."
+        },
+        "vertices": 14,
+        "triangles": 12
+      },
+      {
+        "node": "G6.2 | east stay | y114",
+        "extras": {
+          "visual_only": true,
+          "walk_collision": false,
+          "reference": "Cable-stayed form from OSM bridge:structure=cable-stayed; simplified stays."
+        },
+        "vertices": 14,
+        "triangles": 12
+      },
+      {
+        "node": "G6.2 | east stay | y150",
+        "extras": {
+          "visual_only": true,
+          "walk_collision": false,
+          "reference": "Cable-stayed form from OSM bridge:structure=cable-stayed; simplified stays."
+        },
+        "vertices": 14,
+        "triangles": 12
+      },
+      {
+        "node": "G6.2 | east stay | y166",
+        "extras": {
+          "visual_only": true,
+          "walk_collision": false,
+          "reference": "Cable-stayed form from OSM bridge:structure=cable-stayed; simplified stays."
+        },
+        "vertices": 14,
+        "triangles": 12
+      },
+      {
+        "node": "G6.2 | east stay | y184",
+        "extras": {
+          "visual_only": true,
+          "walk_collision": false,
+          "reference": "Cable-stayed form from OSM bridge:structure=cable-stayed; simplified stays."
+        },
+        "vertices": 14,
+        "triangles": 12
+      },
+      {
+        "node": "G6.2 | east stay | y202",
+        "extras": {
+          "visual_only": true,
+          "walk_collision": false,
+          "reference": "Cable-stayed form from OSM bridge:structure=cable-stayed; simplified stays."
+        },
+        "vertices": 14,
+        "triangles": 12
+      },
+      {
+        "node": "G6.2 | east stay | y220",
+        "extras": {
+          "visual_only": true,
+          "walk_collision": false,
+          "reference": "Cable-stayed form from OSM bridge:structure=cable-stayed; simplified stays."
+        },
+        "vertices": 14,
+        "triangles": 12
+      },
+      {
+        "node": "G6.2 | east stay | y236",
+        "extras": {
+          "visual_only": true,
+          "walk_collision": false,
+          "reference": "Cable-stayed form from OSM bridge:structure=cable-stayed; simplified stays."
+        },
+        "vertices": 14,
+        "triangles": 12
+      }
+    ],
+    "blendFileFound": false,
+    "deckSurfaceMeshPresent": false,
+    "walkCollision": false
+  },
+  "osmComparison": {
+    "wayId": "33976871",
+    "phase2bRunCount": 2,
+    "phase2cNavigationRunCount": 2,
+    "phase2cBridgeRunCountAll": 13,
+    "phase2cAllBridgeStatuses": {
+      "review": 760,
+      "blocked": 146
+    },
+    "osmRibbonCenterlineLengthMetres": 132.9,
+    "osmRibbonLengthBySplitRunMetres": [
+      68.04,
+      64.86
+    ],
+    "osmSplitRunGapMetres": 16.616,
+    "osmCenterlinePlanBoundsXZ": [
+      75.627,
+      -267.562,
+      82.357,
+      -118.488
+    ],
+    "osmBridgeInterpolatedHeightRangeMetres": [
+      1.568,
+      4.94
+    ],
+    "fractionOfStationsInsideGlbPlanBounds": 0.7601,
+    "deckHeightAgreement": "unverifiable: GLB has only pylon/crossbeam/stay meshes and no deck surface; Phase2C deck is inferred from Phase2B endpoints"
+  },
+  "viewAndCollisionPolicy": {
+    "modelVisualOnly": true,
+    "phase2cBridgeNavigationUnchanged": true,
+    "allBridgeRunsRemainReviewOrBlocked": true,
+    "estimatedBridgeHeightNeverPromotedToMeasured": true
+  },
+  "counts": {
+    "mappedTrees": 42,
+    "estimatedTrees": 759,
+    "bridgeRuns": 13
+  }
+}

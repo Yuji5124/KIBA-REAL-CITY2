@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2026-10-17T22:20:36Z"/>
+
+  <bounds minlat="35.6708181" minlon="139.8057307" maxlat="35.6808323" maxlon="139.8113834"/>
+
+  <node id="6400941121" lat="35.6721463" lon="139.8080350" version="1" timestamp="2019-04-12T16:51:58Z" changeset="69155326" uid="4660522" user="Yuichi Ehara"/>
+  <node id="6400941122" lat="35.6720700" lon="139.8088124" version="1" timestamp="2019-04-12T16:51:58Z" changeset="69155326" uid="4660522" user="Yuichi Ehara"/>
+  <node id="6400968199" lat="35.6718652" lon="139.8080013" version="1" timestamp="2019-04-12T17:02:30Z" changeset="69155785" uid="4660522" user="Yuichi Ehara"/>
+  <node id="6400968200" lat="35.6717872" lon="139.8087772" version="1" timestamp="2019-04-12T17:02:30Z" changeset="69155785" uid="4660522" user="Yuichi Ehara"/>
+  <node id="6616790815" lat="35.6720984" lon="139.8085231" version="1" timestamp="2019-07-15T14:59:42Z" changeset="72269626" uid="550560" user="OSMuser111107"/>
+  <node id="6616790816" lat="35.6718170" lon="139.8084805" version="1" timestamp="2019-07-15T14:59:42Z" changeset="72269626" uid="550560" user="OSMuser111107"/>
+  <node id="6955587651" lat="35.6745529" lon="139.8072275" version="2" timestamp="2019-11-24T07:26:38Z" changeset="77475673" uid="7115748" user="Daaaaaaa"/>
+  <node id="6955587652" lat="35.6745496" lon="139.8072999" version="2" timestamp="2019-11-24T07:26:38Z" changeset="77475673" uid="7115748" user="Daaaaaaa"/>
+  <node id="6955587653" lat="35.6745498" lon="139.8073759" version="2" timestamp="2019-11-24T07:26:38Z" changeset="77475673" uid="7115748" user="Daaaaaaa"/>
+  <node id="6955587654" lat="35.6745527" lon="139.8074541" version="2" timestamp="2019-11-24T07:26:38Z" changeset="77475673" uid="7115748" user="Daaaaaaa"/>
+  <node id="6955587655" lat="35.6745726" lon="139.8075511" version="2" timestamp="2019-11-24T07:26:38Z" changeset="77475673" uid="7115748" user="Daaaaaaa"/>
+  <node id="6955587656" lat="35.6746029" lon="139.8076293" version="2" timestamp="2019-11-24T07:26:38Z" changeset="77475673" uid="7115748" user="Daaaaaaa"/>
+  <node id="6955587657" lat="35.6746323" lon="139.8076748" version="2" timestamp="2019-11-24T07:26:38Z" changeset="77475673" uid="7115748" user="Daaaaaaa"/>
+  <node id="6955587658" lat="35.6746590" lon="139.8077097" version="2" timestamp="2019-11-24T07:26:38Z" changeset="77475673" uid="7115748" user="Daaaaaaa"/>
+  <node id="6955587659" lat="35.6749263" lon="139.8077695" version="2" timestamp="2019-11-24T07:26:38Z" changeset="77475673" uid="7115748" user="Daaaaaaa"/>
+  <node id="6955587660" lat="35.6749683" lon="139.8077481" version="2" timestamp="2019-11-24T07:26:38Z" changeset="77475673" uid="7115748" user="Daaaaaaa"/>
+  <node id="6955587661" lat="35.6750110" lon="139.8077224" version="2" timestamp="2019-11-24T07:26:38Z" changeset="77475673" uid="7115748" user="Daaaaaaa"/>
+  <node id="6955587662" lat="35.6750499" lon="139.8076792" version="2" timestamp="2019-11-24T07:26:38Z" changeset="77475673" uid="7115748" user="Daaaaaaa"/>
+  <node id="6955587663" lat="35.6750869" lon="139.8076290" version="2" timestamp="2019-11-24T07:26:38Z" changeset="77475673" uid="7115748" user="Daaaaaaa"/>
+  <node id="6955587664" lat="35.6751172" lon="139.8075601" version="2" timestamp="2019-11-24T07:26:38Z" changeset="77475673" uid="7115748" user="Daaaaaaa"/>
+  <node id="6955587665" lat="35.6751315" lon="139.8075111" version="2" timestamp="2019-11-24T07:26:38Z" changeset="77475673" uid="7115748" user="Daaaaaaa"/>
+  <node id="6955587667" lat="35.6751419" lon="139.8074499" version="2" timestamp="2019-11-24T07:26:38Z" changeset="77475673" uid="7115748" user="Daaaaaaa"/>
+  <node id="6955587672" lat="35.6747804" lon="139.8070329" version="2" timestamp="2019-11-24T07:26:38Z" changeset="77475673" uid="7115748" user="Daaaaaaa"/>
+  <node id="7005594691" lat="35.6749359" lon="139.8078031" version="1" timestamp="2019-11-24T07:26:38Z" changeset="77475673" uid="7115748" user="Daaaaaaa"/>
+  <node id="7005594692" lat="35.6749778" lon="139.8077817" version="1" timestamp="2019-11-24T07:26:38Z" changeset="77475673" uid="7115748" user="Daaaaaaa"/>
+  <node id="7005594693" lat="35.6750056" lon="139.8077636" version="1" timestamp="2019-11-24T07:26:38Z" changeset="77475673" uid="7115748" user="Daaaaaaa"/>
+  <node id="7005594694" lat="35.6750465" lon="139.8077267" version="1" timestamp="2019-11-24T07:26:38Z" changeset="77475673" uid="7115748" user="Daaaaaaa"/>
+  <node id="7005594695" lat="35.6750862" lon="139.8076838" version="1" timestamp="2019-11-24T07:26:38Z" changeset="77475673" uid="7115748" user="Daaaaaaa"/>
+  <node id="7005594696" lat="35.6751276" lon="139.8076167" version="1" timestamp="2019-11-24T07:26:38Z" changeset="77475673" uid="7115748" user="Daaaaaaa"/>
+  <node id="7005594697" lat="35.6751500" lon="139.8075510" version="1" timestamp="2019-11-24T07:26:38Z" changeset="77475673" uid="7115748" user="Daaaaaaa"/>
+  <node id="7005594698" lat="35.6751603" lon="139.8075041" version="1" timestamp="2019-11-24T07:26:38Z" changeset="77475673" uid="7115748" user="Daaaaaaa"/>
+  <node id="7005594699" lat="35.6751690" lon="139.8074571" version="1" timestamp="2019-11-24T07:26:38Z" changeset="77475673" uid="7115748" user="Daaaaaaa"/>
+  <node id="7005594700" lat="35.6746387" lon="139.8077402" version="1" timestamp="2019-11-24T07:26:38Z" changeset="77475673" uid="7115748" user="Daaaaaaa"/>
+  <node id="7005594701" lat="35.6746021" lon="139.8076942" version="1" timestamp="2019-11-24T07:26:38Z" changeset="77475673" uid="7115748" user="Daaaaaaa"/>
+  <node id="7005594702" lat="35.6745697" lon="139.8076331" version="1" timestamp="2019-11-24T07:26:38Z" changeset="77475673" uid="7115748" user="Daaaaaaa"/>
+  <node id="7005594703" lat="35.6745388" lon="139.8075482" version="1" timestamp="2019-11-24T07:26:38Z" changeset="77475673" uid="7115748" user="Daaaaaaa"/>
+  <node id="7005594704" lat="35.6745273" lon="139.8074792" version="1" timestamp="2019-11-24T07:26:38Z" changeset="77475673" uid="7115748" user="Daaaaaaa"/>
+  <node id="7005594705" lat="35.6745216" lon="139.8074225" version="1" timestamp="2019-11-24T07:26:38Z" changeset="77475673" uid="7115748" user="Daaaaaaa"/>
+  <node id="7005594706" lat="35.6745187" lon="139.8073411" version="1" timestamp="2019-11-24T07:26:38Z" changeset="77475673" uid="7115748" user="Daaaaaaa"/>
+  <node id="7005594707" lat="35.6745187" lon="139.8072721" version="1" timestamp="2019-11-24T07:26:38Z" changeset="77475673" uid="7115748" user="Daaaaaaa"/>
+  <node id="7005594708" lat="35.6745230" lon="139.8072252" version="1" timestamp="2019-11-24T07:26:38Z" changeset="77475673" uid="7115748" user="Daaaaaaa"/>
+  <node id="7146448504" lat="35.6739447" lon="139.8073769" version="1" timestamp="2020-01-20T14:03:15Z" changeset="79801608" uid="7115748" user="Daaaaaaa">
+    <tag k="barrier" v="gate"/>
+  </node>
+  <node id="7146448505" lat="35.6725115" lon="139.8070957" version="1" timestamp="2020-01-20T14:03:15Z" changeset="79801608" uid="7115748" user="Daaaaaaa">
+    <tag k="barrier" v="gate"/>
+  </node>
+  <node id="7598152685" lat="35.6745458" lon="139.8069575" version="1" timestamp="2020-06-06T14:00:03Z" changeset="86280747" uid="7115748" user="Daaaaaaa"/>
+  <node id="7598152686" lat="35.6746158" lon="139.8069698" version="1" timestamp="2020-06-06T14:00:03Z" changeset="86280747" uid="7115748" user="Daaaaaaa"/>
+  <node id="7598152687" lat="35.6745337" lon="139.8070779" version="1" timestamp="2020-06-06T14:00:03Z" changeset="86280747" uid="7115748" user="Daaaaaaa"/>
+  <node id="7598152688" lat="35.6746118" lon="139.8070052" version="1" timestamp="2020-06-06T14:00:03Z" changeset="86280747" uid="7115748" user="Daaaaaaa"/>
+  <node id="7598152689" lat="35.6745692" lon="139.8069979" version="1" timestamp="2020-06-06T14:00:03Z" changeset="86280747" uid="7115748" user="Daaaaaaa"/>
+  <node id="7598152690" lat="35.6745603" lon="139.8070843" version="1" timestamp="2020-06-06T14:00:03Z" changeset="86280747" uid="7115748" user="Daaaaaaa"/>
+  <node id="7598152691" lat="35.6752065" lon="139.8070738" version="1" timestamp="2020-06-06T14:00:03Z" changeset="86280747" uid="7115748" user="Daaaaaaa"/>
+  <node id="7598152692" lat="35.6751896" lon="139.8072314" version="1" timestamp="2020-06-06T14:00:03Z" changeset="86280747" uid="7115748" user="Daaaaaaa"/>
+  <node id="7598152693" lat="35.6751571" lon="139.8072273" version="1" timestamp="2020-06-06T14:00:03Z" changeset="86280747" uid="7115748" user="Daaaaaaa"/>
+  <node id="7598152694" lat="35.6751702" lon="139.8071076" version="1" timestamp="2020-06-06T14:00:03Z" changeset="86280747" uid="7115748" user="Daaaaaaa"/>
+  <node id="7598152695" lat="35.6750809" lon="139.8070894" version="1" timestamp="2020-06-06T14:00:03Z" changeset="86280747" uid="7115748" user="Daaaaaaa"/>
+  <node id="7598152696" lat="35.6750858" lon="139.8070526" version="1" timestamp="2020-06-06T14:00:03Z" changeset="86280747" uid="7115748" user="Daaaaaaa"/>
+  <node id="7598152697" lat="35.6749739" lon="139.8070329" version="1" timestamp="2020-06-06T14:00:03Z" changeset="86280747" uid="7115748" user="Daaaaaaa"/>
+  <node id="7598152698" lat="35.6747849" lon="139.8069996" version="1" timestamp="2020-06-06T14:00:03Z" changeset="86280747" uid="7115748" user="Daaaaaaa"/>
+  <node id="7598152699" lat="35.6749683" lon="139.8070685" version="1" timestamp="2020-06-06T14:00:03Z" changeset="86280747" uid="7115748" user="Daaaaaaa"/>
+  <way id="683394371" version="4" timestamp="2020-09-28T13:54:22Z" changeset="91646563" uid="3933181" user="_Yuki_K_">
+    <nd ref="6400941121"/>
+    <nd ref="6616790815"/>
+    <nd ref="6400941122"/>
+    <nd ref="6400968200"/>
+    <nd ref="6616790816"/>
+    <nd ref="6400968199"/>
+    <nd ref="6400941121"/>
+    <tag k="barrier" v="fence"/>
+    <tag k="leisure" v="dog_park"/>
+    <tag k="name" v="ドッグラン"/>
+    <tag k="name:en" v="dog run"/>
+  </way>
+  <way id="704572346" version="1" timestamp="2019-07-15T14:59:42Z" changeset="72269626" uid="550560" user="OSMuser111107">
+    <nd ref="6616790815"/>
+    <nd ref="6616790816"/>
+    <tag k="barrier" v="fence"/>
+  </way>
+  <way id="743083433" version="5" timestamp="2020-06-06T14:00:03Z" changeset="86280747" uid="7115748" user="Daaaaaaa">
+    <nd ref="6955587651"/>
+    <nd ref="6955587652"/>
+    <nd ref="6955587653"/>
+    <nd ref="6955587654"/>
+    <nd ref="6955587655"/>
+    <nd ref="6955587656"/>
+    <nd ref="6955587657"/>
+    <nd ref="6955587658"/>
+    <nd ref="7005594700"/>
+    <nd ref="7005594701"/>
+    <nd ref="7005594702"/>
+    <nd ref="7005594703"/>
+    <nd ref="7005594704"/>
+    <nd ref="7005594705"/>
+    <nd ref="7005594706"/>
+    <nd ref="7005594707"/>
+    <nd ref="7005594708"/>
+    <nd ref="6955587651"/>
+    <tag k="barrier" v="hedge"/>
+    <tag k="landuse" v="flowerbed"/>
+  </way>
+  <way id="743083434" version="5" timestamp="2020-06-06T14:00:03Z" changeset="86280747" uid="7115748" user="Daaaaaaa">
+    <nd ref="6955587667"/>
+    <nd ref="7005594699"/>
+    <nd ref="7005594698"/>
+    <nd ref="7005594697"/>
+    <nd ref="7005594696"/>
+    <nd ref="7005594695"/>
+    <nd ref="7005594694"/>
+    <nd ref="7005594693"/>
+    <nd ref="7005594692"/>
+    <nd ref="7005594691"/>
+    <nd ref="6955587659"/>
+    <nd ref="6955587660"/>
+    <nd ref="6955587661"/>
+    <nd ref="6955587662"/>
+    <nd ref="6955587663"/>
+    <nd ref="6955587664"/>
+    <nd ref="6955587665"/>
+    <nd ref="6955587667"/>
+    <tag k="barrier" v="hedge"/>
+    <tag k="landuse" v="flowerbed"/>
+  </way>
+  <way id="743083435" version="5" timestamp="2020-06-06T14:00:03Z" changeset="86280747" uid="7115748" user="Daaaaaaa">
+    <nd ref="7598152688"/>
+    <nd ref="7598152686"/>
+    <nd ref="7598152685"/>
+    <nd ref="7598152687"/>
+    <nd ref="7598152690"/>
+    <nd ref="7598152689"/>
+    <nd ref="7598152688"/>
+    <tag k="barrier" v="hedge"/>
+    <tag k="landuse" v="flowerbed"/>
+  </way>
+  <way id="743083436" version="5" timestamp="2020-06-06T14:00:03Z" changeset="86280747" uid="7115748" user="Daaaaaaa">
+    <nd ref="6955587672"/>
+    <nd ref="7598152698"/>
+    <nd ref="7598152697"/>
+    <nd ref="7598152699"/>
+    <nd ref="6955587672"/>
+    <tag k="barrier" v="hedge"/>
+    <tag k="landuse" v="flowerbed"/>
+  </way>
+  <way id="743083437" version="5" timestamp="2020-06-06T14:00:03Z" changeset="86280747" uid="7115748" user="Daaaaaaa">
+    <nd ref="7598152693"/>
+    <nd ref="7598152692"/>
+    <nd ref="7598152691"/>
+    <nd ref="7598152696"/>
+    <nd ref="7598152695"/>
+    <nd ref="7598152694"/>
+    <nd ref="7598152693"/>
+    <tag k="barrier" v="hedge"/>
+    <tag k="landuse" v="flowerbed"/>
+  </way>
+
+</osm>

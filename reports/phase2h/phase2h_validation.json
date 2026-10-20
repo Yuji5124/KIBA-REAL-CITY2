@@ -1,0 +1,165 @@
+{
+  "phase": "2H",
+  "result": "PASS",
+  "scope": "isolated bridge movement experiment; production navigation untouched",
+  "trialRuns": [
+    {
+      "id": 0,
+      "lengthMetres": 68.046,
+      "pointCount": 164,
+      "widthMetres": 4.0,
+      "widthEstimated": true,
+      "heightEstimated": true,
+      "surfaceQuads": 163,
+      "forwardMetres": 66.3,
+      "reverseMetres": 66.5,
+      "endpoint": "BLOCK"
+    },
+    {
+      "id": 1,
+      "lengthMetres": 64.916,
+      "pointCount": 157,
+      "widthMetres": 4.0,
+      "widthEstimated": true,
+      "heightEstimated": true,
+      "surfaceQuads": 156,
+      "forwardMetres": 63.2,
+      "reverseMetres": 63.3,
+      "endpoint": "BLOCK"
+    }
+  ],
+  "experimentSurfaceQuads": 319,
+  "boundaryGapMetres": 16.609,
+  "gapConnected": false,
+  "unmodeledOverallLengthMetres": 100.555,
+  "gapEntry": "BLOCK",
+  "gapMidpointProbeDistanceMetres": 16.609,
+  "unmodeledAreaEntry": "BLOCK",
+  "unmodeledExtrapolationProbeMetres": 100.555,
+  "approaches": "not created; blocked",
+  "endpointGuardMetres": 0.75,
+  "normalMode": "Phase 2C navigation only; experimental meshes hidden; bridge blocked",
+  "phase2cBridgeRuns": {
+    "review": 8,
+    "blocked": 5,
+    "walkable": 0
+  },
+  "phase2cBridgeSegments": {
+    "review": 760,
+    "blocked": 146,
+    "total": 906
+  },
+  "phase2cNavSha256": "2a127eff41dce83fb98b3fc725bcc130d060495f3b2c2ffcc27e65bca7578b55",
+  "phase2cNavUnchanged": true,
+  "browserChecks": {
+    "actualBrowser": "http://127.0.0.1:8781/web/phase2h/",
+    "normalMode": "verified blocked; proxy returns to park position when trial mode is disabled",
+    "runAForwardReverseStop": "PASS",
+    "runBForwardReverseStop": "PASS",
+    "endpointGapAndUnmodeledBlocks": "PASS",
+    "views": [
+      "top",
+      "bridge",
+      "side",
+      "robot"
+    ],
+    "screenshots": {
+      "top": {
+        "path": "C:\\Users\\hp\\Desktop\\KIBA-REAL-CITY\\screenshots\\phase2h\\phase2h_top.png",
+        "width": 1280,
+        "height": 720,
+        "bytes": 191447,
+        "capturedInBrowser": true
+      },
+      "bridge": {
+        "path": "C:\\Users\\hp\\Desktop\\KIBA-REAL-CITY\\screenshots\\phase2h\\phase2h_bridge.png",
+        "width": 1280,
+        "height": 720,
+        "bytes": 371298,
+        "capturedInBrowser": true
+      },
+      "side": {
+        "path": "C:\\Users\\hp\\Desktop\\KIBA-REAL-CITY\\screenshots\\phase2h\\phase2h_side.png",
+        "width": 1280,
+        "height": 720,
+        "bytes": 299151,
+        "capturedInBrowser": true
+      },
+      "robot": {
+        "path": "C:\\Users\\hp\\Desktop\\KIBA-REAL-CITY\\screenshots\\phase2h\\phase2h_robot.png",
+        "width": 1280,
+        "height": 720,
+        "bytes": 127823,
+        "capturedInBrowser": true
+      }
+    }
+  },
+  "performance": {
+    "phase2g": {
+      "top": [
+        60.1,
+        58,
+        627814,
+        56
+      ],
+      "bridgeGround": [
+        60.1,
+        46,
+        552776,
+        56
+      ],
+      "side": [
+        60.1,
+        40,
+        552264,
+        56
+      ],
+      "robot": [
+        60.1,
+        19,
+        541188,
+        56
+      ]
+    },
+    "phase2hExperimental": {
+      "top": [
+        60.1,
+        62,
+        629090,
+        58
+      ],
+      "bridgeGround": [
+        53.2,
+        50,
+        554052,
+        58
+      ],
+      "side": [
+        50.2,
+        51,
+        554064,
+        58
+      ],
+      "robot": [
+        60.0,
+        49,
+        630604,
+        58
+      ]
+    },
+    "comparisonNotes": [
+      "Normal-mode overhead matches Phase 2G: 58 draw calls, 627814 triangles, 56 meshes.",
+      "Experimental top/bridge-ground add 4 calls and 1276 triangles; side view includes vegetation LOD variation.",
+      "Robot camera positions differ, so robot-view totals are not directly comparable.",
+      "Steady browser samples reached 58.1–60.1 FPS; save-time readings vary while switching views."
+    ]
+  },
+  "limitations": [
+    "All deck widths and elevations are estimates.",
+    "The two runs are disconnected by a 16.609m boundary gap.",
+    "The 100.555m unmodeled extent remains blocked.",
+    "No park approach path is created.",
+    "The 0.75m endpoint guard is an experiment rule, not surveyed bridge geometry.",
+    "These bounded trials do not prove full-bridge traversal."
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "tool": "kpr-fetch-osm/1",
+  "started_utc": "2026-10-17T22:08:17.456706+00:00",
+  "bbox_lonlat_WSEN": [
+    139.80573066837755,
+    35.67081810889563,
+    139.81138342678491,
+    35.68083225860033
+  ],
+  "source": {
+    "via": "Overpass API (read-only)",
+    "license": "ODbL 1.0",
+    "attribution": "(c) OpenStreetMap contributors",
+    "url": "https://www.openstreetmap.org/copyright"
+  },
+  "files": [
+    {
+      "layer": "paths",
+      "name": "footpaths",
+      "path": "osm/layers/paths/footpaths.osm",
+      "query": "[out:xml][timeout:90][bbox:35.6708181,139.8057307,35.6808323,139.8113834];(way[\"highway\"~\"^(footway|path|pedestrian|steps|cycleway|track|bridleway|corridor)$\"];);(._;>;);out meta;",
+      "node": 1613,
+      "way": 289,
+      "relation": 0,
+      "bytes": 383653,
+      "sha256": "3c89d66953b5e3616b42fc20ff4c966d68ec4f6e2696ade0a504119d4b5b1b54",
+      "status": "downloaded",
+      "retrieved_utc": "2026-10-17T22:08:51.696419+00:00"
+    },
+    {
+      "layer": "paths",
+      "name": "roads",
+      "path": "osm/layers/paths/roads.osm",
+      "query": "[out:xml][timeout:90][bbox:35.6708181,139.8057307,35.6808323,139.8113834];(way[\"highway\"][\"highway\"!~\"^(footway|path|pedestrian|steps|cycleway|track|bridleway|corridor)$\"];);(._;>;);out meta;",
+      "node": 527,
+      "way": 88,
+      "relation": 0,
+      "bytes": 151010,
+      "sha256": "76ebac992fe5953eb76c3ededbcbd6915cb201c647514687814c6b1b1967d9d6",
+      "status": "downloaded",
+      "retrieved_utc": "2026-10-17T22:09:28.485624+00:00"
+    },
+    {
+      "layer": "paths",
+      "name": "highway_nodes",
+      "path": "osm/layers/paths/highway_nodes.osm",
+      "query": "[out:xml][timeout:90][bbox:35.6708181,139.8057307,35.6808323,139.8113834];(node[\"highway\"];);(._;>;);out meta;",
+      "node": 80,
+      "way": 0,
+      "relation": 0,
+      "bytes": 25342,
+      "sha256": "2f3cd9ec12063c6ba53e4a00ca1f2b0a10948ab37a4dc2b5b9d769d82ad4b983",
+      "status": "downloaded",
+      "retrieved_utc": "2026-10-17T22:09:57.563798+00:00"
+    },
+    {
+      "layer": "paths",
+      "name": "bridges",
+      "path": "osm/layers/paths/bridges.osm",
+      "query": "[out:xml][timeout:90][bbox:35.6708181,139.8057307,35.6808323,139.8113834];(way[\"man_made\"=\"bridge\"];relation[\"man_made\"=\"bridge\"];way[\"bridge\"];);(._;>;);out meta;",
+      "node": 151,
+      "way": 38,
+      "relation": 0,
+      "bytes": 41875,
+      "sha256": "5e05e840576a175500dba0dc9c4df0e94174bbc866d16b2d30eba1bcb7af80c3",
+      "status": "downloaded",
+      "retrieved_utc": "2026-10-17T22:10:30.673834+00:00"
+    },
+    {
+      "layer": "buildings",
+      "name": "buildings",
+      "path": "osm/layers/buildings/buildings.osm",
+      "query": "[out:xml][timeout:90][bbox:35.6708181,139.8057307,35.6808323,139.8113834];(way[\"building\"];relation[\"building\"];);(._;>;);out meta;",
+      "node": 4430,
+      "way": 842,
+      "relation": 27,
+      "bytes": 1146850,
+      "sha256": "c183e279a362f8e74698536ae6253abcbb452e2dab6ac0bfe1950d6994cbb095",
+      "status": "downloaded",
+      "retrieved_utc": "2026-10-17T22:11:15.000511+00:00"
+    },
+    {
+      "layer": "buildings",
+      "name": "building_parts",
+      "path": "osm/layers/buildings/building_parts.osm",
+      "query": "[out:xml][timeout:90][bbox:35.6708181,139.8057307,35.6808323,139.8113834];(way[\"building:part\"];relation[\"building:part\"];);(._;>;);out meta;",
+      "node": 295,
+      "way": 49,
+      "relation": 0,
+      "bytes": 79157,
+      "sha256": "8bcde60aeb90945b4c3aa1602cde939b1c91175fa6d9559439998224c97345f9",
+      "status": "downloaded",
+      "retrieved_utc": "2026-10-17T22:11:53.562945+00:00"
+    },
+    {
+      "layer": "vegetation",
+      "name": "areas",
+      "path": "osm/layers/vegetation/areas.osm",
+      "query": "[out:xml][timeout:90][bbox:35.6708181,139.8057307,35.6808323,139.8113834];(way[\"natural\"~\"^(wood|scrub|grassland|heath)$\"];relation[\"natural\"~\"^(wood|scrub|grassland|heath)$\"];way[\"landuse\"~\"^(grass|forest|meadow|flowerbed|village_green)$\"];relation[\"landuse\"~\"^(grass|forest|meadow|flowerbed|village_green)$\"];way[\"leisure\"=\"garden\"];relation[\"leisure\"=\"garden\"];);(._;>;);out meta;",
+      "node": 569,
+      "way": 27,
+      "relation": 0,
+      "bytes": 111685,
+      "sha256": "46a206de6e2a19ac6799f83ecd4ceb3c70393b58cd7ed1f5dd5f769848df2cd4",
+      "status": "downloaded",
+      "retrieved_utc": "2026-10-17T22:12:31.626321+00:00"
+    },
+    {
+      "layer": "vegetation",
+      "name": "trees",
+      "path": "osm/layers/vegetation/trees.osm",
+      "query": "[out:xml][timeout:90][bbox:35.6708181,139.8057307,35.6808323,139.8113834];(node[\"natural\"=\"tree\"];way[\"natural\"=\"tree_row\"];);(._;>;);out meta;",
+      "node": 43,
+      "way": 0,
+      "relation": 0,
+      "bytes": 9021,
+      "sha256": "0520f224c7e622d96caec0426faa5715c551cbf9dd9dda6d85d2c3c46011bccd",
+      "status": "downloaded",
+      "retrieved_utc": "2026-10-17T22:13:21.324852+00:00"
+    },
+    {
+      "layer": "water",
+      "name": "water_areas",
+      "path": "osm/layers/water/water_areas.osm",
+      "query": "[out:xml][timeout:90][bbox:35.6708181,139.8057307,35.6808323,139.8113834];(way[\"natural\"=\"water\"];relation[\"natural\"=\"water\"];way[\"water\"];relation[\"water\"];);(._;>;);out meta;",
+      "node": 1106,
+      "way": 18,
+      "relation": 1,
+      "bytes": 206858,
+      "sha256": "51f793705ab4d0abed475d7a70ff8214ac34313809a7b84ed391983eb6e7257a",
+      "status": "downloaded",
+      "retrieved_utc": "2026-10-17T22:14:14.625379+00:00"
+    },
+    {
+      "layer": "water",
+      "name": "waterways",
+      "path": "osm/layers/water/waterways.osm",
+      "query": "[out:xml][timeout:90][bbox:35.6708181,139.8057307,35.6808323,139.8113834];(way[\"waterway\"];relation[\"waterway\"];node[\"waterway\"];);(._;>;);out meta;",
+      "node": 58,
+      "way": 29,
+      "relation": 1,
+      "bytes": 23095,
+      "sha256": "b38c1e908faa8efdf267e5e4318932adb179fb92906d3fd809fcbe4f71325648",
+      "status": "downloaded",
+      "retrieved_utc": "2026-10-17T22:14:48.675465+00:00"
+    },
+    {
+      "layer": "facilities",
+      "name": "leisure",
+      "path": "osm/layers/facilities/leisure.osm",
+      "query": "[out:xml][timeout:90][bbox:35.6708181,139.8057307,35.6808323,139.8113834];(nwr[\"leisure\"];);(._;>;);out meta;",
+      "node": 609,
+      "way": 35,
+      "relation": 1,
+      "bytes": 121978,
+      "sha256": "71dba33bd0da40f993411c4b8df7a8e990b0e662584284550040e51c96e51be1",
+      "status": "downloaded",
+      "retrieved_utc": "2026-10-17T22:19:42.757863+00:00"
+    },
+    {
+      "layer": "facilities",
+      "name": "amenity",
+      "path": "osm/layers/facilities/amenity.osm",
+      "query": "[out:xml][timeout:90][bbox:35.6708181,139.8057307,35.6808323,139.8113834];(nwr[\"amenity\"];);(._;>;);out meta;",
+      "node": 189,
+      "way": 23,
+      "relation": 0,
+      "bytes": 53642,
+      "sha256": "4781880fa739407035e1faece896eaa0cd3ed3011fb9260558f9aea121ea0b60",
+      "status": "downloaded",
+      "retrieved_utc": "2026-10-17T22:20:25.152547+00:00"
+    },
+    {
+      "layer": "facilities",
+      "name": "tourism",
+      "path": "osm/layers/facilities/tourism.osm",
+      "query": "[out:xml][timeout:90][bbox:35.6708181,139.8057307,35.6808323,139.8113834];(nwr[\"tourism\"];nwr[\"information\"];);(._;>;);out meta;",
+      "node": 74,
+      "way": 2,
+      "relation": 1,
+      "bytes": 16408,
+      "sha256": "7eafa30ab7b23431ff2c0d1fcdf946361379aee3268c9748aaf2273799db8e37",
+      "status": "downloaded",
+      "retrieved_utc": "2026-10-17T22:20:59.764454+00:00"
+    },
+    {
+      "layer": "facilities",
+      "name": "barriers",
+      "path": "osm/layers/facilities/barriers.osm",
+      "query": "[out:xml][timeout:90][bbox:35.6708181,139.8057307,35.6808323,139.8113834];(nwr[\"barrier\"];);(._;>;);out meta;",
+      "node": 58,
+      "way": 7,
+      "relation": 0,
+      "bytes": 12732,
+      "sha256": "2d0b8591f8fa7713dcb170b49efc44a92359d1efdf6e05b1220db9c3e6bd8445",
+      "status": "downloaded",
+      "retrieved_utc": "2026-10-17T22:21:34.170549+00:00"
+    },
+    {
+      "layer": "facilities",
+      "name": "man_made",
+      "path": "osm/layers/facilities/man_made.osm",
+      "query": "[out:xml][timeout:90][bbox:35.6708181,139.8057307,35.6808323,139.8113834];(nwr[\"man_made\"][\"man_made\"!=\"bridge\"];);(._;>;);out meta;",
+      "node": 14,
+      "way": 1,
+      "relation": 0,
+      "bytes": 3338,
+      "sha256": "b4a8ef5b7c3a2ac9029eddf86dbd9a686410d1712fe6ae9c80b66aff18f75915",
+      "status": "downloaded",
+      "retrieved_utc": "2026-10-17T22:22:05.734021+00:00"
+    }
+  ],
+  "failures": [
+    {
+      "layer": "water",
+      "name": "fountains",
+      "path": "osm/layers/water/fountains.osm",
+      "query": "[out:xml][timeout:90][bbox:35.6708181,139.8057307,35.6808323,139.8113834];(nwr[\"amenity\"=\"fountain\"];);(._;>;);out meta;",
+      "error": "HTTP Error 500: Internal Server Error"
+    }
+  ],
+  "finished_utc": "2026-10-17T22:22:05.734021+00:00"
+}

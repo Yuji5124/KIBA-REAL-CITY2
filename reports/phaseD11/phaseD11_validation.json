@@ -1,0 +1,143 @@
+{
+  "phase": "KIBA PARK DRIVE Phase D1.1",
+  "result": "PASS",
+  "checks": {
+    "d1_unchanged_from_d11_baseline": true,
+    "source_blend_hash_still_matches": true,
+    "glb_identical_to_d1": true,
+    "phase2c_nav_unchanged": true,
+    "phase2b_terrain_and_roads_unchanged": true,
+    "gltf_valid_and_contains_138_meshes": true,
+    "contact_solver_reads_four_glb_wheel_nodes": true,
+    "contact_solver_samples_road_triangles_and_dtm": true,
+    "roundtrip_and_collision_logic_retained": true,
+    "javascript_syntax_ok": true,
+    "python_syntax_ok": true,
+    "after_fix_browser_screenshots_saved": true,
+    "browser_forward_reverse_turn_goal_test_recorded": true
+  },
+  "wheelContactsMethod": {
+    "phase": "KIBA PARK DRIVE Phase D1.1",
+    "sourceD1Sha256": "694ce85bdeced9e74a86b71b785a37c621c2410b185d03280d17f5017be9279c",
+    "glbSha256": "3a235439cb7ca539e8ebaad697ed6ad8bedfbf3d455a66e7b29899417a517457",
+    "originalBlendSha256": "23b11189142e2cf09bf7fa94e6e1ecdab35388f3859d2603d370ef25e90eda2b",
+    "sourceBlendReadOnly": true,
+    "terrainAndRoadElevationsModified": false,
+    "contactMethod": "For each frame, sample the actual two-triangle OSM A-course road surface at the four GLB-derived tire contact points; fit bus pitch, roll, and vertical position to those four heights. DEM grid height is also recorded for comparison.",
+    "clearanceMetres": 0.012,
+    "wheelbaseMetres": 2.3999993801116943,
+    "wheelTrackMetres": 1.7200000286102295,
+    "glbBoundsAndWheelContacts": "Recorded at runtime in bus-loader userData from the transformed GLB scene graph."
+  },
+  "browserTest": {
+    "phase": "KIBA PARK DRIVE Phase D1.1",
+    "browser": "http://127.0.0.1:8786/web/phaseD11/",
+    "testType": "live in-app browser interaction and rendered screenshots",
+    "roundTrip": "GOAL",
+    "turningTest": "PASS",
+    "operations": [
+      "Reset to A-course start and confirm four wheel contacts",
+      "W forward to the turnaround checkpoint",
+      "D steering while coasting at the mid-course location",
+      "S braking and reverse along the validated course ribbon",
+      "Return to route station 0 and allow speed to settle to 0.0 km/h; GOAL displayed"
+    ],
+    "wheelResidualsCm": {
+      "start": {
+        "FL": 0.9,
+        "FR": 1.5,
+        "RL": 1.5,
+        "RR": 0.9
+      },
+      "midcourseAfterSteering": {
+        "FL": 0.3,
+        "FR": 2.1,
+        "RL": 2.1,
+        "RR": 0.3
+      },
+      "returningReverseAtStation10_2m": {
+        "FL": 3.0,
+        "FR": -0.6,
+        "RL": -0.6,
+        "RR": 3.0
+      },
+      "goal": {
+        "FL": 1.7,
+        "FR": 0.7,
+        "RL": 0.7,
+        "RR": 1.7
+      }
+    },
+    "maximumAbsoluteObservedWheelResidualCm": 3.0,
+    "observedPitchRollDegrees": {
+      "start": {
+        "pitch": 1.3,
+        "roll": -0.3
+      },
+      "midcourse": {
+        "pitch": 1.3,
+        "roll": -0.5
+      },
+      "reverse": {
+        "pitch": 0.4,
+        "roll": 1.2
+      },
+      "goal": {
+        "pitch": 2.4,
+        "roll": -2.7
+      }
+    },
+    "demDeltaCm": {
+      "start": [
+        10.7,
+        13.9,
+        9.4,
+        8.6
+      ],
+      "midcourse": [
+        8.1,
+        14.6,
+        10.6,
+        9.1
+      ],
+      "meaning": "Rendered OSM road surface is used as support; these are differences from DEM sampling, not applied terrain edits."
+    },
+    "renderMetricsObserved": {
+      "fpsRange": [
+        37.5,
+        60.1
+      ],
+      "typicalFps": 60.1,
+      "drawCallsRange": [
+        147,
+        158
+      ],
+      "trianglesRange": [
+        615344,
+        617170
+      ],
+      "meshes": 81
+    },
+    "bridge13RunsRemainBlocked": true,
+    "screenshotFiles": [
+      "screenshots/phaseD11/d11_after_start.png",
+      "screenshots/phaseD11/d11_midcourse.png",
+      "screenshots/phaseD11/d11_turnaround.png",
+      "screenshots/phaseD11/d11_return.png"
+    ],
+    "limitations": [
+      "DEV residuals are the four GLB wheel bounding-box lowest-point samples relative to the rendered OSM road triangles, not physical suspension or tire deformation.",
+      "The road-to-DEM differences near 8.6–14.6 cm reflect source surface disagreement; neither surface was modified.",
+      "37.5 FPS was a transient observed capture; most live HUD readings were 60.1 FPS."
+    ]
+  },
+  "screenshots": [
+    "C:\\Users\\hp\\Desktop\\KIBA-REAL-CITY\\screenshots\\phaseD11\\d11_after_start.png",
+    "C:\\Users\\hp\\Desktop\\KIBA-REAL-CITY\\screenshots\\phaseD11\\d11_before.png",
+    "C:\\Users\\hp\\Desktop\\KIBA-REAL-CITY\\screenshots\\phaseD11\\d11_before_overview.png",
+    "C:\\Users\\hp\\Desktop\\KIBA-REAL-CITY\\screenshots\\phaseD11\\d11_midcourse.png",
+    "C:\\Users\\hp\\Desktop\\KIBA-REAL-CITY\\screenshots\\phaseD11\\d11_return.png",
+    "C:\\Users\\hp\\Desktop\\KIBA-REAL-CITY\\screenshots\\phaseD11\\d11_turnaround.png"
+  ],
+  "syntaxDiagnostics": []
+}

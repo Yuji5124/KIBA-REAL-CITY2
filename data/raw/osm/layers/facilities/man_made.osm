@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2026-10-17T22:20:36Z"/>
+
+  <bounds minlat="35.6708181" minlon="139.8057307" maxlat="35.6808323" maxlon="139.8113834"/>
+
+  <node id="12765587010" lat="35.6717387" lon="139.8069314" version="1" timestamp="2025-04-18T07:55:41Z" changeset="165099220" uid="4531722" user="tutuw002"/>
+  <node id="12765587011" lat="35.6739098" lon="139.8073287" version="1" timestamp="2025-04-18T07:55:41Z" changeset="165099220" uid="4531722" user="tutuw002"/>
+  <node id="12765587012" lat="35.6745460" lon="139.8077319" version="1" timestamp="2025-04-18T07:55:41Z" changeset="165099220" uid="4531722" user="tutuw002"/>
+  <node id="12765587013" lat="35.6748398" lon="139.8078126" version="1" timestamp="2025-04-18T07:55:41Z" changeset="165099220" uid="4531722" user="tutuw002"/>
+  <node id="12765587014" lat="35.6748429" lon="139.8080663" version="1" timestamp="2025-04-18T07:55:41Z" changeset="165099220" uid="4531722" user="tutuw002"/>
+  <node id="12765587015" lat="35.6742987" lon="139.8082445" version="1" timestamp="2025-04-18T07:55:41Z" changeset="165099220" uid="4531722" user="tutuw002"/>
+  <node id="12765587016" lat="35.6741232" lon="139.8082731" version="1" timestamp="2025-04-18T07:55:41Z" changeset="165099220" uid="4531722" user="tutuw002"/>
+  <node id="12765587017" lat="35.6739795" lon="139.8083148" version="1" timestamp="2025-04-18T07:55:41Z" changeset="165099220" uid="4531722" user="tutuw002"/>
+  <node id="12765587018" lat="35.6738654" lon="139.8083642" version="1" timestamp="2025-04-18T07:55:41Z" changeset="165099220" uid="4531722" user="tutuw002"/>
+  <node id="12765587019" lat="35.6737491" lon="139.8084162" version="1" timestamp="2025-04-18T07:55:41Z" changeset="165099220" uid="4531722" user="tutuw002"/>
+  <node id="12765587020" lat="35.6736329" lon="139.8084449" version="1" timestamp="2025-04-18T07:55:41Z" changeset="165099220" uid="4531722" user="tutuw002"/>
+  <node id="12765587021" lat="35.6735124" lon="139.8084553" version="1" timestamp="2025-04-18T07:55:41Z" changeset="165099220" uid="4531722" user="tutuw002"/>
+  <node id="12765587022" lat="35.6733961" lon="139.8084501" version="1" timestamp="2025-04-18T07:55:41Z" changeset="165099220" uid="4531722" user="tutuw002"/>
+  <node id="12765587023" lat="35.6717010" lon="139.8081430" version="1" timestamp="2025-04-18T07:55:41Z" changeset="165099220" uid="4531722" user="tutuw002"/>
+  <way id="1378585835" version="1" timestamp="2025-04-18T07:55:41Z" changeset="165099220" uid="4531722" user="tutuw002">
+    <nd ref="12765587010"/>
+    <nd ref="12765587011"/>
+    <nd ref="12765587012"/>
+    <nd ref="12765587013"/>
+    <nd ref="12765587014"/>
+    <nd ref="12765587015"/>
+    <nd ref="12765587016"/>
+    <nd ref="12765587017"/>
+    <nd ref="12765587018"/>
+    <nd ref="12765587019"/>
+    <nd ref="12765587020"/>
+    <nd ref="12765587021"/>
+    <nd ref="12765587022"/>
+    <nd ref="12765587023"/>
+    <nd ref="12765587010"/>
+    <tag k="layer" v="-1"/>
+    <tag k="location" v="underground"/>
+    <tag k="man_made" v="tunnel"/>
+    <tag k="name" v="東京都交通局木場車両検修場"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+
+</osm>

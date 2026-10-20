@@ -1,0 +1,13 @@
+{
+  "phase": "KIBA PARK DRIVE Phase D1.1",
+  "sourceD1Sha256": "694ce85bdeced9e74a86b71b785a37c621c2410b185d03280d17f5017be9279c",
+  "glbSha256": "3a235439cb7ca539e8ebaad697ed6ad8bedfbf3d455a66e7b29899417a517457",
+  "originalBlendSha256": "23b11189142e2cf09bf7fa94e6e1ecdab35388f3859d2603d370ef25e90eda2b",
+  "sourceBlendReadOnly": true,
+  "terrainAndRoadElevationsModified": false,
+  "contactMethod": "For each frame, sample the actual two-triangle OSM A-course road surface at the four GLB-derived tire contact points; fit bus pitch, roll, and vertical position to those four heights. DEM grid height is also recorded for comparison.",
+  "clearanceMetres": 0.012,
+  "wheelbaseMetres": 2.3999993801116943,
+  "wheelTrackMetres": 1.7200000286102295,
+  "glbBoundsAndWheelContacts": "Recorded at runtime in bus-loader userData from the transformed GLB scene graph."
+}

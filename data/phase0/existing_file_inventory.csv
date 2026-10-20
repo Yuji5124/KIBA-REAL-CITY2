@@ -1,0 +1,112 @@
+path,bytes,modified_utc,category
+.gitignore,169,2026-10-17 02:48,other
+LICENSE_DATA.md,12546,2026-10-17 03:54,doc
+README.md,12866,2026-10-17 08:40,doc
+requirements.txt,46,2026-10-17 02:48,other
+config/kiba_park.json,1172,2026-10-17 02:48,JSON
+docs/GENERATION_REPOSITORIES.md,1821,2026-10-17 03:54,doc
+output/.gitkeep,0,2026-10-17 02:48,other
+output/geo_reference_v02.json,2744,2026-10-17 03:40,JSON
+output/geo_reference_v03_GSIterrain_polished.json,5750,2026-10-17 08:42,JSON
+output/geo_reference_v03_GSIterrain.json,5237,2026-10-17 03:46,JSON
+output/geo_reference_v03.json,4008,2026-10-17 03:41,JSON
+output/geo_reference.json,1111,2026-10-17 03:36,JSON
+output/Kiba_Park_Ohashi_G6.2_visual_details.glb,40268,2026-10-17 09:19,3D GLB
+output/KIBA_REAL_CITY_v01.blend,1998516,2026-10-17 02:48,Blender
+output/KIBA_REAL_CITY_v01.glb,380180,2026-10-17 02:48,3D GLB
+output/KIBA_REAL_CITY_v02.blend,3746745,2026-10-17 03:39,Blender
+output/KIBA_REAL_CITY_v02.glb,696320,2026-10-17 03:39,3D GLB
+output/KIBA_REAL_CITY_v03_GSIterrain_clean.blend,5816309,2026-10-17 08:38,Blender
+output/KIBA_REAL_CITY_v03_GSIterrain_clean.glb,2045424,2026-10-17 08:38,3D GLB
+output/KIBA_REAL_CITY_v03_GSIterrain_polished.blend,8377682,2026-10-17 08:39,Blender
+output/KIBA_REAL_CITY_v03_GSIterrain_polished.glb,5897884,2026-10-17 08:39,3D GLB
+output/KIBA_REAL_CITY_v03_GSIterrain.blend,5716028,2026-10-17 03:46,Blender
+output/KIBA_REAL_CITY_v03_GSIterrain.glb,1491468,2026-10-17 03:46,3D GLB
+output/KIBA_REAL_CITY_v03.blend,4562331,2026-10-17 03:41,Blender
+output/KIBA_REAL_CITY_v03.glb,924232,2026-10-17 03:42,3D GLB
+phase4-web/.gitignore,212,2026-10-17 02:48,other
+phase4-web/index.html,2575,2026-10-17 02:48,other
+phase4-web/package-lock.json,28323,2026-10-17 02:48,JSON
+phase4-web/package.json,451,2026-10-17 02:48,JSON
+phase4-web/README.md,4997,2026-10-17 09:23,doc
+phase4-web/tsconfig.json,518,2026-10-17 02:48,JSON
+phase4-web/vite.config.ts,2925,2026-10-17 09:23,web src
+reports/.gitkeep,0,2026-10-17 02:48,other
+reports/generation_report.json,106421,2026-10-17 03:36,JSON
+reports/generation_report.md,1580,2026-10-17 02:48,doc
+reports/KIBA_REAL_CITY_preview.png,1238830,2026-10-17 02:48,image/DEM tile
+reports/KIBA_REAL_CITY_v03_GSIterrain_clean_preview.png,2212178,2026-10-17 08:38,image/DEM tile
+reports/KIBA_REAL_CITY_v03_GSIterrain_polished_preview.png,2221523,2026-10-17 08:39,image/DEM tile
+reports/KIBA_REAL_CITY_v03_GSIterrain_preview.png,832206,2026-10-17 03:47,image/DEM tile
+reports/phase2a_validation.json,1057,2026-10-17 02:48,JSON
+scripts/blender_gsi_terrain.py,6342,2026-10-17 03:49,Python
+scripts/blender_phase2a.py,5179,2026-10-17 03:40,Python
+scripts/blender_phase2b.py,9273,2026-10-17 03:40,Python
+scripts/blender_phase3.py,11677,2026-10-17 03:52,Python
+scripts/blender_phase3d.py,18462,2026-10-17 03:53,Python
+scripts/blender_polish_gsi_terrain.py,8421,2026-10-17 08:40,Python
+scripts/blender_render_phase3d.py,3266,2026-10-17 03:53,Python
+scripts/blender_scene.py,4519,2026-10-17 03:52,Python
+scripts/blender_validate_phase2a.py,4744,2026-10-17 02:48,Python
+scripts/blender_validate_phase2b.py,5909,2026-10-17 02:48,Python
+scripts/blender_validate_phase3.py,6737,2026-10-17 02:48,Python
+scripts/blender_validate_phase3d.py,9823,2026-10-17 02:48,Python
+scripts/blender_validate.py,2451,2026-10-17 02:48,Python
+scripts/build_blender.py,939,2026-10-17 02:48,Python
+scripts/build_gsi_terrain_polished.py,1716,2026-10-17 08:40,Python
+scripts/build_gsi_terrain.py,1518,2026-10-17 03:50,Python
+scripts/build_phase2a_blender.py,730,2026-10-17 02:48,Python
+scripts/build_phase2b_blender.py,1080,2026-10-17 02:48,Python
+scripts/build_phase3.py,2329,2026-10-17 02:48,Python
+scripts/build_phase3d.py,2089,2026-10-17 02:48,Python
+scripts/check_environment.py,1381,2026-10-17 02:48,Python
+scripts/common.py,3378,2026-10-17 02:48,Python
+scripts/compare_phase2a_map.py,5480,2026-10-17 02:48,Python
+scripts/convert_data.py,11026,2026-10-17 02:48,Python
+scripts/convert_phase2a_osm.py,12113,2026-10-17 02:48,Python
+scripts/convert_phase2b_osm.py,13886,2026-10-17 02:48,Python
+scripts/convert_phase3d_buildings.py,9872,2026-10-17 02:48,Python
+scripts/download_data.py,3870,2026-10-17 02:48,Python
+scripts/download_gsi_dem.py,5779,2026-10-17 03:45,Python
+scripts/download_phase2a_data.py,3786,2026-10-17 02:48,Python
+scripts/download_phase3d_data.py,5942,2026-10-17 02:48,Python
+scripts/inspect_citygml.py,1065,2026-10-17 02:48,Python
+scripts/inspect_phase3d_plateau.py,3346,2026-10-17 02:48,Python
+scripts/phase3d_common.py,4566,2026-10-17 02:48,Python
+scripts/prepare_phase3d_display_surfaces.py,9297,2026-10-17 02:48,Python
+scripts/prepare_phase3d_features.py,22310,2026-10-17 02:48,Python
+scripts/render_phase2b_preview.py,1464,2026-10-17 02:48,Python
+scripts/render_phase3_preview.py,1560,2026-10-17 02:48,Python
+scripts/render_phase3d_extent_overlay.py,6805,2026-10-17 02:48,Python
+scripts/render_phase3d_previews.py,1660,2026-10-17 02:48,Python
+scripts/validate_output.py,3842,2026-10-17 02:48,Python
+scripts/validate_phase2a.py,933,2026-10-17 02:48,Python
+scripts/validate_phase2b.py,5845,2026-10-17 02:48,Python
+scripts/validate_phase3.py,2777,2026-10-17 02:48,Python
+scripts/validate_phase3d.py,8894,2026-10-17 02:48,Python
+scripts/write_initial_report.py,2460,2026-10-17 02:48,Python
+tests/make_fixture.py,625,2026-10-17 02:48,Python
+tests/run_fixture.py,1427,2026-10-17 02:48,Python
+data/processed/.gitkeep,0,2026-10-17 02:48,other
+data/processed/buildings.json,192846,2026-10-17 03:36,JSON
+data/processed/gsi_dem_terrain.json,1617972,2026-10-17 03:45,JSON
+data/processed/phase2a_features.json,1045463,2026-10-17 03:37,JSON
+data/processed/phase2a_source.json,1601,2026-10-17 03:35,JSON
+data/processed/phase2b_features.json,403523,2026-10-17 03:37,JSON
+data/raw/.gitkeep,0,2026-10-17 02:48,other
+data/raw/53394604_bldg_6697_op.gml,34438104,2026-10-17 03:36,PLATEAU CityGML
+data/raw/53394604_bldg_6697_op.zip,1664984,2026-10-17 02:48,PLATEAU archive
+data/raw/53394614_bldg_6697_op.gml,36019668,2026-10-17 03:36,PLATEAU CityGML
+data/raw/53394614_bldg_6697_op.zip,1300570,2026-10-17 02:48,PLATEAU archive
+data/raw/kiba_osm_phase2a.osm,1118060,2026-10-17 03:35,OSM extract
+phase4-web/scripts/validate-assets.mjs,4402,2026-10-17 09:23,other
+phase4-web/src/main.ts,1405,2026-10-17 02:48,web src
+phase4-web/src/styles.css,9558,2026-10-17 02:48,other
+phase4-web/src/types.ts,1118,2026-10-17 02:48,web src
+phase4-web/src/vite-env.d.ts,38,2026-10-17 02:48,web src
+scripts/__pycache__/common.cpython-312.pyc,4902,2026-10-17 03:27,other
+phase4-web/src/app/CityExplorer.ts,6795,2026-10-17 09:23,web src
+phase4-web/src/controls/ExplorerControls.ts,14598,2026-10-17 02:48,web src
+phase4-web/src/diagnostics/DebugPanel.ts,3957,2026-10-17 02:48,web src
+phase4-web/src/loaders/loadCityModel.ts,5018,2026-10-17 09:23,web src
+phase4-web/src/scene/createScene.ts,1907,2026-10-17 02:48,web src

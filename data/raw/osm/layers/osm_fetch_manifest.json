@@ -1,0 +1,57 @@
+{
+  "tool": "kpr-fetch-osm/1",
+  "started_utc": "2026-10-17T22:23:31.261774+00:00",
+  "bbox_lonlat_WSEN": [
+    139.80573066837755,
+    35.67081810889563,
+    139.81138342678491,
+    35.68083225860033
+  ],
+  "source": {
+    "via": "Overpass API (read-only)",
+    "license": "ODbL 1.0",
+    "attribution": "(c) OpenStreetMap contributors",
+    "url": "https://www.openstreetmap.org/copyright"
+  },
+  "files": [
+    {
+      "layer": "water",
+      "name": "water_areas",
+      "path": "osm/layers/water/water_areas.osm",
+      "query": "[out:xml][timeout:90][bbox:35.6708181,139.8057307,35.6808323,139.8113834];(way[\"natural\"=\"water\"];relation[\"natural\"=\"water\"];way[\"water\"];relation[\"water\"];);(._;>;);out meta;",
+      "node": 1106,
+      "way": 18,
+      "relation": 1,
+      "bytes": 206858,
+      "sha256": "51f793705ab4d0abed475d7a70ff8214ac34313809a7b84ed391983eb6e7257a",
+      "status": "cached"
+    },
+    {
+      "layer": "water",
+      "name": "waterways",
+      "path": "osm/layers/water/waterways.osm",
+      "query": "[out:xml][timeout:90][bbox:35.6708181,139.8057307,35.6808323,139.8113834];(way[\"waterway\"];relation[\"waterway\"];node[\"waterway\"];);(._;>;);out meta;",
+      "node": 58,
+      "way": 29,
+      "relation": 1,
+      "bytes": 23095,
+      "sha256": "b38c1e908faa8efdf267e5e4318932adb179fb92906d3fd809fcbe4f71325648",
+      "status": "cached"
+    },
+    {
+      "layer": "water",
+      "name": "fountains",
+      "path": "osm/layers/water/fountains.osm",
+      "query": "[out:xml][timeout:90][bbox:35.6708181,139.8057307,35.6808323,139.8113834];(nwr[\"amenity\"=\"fountain\"];);(._;>;);out meta;",
+      "node": 0,
+      "way": 0,
+      "relation": 0,
+      "bytes": 365,
+      "sha256": "2e2b417862f0318dbd96668e66abd962d565a17659ca02d713c23835a416311e",
+      "status": "downloaded",
+      "retrieved_utc": "2026-10-17T22:23:58.478556+00:00"
+    }
+  ],
+  "failures": [],
+  "finished_utc": "2026-10-17T22:23:58.479550+00:00"
+}

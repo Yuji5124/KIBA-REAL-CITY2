@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2026-10-17T22:08:20Z"/>
+
+  <bounds minlat="35.6708181" minlon="139.8057307" maxlat="35.6808323" maxlon="139.8113834"/>
+
+  <node id="308168818" lat="35.6754493" lon="139.8068855" version="20" timestamp="2022-01-30T03:10:12Z" changeset="116765393" uid="2352862" user="Netzach">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="name" v="都立木場公園前"/>
+    <tag k="name:en" v="Met. Kiba Park"/>
+    <tag k="name:ja" v="都立木場公園前"/>
+  </node>
+  <node id="648796378" lat="35.6802495" lon="139.8066631" version="8" timestamp="2022-01-30T03:10:12Z" changeset="116765393" uid="2352862" user="Netzach">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="name" v="現代美術館前"/>
+    <tag k="name:en" v="Gendai Bijutsukan"/>
+    <tag k="name:ja" v="現代美術館前"/>
+    <tag k="source" v="Bing"/>
+  </node>
+  <node id="1305545527" lat="35.6725175" lon="139.8102537" version="4" timestamp="2023-09-08T04:50:17Z" changeset="140967009" uid="20172565" user="kuruze">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="1351942096" lat="35.6778128" lon="139.8068566" version="7" timestamp="2019-07-09T10:58:14Z" changeset="72049425" uid="3150532" user="dqn">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="1351942103" lat="35.6792524" lon="139.8067342" version="6" timestamp="2022-01-30T03:10:12Z" changeset="116765393" uid="2352862" user="Netzach">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="name" v="現代美術館南"/>
+    <tag k="name:en" v="Gendai Bujutsukan South"/>
+    <tag k="name:ja" v="現代美術館南"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="1640003688" lat="35.6719231" lon="139.8062456" version="5" timestamp="2019-07-09T10:55:56Z" changeset="72049425" uid="3150532" user="dqn">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="1640003690" lat="35.6720374" lon="139.8062662" version="5" timestamp="2019-07-09T10:55:56Z" changeset="72049425" uid="3150532" user="dqn">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="1640003704" lat="35.6725278" lon="139.8063496" version="7" timestamp="2022-01-30T03:10:12Z" changeset="116765393" uid="2352862" user="Netzach">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="name" v="木場三丁目"/>
+    <tag k="name:en" v="Kiba 3"/>
+    <tag k="name:ja" v="木場三丁目"/>
+  </node>
+  <node id="1799109043" lat="35.6762337" lon="139.8069829" version="7" timestamp="2017-06-03T08:29:02Z" changeset="49215117" uid="3150532" user="dqn">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="1799109255" lat="35.6763345" lon="139.8098703" version="3" timestamp="2013-07-03T03:36:34Z" changeset="16799961" uid="563961" user="Gravel Crew">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="name" v="崎川橋"/>
+  </node>
+  <node id="2367334297" lat="35.6719615" lon="139.8063846" version="3" timestamp="2019-07-09T10:55:56Z" changeset="72049425" uid="3150532" user="dqn">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="2367334303" lat="35.6725146" lon="139.8064790" version="4" timestamp="2022-01-30T03:10:12Z" changeset="116765393" uid="2352862" user="Netzach">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="name" v="木場三丁目"/>
+    <tag k="name:en" v="Kiba 3"/>
+    <tag k="name:ja" v="木場三丁目"/>
+  </node>
+  <node id="2367334365" lat="35.6753856" lon="139.8068744" version="7" timestamp="2022-01-30T03:10:12Z" changeset="116765393" uid="2352862" user="Netzach">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="name" v="都立木場公園前"/>
+    <tag k="name:en" v="Met. Kiba Park"/>
+    <tag k="name:ja" v="都立木場公園前"/>
+  </node>
+  <node id="2367334367" lat="35.6753892" lon="139.8069910" version="7" timestamp="2022-01-30T03:10:12Z" changeset="116765393" uid="2352862" user="Netzach">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="name" v="都立木場公園前"/>
+    <tag k="name:en" v="Met. Kiba Park"/>
+    <tag k="name:ja" v="都立木場公園前"/>
+  </node>
+  <node id="2367334371" lat="35.6754536" lon="139.8069999" version="7" timestamp="2022-01-30T03:10:12Z" changeset="116765393" uid="2352862" user="Netzach">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="name" v="都立木場公園前"/>
+    <tag k="name:en" v="Met. Kiba Park"/>
+    <tag k="name:ja" v="都立木場公園前"/>
+  </node>
+  <node id="2367334403" lat="35.6762388" lon="139.8071025" version="4" timestamp="2017-06-03T08:29:02Z" changeset="49215117" uid="3150532" user="dqn">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="2367334407" lat="35.6778215" lon="139.8069867" version="4" timestamp="2016-04-05T14:36:15Z" changeset="38319308" uid="610947" user="muramototomoya">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="2367334411" lat="35.6792618" lon="139.8068687" version="3" timestamp="2022-01-30T03:10:12Z" changeset="116765393" uid="2352862" user="Netzach">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="name" v="現代美術館南"/>
+    <tag k="name:en" v="Gendai Bujutsukan South"/>
+    <tag k="name:ja" v="現代美術館南"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="2367334413" lat="35.6802554" lon="139.8067865" version="4" timestamp="2022-01-30T03:10:12Z" changeset="116765393" uid="2352862" user="Netzach">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="name" v="現代美術館前"/>
+    <tag k="name:en" v="Gendai Bijutsukan"/>
+    <tag k="name:ja" v="現代美術館前"/>
+  </node>
+  <node id="3256089767" lat="35.6729566" lon="139.8066286" version="8" timestamp="2025-11-15T09:52:58Z" changeset="174679606" uid="6081943" user="Jeoriga">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="木場三丁目"/>
+    <tag k="name:en" v="Kiba-sanchome"/>
+    <tag k="name:ja" v="木場三丁目"/>
+    <tag k="network" v="都営バス"/>
+    <tag k="network:en" v="Toei Bus"/>
+    <tag k="network:ja" v="都営バス"/>
+    <tag k="network:wikidata" v="Q859227"/>
+    <tag k="operator" v="東京都交通局"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="3256089768" lat="35.6774698" lon="139.8068309" version="10" timestamp="2024-10-01T02:52:22Z" changeset="157319718" uid="162387" user="maiki">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="木場公園"/>
+    <tag k="name:en" v="Kiba-koen"/>
+    <tag k="name:ja" v="木場公園"/>
+    <tag k="network" v="都営バス"/>
+    <tag k="operator" v="東京都交通局"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="3256089770" lat="35.6748587" lon="139.8069893" version="8" timestamp="2025-09-30T06:42:43Z" changeset="172644833" uid="1879503" user="CR86">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="木場四丁目"/>
+    <tag k="name:en" v="Kiba-yonchome"/>
+    <tag k="name:ja" v="木場四丁目"/>
+    <tag k="network" v="都営バス"/>
+    <tag k="network:en" v="Toei Bus"/>
+    <tag k="network:ja" v="都営バス"/>
+    <tag k="network:wikidata" v="Q859227"/>
+    <tag k="operator" v="東京都交通局"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="3256089775" lat="35.6797069" lon="139.8066418" version="5" timestamp="2022-01-30T03:10:12Z" changeset="116765393" uid="2352862" user="Netzach">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="東京都現代美術館前"/>
+    <tag k="name:en" v="Tokyoto Gendai Bijutsukan-mae"/>
+    <tag k="name:ja" v="東京都現代美術館前"/>
+    <tag k="network" v="都営バス"/>
+    <tag k="operator" v="東京都交通局"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="4092003597" lat="35.6747491" lon="139.8066829" version="7" timestamp="2025-09-30T06:42:43Z" changeset="172644833" uid="1879503" user="CR86">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="木場四丁目"/>
+    <tag k="name:en" v="Kiba-yonchome"/>
+    <tag k="name:ja" v="木場四丁目"/>
+    <tag k="network" v="都営バス"/>
+    <tag k="network:en" v="Toei Bus"/>
+    <tag k="network:ja" v="都営バス"/>
+    <tag k="network:wikidata" v="Q859227"/>
+    <tag k="operator" v="東京都交通局"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="4092003609" lat="35.6728175" lon="139.8063315" version="7" timestamp="2025-11-15T09:52:58Z" changeset="174679606" uid="6081943" user="Jeoriga">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="木場三丁目"/>
+    <tag k="name:en" v="Kiba-sanchome"/>
+    <tag k="name:ja" v="木場三丁目"/>
+    <tag k="network" v="都営バス"/>
+    <tag k="network:en" v="Toei Bus"/>
+    <tag k="network:ja" v="都営バス"/>
+    <tag k="network:wikidata" v="Q859227"/>
+    <tag k="operator" v="東京都交通局"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="4092003611" lat="35.6787649" lon="139.8069788" version="3" timestamp="2022-01-30T03:10:12Z" changeset="116765393" uid="2352862" user="Netzach">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="東京都現代美術館前"/>
+    <tag k="name:en" v="Tokyoto Gendai Bijutsukan-mae"/>
+    <tag k="name:ja" v="東京都現代美術館前"/>
+    <tag k="network" v="都営バス"/>
+    <tag k="operator" v="東京都交通局"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="4092003624" lat="35.6768157" lon="139.8071220" version="4" timestamp="2022-01-30T03:10:12Z" changeset="116765393" uid="2352862" user="Netzach">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="木場公園"/>
+    <tag k="name:en" v="Kiba-koen"/>
+    <tag k="name:ja" v="木場公園"/>
+    <tag k="network" v="都営バス"/>
+    <tag k="operator" v="東京都交通局"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="5788248092" lat="35.6736632" lon="139.8065641" version="3" timestamp="2022-01-30T03:10:12Z" changeset="116765393" uid="2352862" user="Netzach">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="name" v="深川警察署前"/>
+    <tag k="name:en" v="Fukagawa Police Station"/>
+    <tag k="name:ja" v="深川警察署前"/>
+  </node>
+  <node id="6598685883" lat="35.6719345" lon="139.8061639" version="2" timestamp="2026-09-21T08:33:00Z" changeset="189334663" uid="23378172" user="cyndish">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="6598709289" lat="35.6718353" lon="139.8061431" version="2" timestamp="2026-09-21T08:33:00Z" changeset="189334663" uid="23378172" user="cyndish">
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="6598709290" lat="35.6736475" lon="139.8066766" version="2" timestamp="2022-01-30T03:10:12Z" changeset="116765393" uid="2352862" user="Netzach">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="name" v="深川警察署前"/>
+    <tag k="name:en" v="Fukagawa Police Station"/>
+    <tag k="name:ja" v="深川警察署前"/>
+  </node>
+  <node id="6948661469" lat="35.6756466" lon="139.8099740" version="3" timestamp="2025-11-16T00:42:30Z" changeset="174709235" uid="6081943" user="Jeoriga">
+    <tag k="crossing" v="marked"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="6950334777" lat="35.6763329" lon="139.8097950" version="2" timestamp="2024-07-01T07:02:39Z" changeset="153396957" uid="21710498" user="Masamunef">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="6950334778" lat="35.6764231" lon="139.8098553" version="2" timestamp="2024-07-01T07:02:39Z" changeset="153396957" uid="21710498" user="Masamunef">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="6950334779" lat="35.6763383" lon="139.8099765" version="2" timestamp="2024-07-01T07:02:39Z" changeset="153396957" uid="21710498" user="Masamunef">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="6950334780" lat="35.6762590" lon="139.8098862" version="2" timestamp="2024-07-01T07:02:39Z" changeset="153396957" uid="21710498" user="Masamunef">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="6950334783" lat="35.6755681" lon="139.8069003" version="2" timestamp="2025-09-30T06:42:43Z" changeset="172644833" uid="1879503" user="CR86">
+    <tag k="crossing" v="marked"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="6950334784" lat="35.6755721" lon="139.8070164" version="2" timestamp="2025-09-30T06:42:43Z" changeset="172644833" uid="1879503" user="CR86">
+    <tag k="crossing" v="marked"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="6950339885" lat="35.6753797" lon="139.8067216" version="2" timestamp="2025-09-30T06:42:43Z" changeset="172644833" uid="1879503" user="CR86">
+    <tag k="crossing" v="marked"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="6950339886" lat="35.6754434" lon="139.8067264" version="2" timestamp="2025-09-30T06:42:43Z" changeset="172644833" uid="1879503" user="CR86">
+    <tag k="crossing" v="marked"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="6950339887" lat="35.6753945" lon="139.8071460" version="2" timestamp="2025-09-30T06:42:43Z" changeset="172644833" uid="1879503" user="CR86">
+    <tag k="crossing" v="marked"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="6950339888" lat="35.6754590" lon="139.8071515" version="2" timestamp="2025-09-30T06:42:43Z" changeset="172644833" uid="1879503" user="CR86">
+    <tag k="crossing" v="marked"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="6950339889" lat="35.6752688" lon="139.8068535" version="2" timestamp="2025-09-30T06:42:43Z" changeset="172644833" uid="1879503" user="CR86">
+    <tag k="crossing" v="marked"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="6950339890" lat="35.6752699" lon="139.8069744" version="2" timestamp="2025-09-30T06:42:43Z" changeset="172644833" uid="1879503" user="CR86">
+    <tag k="crossing" v="marked"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="6950339891" lat="35.6762429" lon="139.8072226" version="2" timestamp="2025-11-16T00:42:30Z" changeset="174709235" uid="6081943" user="Jeoriga">
+    <tag k="crossing" v="marked"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="6952152244" lat="35.6754866" lon="139.8109095" version="2" timestamp="2025-11-16T00:42:30Z" changeset="174709235" uid="6081943" user="Jeoriga">
+    <tag k="crossing" v="marked"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="6955587681" lat="35.6728163" lon="139.8096043" version="1" timestamp="2019-11-07T18:15:18Z" changeset="76772127" uid="7115748" user="Daaaaaaa">
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="6955587682" lat="35.6729008" lon="139.8096341" version="2" timestamp="2020-01-20T14:50:52Z" changeset="79803378" uid="7115748" user="Daaaaaaa">
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="6958098768" lat="35.6799754" lon="139.8068887" version="1" timestamp="2019-11-08T16:20:05Z" changeset="76821624" uid="7115748" user="Daaaaaaa">
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="6958098769" lat="35.6795099" lon="139.8069253" version="1" timestamp="2019-11-08T16:20:05Z" changeset="76821624" uid="7115748" user="Daaaaaaa">
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="6958098773" lat="35.6764437" lon="139.8076553" version="1" timestamp="2019-11-08T16:20:05Z" changeset="76821624" uid="7115748" user="Daaaaaaa">
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="6958098774" lat="35.6763062" lon="139.8076604" version="1" timestamp="2019-11-08T16:20:05Z" changeset="76821624" uid="7115748" user="Daaaaaaa">
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="7124660094" lat="35.6773982" lon="139.8063770" version="5" timestamp="2024-10-01T02:48:19Z" changeset="157319650" uid="162387" user="maiki">
+    <tag k="crossing:markings" v="no"/>
+    <tag k="crossing:signals" v="no"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="7126331934" lat="35.6732443" lon="139.8110698" version="2" timestamp="2025-11-16T00:42:30Z" changeset="174709235" uid="6081943" user="Jeoriga">
+    <tag k="crossing" v="marked"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="7146506433" lat="35.6735966" lon="139.8103502" version="2" timestamp="2025-11-16T00:42:30Z" changeset="174709235" uid="6081943" user="Jeoriga">
+    <tag k="crossing" v="marked"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="7883974903" lat="35.6726251" lon="139.8096393" version="4" timestamp="2026-04-15T06:51:59Z" changeset="181352104" uid="3144324" user="Simon Richter">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="7885566902" lat="35.6762523" lon="139.8064178" version="2" timestamp="2026-01-08T08:20:36Z" changeset="176973781" uid="20432726" user="Byenin">
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="8256388651" lat="35.6726411" lon="139.8065005" version="2" timestamp="2026-10-06T13:28:14Z" changeset="190091436" uid="24604139" user="Kily_ikesu">
+    <tag k="crossing:signals" v="yes"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="8256388652" lat="35.6726531" lon="139.8063731" version="2" timestamp="2026-10-06T13:28:15Z" changeset="190091436" uid="24604139" user="Kily_ikesu">
+    <tag k="crossing:signals" v="yes"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="11175893956" lat="35.6725875" lon="139.8095852" version="3" timestamp="2026-04-15T06:51:55Z" changeset="181352104" uid="3144324" user="Simon Richter">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="11175893958" lat="35.6724872" lon="139.8102427" version="7" timestamp="2026-04-15T06:55:29Z" changeset="181352209" uid="3144324" user="Simon Richter">
+    <tag k="button_operated" v="no"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="traffic_signals:sound" v="no"/>
+    <tag k="traffic_signals:vibration" v="no"/>
+  </node>
+  <node id="11175917991" lat="35.6724243" lon="139.8108734" version="2" timestamp="2026-04-15T06:56:43Z" changeset="181352104" uid="3144324" user="Simon Richter">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="11175917993" lat="35.6724396" lon="139.8107720" version="2" timestamp="2026-04-15T06:56:38Z" changeset="181352104" uid="3144324" user="Simon Richter">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="11175917994" lat="35.6724578" lon="139.8108498" version="2" timestamp="2026-04-15T06:56:41Z" changeset="181352104" uid="3144324" user="Simon Richter">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="11175917995" lat="35.6723883" lon="139.8108298" version="2" timestamp="2026-04-15T06:56:39Z" changeset="181352104" uid="3144324" user="Simon Richter">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="11175917996" lat="35.6723474" lon="139.8113826" version="5" timestamp="2026-04-15T06:58:01Z" changeset="181352209" uid="3144324" user="Simon Richter">
+    <tag k="button_operated" v="no"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="traffic_signals:sound" v="no"/>
+    <tag k="traffic_signals:vibration" v="no"/>
+  </node>
+  <node id="11175917999" lat="35.6725137" lon="139.8102786" version="5" timestamp="2026-04-15T06:55:27Z" changeset="181352209" uid="3144324" user="Simon Richter">
+    <tag k="button_operated" v="no"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="traffic_signals:sound" v="no"/>
+    <tag k="traffic_signals:vibration" v="no"/>
+  </node>
+  <node id="11175918000" lat="35.6725400" lon="139.8102617" version="5" timestamp="2026-04-15T06:55:25Z" changeset="181352209" uid="3144324" user="Simon Richter">
+    <tag k="button_operated" v="no"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="traffic_signals:sound" v="no"/>
+    <tag k="traffic_signals:vibration" v="no"/>
+  </node>
+  <node id="11175918001" lat="35.6725282" lon="139.8101902" version="5" timestamp="2026-04-15T06:55:32Z" changeset="181352209" uid="3144324" user="Simon Richter">
+    <tag k="button_operated" v="no"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="traffic_signals:sound" v="no"/>
+    <tag k="traffic_signals:vibration" v="no"/>
+  </node>
+  <node id="11175960648" lat="35.6708559" lon="139.8097141" version="1" timestamp="2023-09-08T05:32:23Z" changeset="140967991" uid="20172565" user="kuruze">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="11175960651" lat="35.6708443" lon="139.8096509" version="1" timestamp="2023-09-08T05:32:23Z" changeset="140967991" uid="20172565" user="kuruze">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="11176615091" lat="35.6712009" lon="139.8112861" version="1" timestamp="2023-09-08T13:12:18Z" changeset="140986877" uid="20172565" user="kuruze">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="11176615093" lat="35.6712100" lon="139.8111703" version="1" timestamp="2023-09-08T13:12:18Z" changeset="140986877" uid="20172565" user="kuruze">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="11176615097" lat="35.6717456" lon="139.8112895" version="1" timestamp="2023-09-08T13:12:18Z" changeset="140986877" uid="20172565" user="kuruze">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="11176615106" lat="35.6728480" lon="139.8109112" version="1" timestamp="2023-09-08T13:12:18Z" changeset="140986877" uid="20172565" user="kuruze">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="11176615108" lat="35.6728929" lon="139.8109742" version="1" timestamp="2023-09-08T13:12:18Z" changeset="140986877" uid="20172565" user="kuruze">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="11176615110" lat="35.6728084" lon="139.8109507" version="1" timestamp="2023-09-08T13:12:18Z" changeset="140986877" uid="20172565" user="kuruze">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="14203211950" lat="35.6720461" lon="139.8061839" version="1" timestamp="2026-09-21T08:33:00Z" changeset="189334663" uid="23378172" user="cyndish">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="14203211953" lat="35.6725275" lon="139.8062678" version="2" timestamp="2026-10-06T13:28:17Z" changeset="190091436" uid="24604139" user="Kily_ikesu">
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="crossing:signals" v="yes"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="14203211954" lat="35.6746363" lon="139.8066600" version="1" timestamp="2026-09-21T08:33:00Z" changeset="189334663" uid="23378172" user="cyndish">
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+
+</osm>

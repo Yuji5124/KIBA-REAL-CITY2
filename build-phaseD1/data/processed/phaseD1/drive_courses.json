@@ -1,0 +1,397 @@
+{
+  "phase": "D1",
+  "crs": "EPSG:6677",
+  "coordinateConvention": "Three.js: x=east, y=T.P. metres, z=-north; local origin from KPR",
+  "source": "Phase 2J copied datasets; read only",
+  "courses": {
+    "A": {
+      "title": "はじめてドライブ",
+      "status": "playable-prototype-candidate",
+      "wayId": "777288664",
+      "sourceRun": 147,
+      "routeLengthMetres": 23.99542778946129,
+      "lengthMetres": 23.99542778946129,
+      "points": [
+        [
+          35.609,
+          0.69,
+          -627.878
+        ],
+        [
+          35.88,
+          0.69,
+          -627.757
+        ],
+        [
+          36.249,
+          0.69,
+          -627.584
+        ],
+        [
+          36.621,
+          0.69,
+          -627.389
+        ],
+        [
+          37.026,
+          0.69,
+          -627.168
+        ],
+        [
+          37.315,
+          0.69,
+          -627.008
+        ],
+        [
+          37.618,
+          0.69,
+          -626.839
+        ],
+        [
+          37.936,
+          0.69,
+          -626.665
+        ],
+        [
+          38.267,
+          0.69,
+          -626.486
+        ],
+        [
+          38.612,
+          0.69,
+          -626.301
+        ],
+        [
+          38.972,
+          0.7,
+          -626.114
+        ],
+        [
+          39.344,
+          0.72,
+          -625.927
+        ],
+        [
+          39.73,
+          0.73,
+          -625.736
+        ],
+        [
+          40.129,
+          0.743,
+          -625.55
+        ],
+        [
+          40.54,
+          0.767,
+          -625.366
+        ],
+        [
+          40.965,
+          0.782,
+          -625.185
+        ],
+        [
+          41.402,
+          0.787,
+          -625.01
+        ],
+        [
+          41.851,
+          0.79,
+          -624.843
+        ],
+        [
+          42.312,
+          0.79,
+          -624.682
+        ],
+        [
+          42.785,
+          0.79,
+          -624.532
+        ],
+        [
+          43.148,
+          0.79,
+          -624.427
+        ],
+        [
+          43.517,
+          0.79,
+          -624.327
+        ],
+        [
+          43.892,
+          0.79,
+          -624.234
+        ],
+        [
+          44.275,
+          0.79,
+          -624.15
+        ],
+        [
+          44.679,
+          0.79,
+          -624.076
+        ],
+        [
+          45.101,
+          0.79,
+          -624.008
+        ],
+        [
+          45.507,
+          0.79,
+          -623.951
+        ],
+        [
+          45.864,
+          0.79,
+          -623.904
+        ],
+        [
+          46.384,
+          0.79,
+          -623.851
+        ],
+        [
+          46.841,
+          0.79,
+          -623.821
+        ],
+        [
+          47.191,
+          0.79,
+          -623.798
+        ],
+        [
+          47.552,
+          0.79,
+          -623.777
+        ],
+        [
+          47.922,
+          0.79,
+          -623.76
+        ],
+        [
+          48.302,
+          0.79,
+          -623.745
+        ],
+        [
+          48.692,
+          0.79,
+          -623.732
+        ],
+        [
+          49.09,
+          0.79,
+          -623.721
+        ],
+        [
+          49.496,
+          0.79,
+          -623.712
+        ],
+        [
+          49.91,
+          0.792,
+          -623.707
+        ],
+        [
+          50.329,
+          0.797,
+          -623.703
+        ],
+        [
+          50.756,
+          0.8,
+          -623.701
+        ],
+        [
+          51.189,
+          0.8,
+          -623.702
+        ],
+        [
+          51.626,
+          0.8,
+          -623.705
+        ],
+        [
+          52.067,
+          0.8,
+          -623.711
+        ],
+        [
+          52.513,
+          0.8,
+          -623.718
+        ],
+        [
+          52.961,
+          0.8,
+          -623.727
+        ],
+        [
+          53.412,
+          0.807,
+          -623.739
+        ],
+        [
+          53.866,
+          0.822,
+          -623.752
+        ],
+        [
+          54.322,
+          0.83,
+          -623.767
+        ],
+        [
+          54.778,
+          0.83,
+          -623.785
+        ],
+        [
+          55.234,
+          0.83,
+          -623.805
+        ],
+        [
+          55.691,
+          0.825,
+          -623.826
+        ],
+        [
+          56.146,
+          0.815,
+          -623.85
+        ],
+        [
+          56.601,
+          0.805,
+          -623.875
+        ],
+        [
+          57.053,
+          0.795,
+          -623.902
+        ],
+        [
+          57.502,
+          0.795,
+          -623.93
+        ],
+        [
+          57.95,
+          0.805,
+          -623.962
+        ],
+        [
+          58.392,
+          0.81,
+          -623.994
+        ],
+        [
+          58.765,
+          0.81,
+          -624.024
+        ]
+      ],
+      "roadWidthMetres": 3.999,
+      "roadWidthBasis": "Phase 2B inferred drive/service-road width; not surveyed",
+      "navigationSegmentStatuses": {
+        "walkable": 57,
+        "review": 0,
+        "blocked": 0
+      },
+      "bridge": false,
+      "stairs": false,
+      "maxNavigationGradeFraction": 0.0532968933475471,
+      "minimumSampledPlanCurvatureRadiusMetres": 9.318241972190568,
+      "busDimensionsMetres": {
+        "widthIncludingMirrors": 2.7199997901916504,
+        "length": 4.520000457763672,
+        "height": 2.6947493106126785,
+        "wheelbase": 2.3999993801116943,
+        "trackWidth": 1.7200000286102295
+      },
+      "nominalClearancePerSideMetres": 0.6395001049041749,
+      "clearanceInterpretation": "Only 4m modeled corridor minus 2.72m model envelope, before additional operational margin; collision runtime uses the modeled road envelope and blocks uncertain nav areas. Candidate use only; width not surveyed.",
+      "roundTrip": "Drive to far checkpoint, brake, reverse along same validated ribbon, return to start. No bridge routes."
+    },
+    "B": {
+      "title": "もりのたんけん",
+      "status": "candidate-unverified",
+      "candidateWayIds": [
+        "742189607",
+        "749128168"
+      ],
+      "lengthMetres": 984.23,
+      "widthMetres": 3.6,
+      "reason": "Long woodland-adjacent path candidate, but width is an inferred 3.6m class and 749128168 has review sections. Bus footprint sweeps and vegetation/obstacle clearance not run; not driveable in D1."
+    },
+    "C": {
+      "title": "こうえんツアー",
+      "status": "candidate-unverified",
+      "candidateWayIds": [
+        "777288663",
+        "683394372"
+      ],
+      "lengthMetres": [
+        196.39,
+        283.58
+      ],
+      "widthMetres": [
+        4.0,
+        3.6
+      ],
+      "reason": "Potential service-road/plaza and park-path itinerary; 777288663 has review portions, and all bridge/13 run areas remain blocked. No inter-run vehicle connectivity validation; not driveable in D1."
+    }
+  },
+  "vehicleModel": {
+    "sourceBlendReadOnly": "C:\\Users\\hp\\Desktop\\KIBA-REAL-CITY\\261018_TAYO Blender MCP\\Tayo_bus.blend",
+    "glb": "tayo_bus_phaseD1.glb",
+    "blenderVersion": "4.4.3",
+    "sourceSha256": "23b11189142e2cf09bf7fa94e6e1ecdab35388f3859d2603d370ef25e90eda2b",
+    "blendUnits": "METRIC",
+    "scaleLength": 1.0,
+    "forwardAxisInBlender": "-Y (observed Windshield at negative Y; rear panel at positive Y)",
+    "bodyBoundsBlenderXYZMetres": [
+      2.7199997901916504,
+      4.520000457763672,
+      2.6947493106126785
+    ],
+    "wheelbaseMetres": 2.3999993801116943,
+    "frontAxleCenter": [
+      0.0,
+      5.75,
+      0.46000000834465027
+    ],
+    "rearAxleCenter": [
+      0.0,
+      8.149999380111694,
+      0.46000000834465027
+    ],
+    "turningRadius": "Not authored in model; runtime steering is a conservative bicycle-model estimate (max steer 16°), not a certified vehicle specification."
+  },
+  "verificationPolicy": {
+    "experimentalVehicleCorridorOnly": true,
+    "phase2cNavigationModified": false,
+    "bridgesDriveable": false,
+    "maxDriveGradeFraction": 0.12,
+    "bodyFootprintSwept": true,
+    "treesBuildingsWaterChecked": true,
+    "allUncertainAreasStop": true,
+    "limitations": [
+      "OSM-derived modeled path widths are not a site survey.",
+      "The 24m Phase 2C test route is a limited local candidate, not proof of public vehicle access.",
+      "The original Tayo asset has no authored steering geometry or turning-radius specification."
+    ]
+  }
+}

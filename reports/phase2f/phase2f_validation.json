@@ -1,0 +1,110 @@
+{
+  "phase": "2F",
+  "sourceOSMWayId": "33976871",
+  "osmProjectedLengthMetres": 174.289,
+  "documentedBridgeLengthMetres": 250.0,
+  "unmodeledLengthDifferenceMetres": 75.711,
+  "phase2CRuns": 2,
+  "phase2CSegments": 319,
+  "clippedGapMetres": 16.609,
+  "phase2GapReportMetres": 16.616,
+  "gapEndpointHeightsEstimatedMetres": [
+    2.616,
+    2.14
+  ],
+  "gapHeightDeltaMetres": -0.476,
+  "candidateWidthMetres": 4.0,
+  "candidateWidthIsEstimated": true,
+  "candidateDeckSurfaceHeightOffsetMetres": 0.06,
+  "candidateTopTriangles": 640,
+  "osmPathStartEndProjected": [
+    {
+      "nodeId": "6980957124",
+      "lat": 35.6753925,
+      "lon": 139.8088215,
+      "eastingEPSG6677": -2218.876973609031,
+      "northingEPSG6677": -36013.26988336525,
+      "x": 83.44085271269978,
+      "z": -93.44733933192765
+    },
+    {
+      "nodeId": "6958098784",
+      "lat": 35.6756356,
+      "lon": 139.8088085,
+      "eastingEPSG6677": -2220.0470360280387,
+      "northingEPSG6677": -35986.29961259035,
+      "x": 82.27079029369224,
+      "z": -120.4176101068224
+    },
+    {
+      "nodeId": "6982757453",
+      "lat": 35.6769619,
+      "lon": 139.8087347,
+      "eastingEPSG6677": -2226.6907477292625,
+      "northingEPSG6677": -35839.1556746405,
+      "x": 75.62707859246848,
+      "z": -267.56154805667757
+    }
+  ],
+  "g62XZBounds": [
+    [
+      73.86833953857422,
+      89.5999984741211
+    ],
+    [
+      -236.01809692382812,
+      -47.979087829589844
+    ]
+  ],
+  "g62RouteOverlapFraction": 0.7617554858934169,
+  "navDataModified": false,
+  "collisionEnabledForCandidate": false,
+  "status": "review_only_not_walkable",
+  "fps": 60.1,
+  "drawCalls": 55,
+  "triangles": 600380,
+  "meshCount": 53,
+  "performanceMeasurementBasis": "actual browser top-view HUD; one-second sample",
+  "phase2CNavSurfaceLengthMetres": 132.836,
+  "candidateDeckLengthMetres": 149.445,
+  "candidateDeckVsDocumentedLengthGapMetres": 100.555,
+  "rawOSMLengthNotCoveredByPhase2CPlusGapMetres": 24.844,
+  "heightDifferenceToPhase2CEstimatedRunsMetres": 0.06,
+  "heightDifferenceBasis": "render-only offset at mapped stations; interpolated gap endpoints remain estimated",
+  "browserValidation": {
+    "actualBrowser": "Codex in-app browser, localhost:8779",
+    "viewsConfirmed": [
+      "top",
+      "bridge",
+      "side",
+      "robot"
+    ],
+    "movementTest": "PASS 24.0m, 326 swept probes; stairs BLOCK, >35% BLOCK, gap BLOCK, boundary BLOCK",
+    "baselinePhase2E": {
+      "fps": 60.1,
+      "drawCalls": 53,
+      "triangles": 599740,
+      "meshes": 51
+    },
+    "phase2FTop": {
+      "fps": 60.1,
+      "drawCalls": 55,
+      "triangles": 600380,
+      "meshes": 53
+    },
+    "delta": {
+      "fps": 0.0,
+      "drawCalls": 2,
+      "triangles": 640,
+      "meshes": 2
+    },
+    "measurementNote": "One-second HUD sample in an actual browser; FPS may vary with hardware and view/LOD."
+  },
+  "screenshots": [
+    "screenshots/phase2f/phase2e_before_top.png",
+    "screenshots/phase2f/phase2f_top.png",
+    "screenshots/phase2f/phase2f_bridge.png",
+    "screenshots/phase2f/phase2f_side.png",
+    "screenshots/phase2f/phase2f_robot.png"
+  ]
+}

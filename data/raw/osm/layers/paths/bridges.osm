@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2026-10-17T22:09:21Z"/>
+
+  <bounds minlat="35.6708181" minlon="139.8057307" maxlat="35.6808323" maxlon="139.8113834"/>
+
+  <node id="289946164" lat="35.6758437" lon="139.8069346" version="15" timestamp="2017-06-03T08:29:02Z" changeset="49215117" uid="3150532" user="dqn"/>
+  <node id="345569203" lat="35.6734695" lon="139.8102252" version="2" timestamp="2012-08-02T02:41:54Z" changeset="12580843" uid="618878" user="nakanao"/>
+  <node id="345569204" lat="35.6733727" lon="139.8100248" version="2" timestamp="2012-08-02T02:41:55Z" changeset="12580843" uid="618878" user="nakanao"/>
+  <node id="1799109022" lat="35.6759031" lon="139.8099446" version="3" timestamp="2013-07-03T03:36:34Z" changeset="16799961" uid="563961" user="Gravel Crew"/>
+  <node id="1799109045" lat="35.6762426" lon="139.8098896" version="3" timestamp="2013-07-03T03:36:34Z" changeset="16799961" uid="563961" user="Gravel Crew"/>
+  <node id="1832715471" lat="35.6747286" lon="139.8092040" version="4" timestamp="2023-07-16T14:55:34Z" changeset="138582309" uid="16755483" user="Airfall"/>
+  <node id="1847701627" lat="35.6725615" lon="139.8099932" version="1" timestamp="2012-08-02T02:40:54Z" changeset="12580843" uid="618878" user="nakanao"/>
+  <node id="1847701628" lat="35.6726160" lon="139.8096898" version="2" timestamp="2020-01-20T14:50:52Z" changeset="79803378" uid="7115748" user="Daaaaaaa"/>
+  <node id="1847701630" lat="35.6732709" lon="139.8104925" version="5" timestamp="2020-01-12T16:29:50Z" changeset="79480570" uid="7115748" user="Daaaaaaa"/>
+  <node id="1847701632" lat="35.6734170" lon="139.8101008" version="1" timestamp="2012-08-02T02:40:54Z" changeset="12580843" uid="618878" user="nakanao"/>
+  <node id="1847701633" lat="35.6734481" lon="139.8101643" version="1" timestamp="2012-08-02T02:40:54Z" changeset="12580843" uid="618878" user="nakanao"/>
+  <node id="1847701634" lat="35.6734667" lon="139.8104742" version="4" timestamp="2020-01-12T16:29:50Z" changeset="79480570" uid="7115748" user="Daaaaaaa"/>
+  <node id="1847701636" lat="35.6755873" lon="139.8106361" version="2" timestamp="2013-06-30T14:27:27Z" changeset="16765044" uid="563961" user="Gravel Crew"/>
+  <node id="1847701639" lat="35.6763588" lon="139.8106678" version="1" timestamp="2012-08-02T02:40:55Z" changeset="12580843" uid="618878" user="nakanao"/>
+  <node id="1847701640" lat="35.6763625" lon="139.8110997" version="1" timestamp="2012-08-02T02:40:55Z" changeset="12580843" uid="618878" user="nakanao"/>
+  <node id="1847701641" lat="35.6781830" lon="139.8104057" version="1" timestamp="2012-08-02T02:40:55Z" changeset="12580843" uid="618878" user="nakanao"/>
+  <node id="1847701642" lat="35.6782323" lon="139.8108468" version="1" timestamp="2012-08-02T02:40:55Z" changeset="12580843" uid="618878" user="nakanao"/>
+  <node id="1847701643" lat="35.6804289" lon="139.8101132" version="1" timestamp="2012-08-02T02:40:55Z" changeset="12580843" uid="618878" user="nakanao"/>
+  <node id="1847701644" lat="35.6804544" lon="139.8105502" version="1" timestamp="2012-08-02T02:40:55Z" changeset="12580843" uid="618878" user="nakanao"/>
+  <node id="2367334375" lat="35.6755256" lon="139.8109210" version="1" timestamp="2013-06-30T14:27:02Z" changeset="16765044" uid="563961" user="Gravel Crew"/>
+  <node id="2367334393" lat="35.6758385" lon="139.8070536" version="2" timestamp="2014-02-13T02:29:57Z" changeset="20533592" uid="1003241" user="yoshitk"/>
+  <node id="4038586579" lat="35.6756005" lon="139.8109032" version="1" timestamp="2016-03-03T15:53:04Z" changeset="37590196" uid="3150532" user="dqn"/>
+  <node id="4200631488" lat="35.6755133" lon="139.8106047" version="1" timestamp="2016-05-22T18:40:01Z" changeset="39492807" uid="3150532" user="dqn"/>
+  <node id="4893410748" lat="35.6761803" lon="139.8070968" version="2" timestamp="2022-01-30T03:10:12Z" changeset="116765393" uid="2352862" user="Netzach"/>
+  <node id="4893410760" lat="35.6761838" lon="139.8069833" version="1" timestamp="2017-06-03T08:29:01Z" changeset="49215117" uid="3150532" user="dqn"/>
+  <node id="5884379123" lat="35.6756512" lon="139.8106357" version="2" timestamp="2019-11-05T13:32:26Z" changeset="76649494" uid="7115748" user="Daaaaaaa"/>
+  <node id="6400941151" lat="35.6747434" lon="139.8091357" version="2" timestamp="2019-11-05T13:32:26Z" changeset="76649494" uid="7115748" user="Daaaaaaa"/>
+  <node id="6400941152" lat="35.6747295" lon="139.8085932" version="2" timestamp="2019-11-05T13:32:26Z" changeset="76649494" uid="7115748" user="Daaaaaaa"/>
+  <node id="6524646073" lat="35.6754827" lon="139.8108406" version="2" timestamp="2019-11-06T16:32:33Z" changeset="76713210" uid="7115748" user="Daaaaaaa"/>
+  <node id="6524646075" lat="35.6734660" lon="139.8100629" version="2" timestamp="2020-01-20T14:50:52Z" changeset="79803378" uid="7115748" user="Daaaaaaa"/>
+  <node id="6524650286" lat="35.6734844" lon="139.8100995" version="2" timestamp="2020-01-20T14:50:52Z" changeset="79803378" uid="7115748" user="Daaaaaaa"/>
+  <node id="6616790795" lat="35.6753473" lon="139.8090299" version="3" timestamp="2019-11-08T16:20:05Z" changeset="76821624" uid="7115748" user="Daaaaaaa"/>
+  <node id="6616790796" lat="35.6752705" lon="139.8090359" version="3" timestamp="2019-11-08T16:20:05Z" changeset="76821624" uid="7115748" user="Daaaaaaa"/>
+  <node id="6616790797" lat="35.6752712" lon="139.8090132" version="3" timestamp="2019-11-08T16:20:05Z" changeset="76821624" uid="7115748" user="Daaaaaaa"/>
+  <node id="6616790798" lat="35.6753495" lon="139.8090182" version="3" timestamp="2019-11-08T16:20:05Z" changeset="76821624" uid="7115748" user="Daaaaaaa"/>
+  <node id="6652779848" lat="35.6772184" lon="139.8064017" version="1" timestamp="2019-07-27T10:20:24Z" changeset="72712780" uid="6108657" user="maripogoda"/>
+  <node id="6652779849" lat="35.6774155" lon="139.8063746" version="1" timestamp="2019-07-27T10:20:24Z" changeset="72712780" uid="6108657" user="maripogoda"/>
+  <node id="6652779850" lat="35.6772865" lon="139.8061133" version="2" timestamp="2020-01-11T17:04:01Z" changeset="79456492" uid="7115748" user="Daaaaaaa"/>
+  <node id="6652779851" lat="35.6772880" lon="139.8060514" version="2" timestamp="2020-01-11T17:04:01Z" changeset="79456492" uid="7115748" user="Daaaaaaa"/>
+  <node id="6811968198" lat="35.6762298" lon="139.8098917" version="1" timestamp="2019-09-20T12:17:09Z" changeset="74715904" uid="7548722" user="Unnown"/>
+  <node id="6948432712" lat="35.6769591" lon="139.8086977" version="1" timestamp="2019-11-05T13:32:26Z" changeset="76649494" uid="7115748" user="Daaaaaaa"/>
+  <node id="6948432779" lat="35.6752443" lon="139.8087347" version="2" timestamp="2019-11-15T18:17:11Z" changeset="77141753" uid="7115748" user="Daaaaaaa"/>
+  <node id="6948432780" lat="35.6752612" lon="139.8089280" version="2" timestamp="2019-11-15T18:17:11Z" changeset="77141753" uid="7115748" user="Daaaaaaa"/>
+  <node id="6948436305" lat="35.6762433" lon="139.8098316" version="1" timestamp="2019-11-05T13:32:26Z" changeset="76649494" uid="7115748" user="Daaaaaaa"/>
+  <node id="6948436309" lat="35.6758390" lon="139.8071415" version="1" timestamp="2019-11-05T13:32:26Z" changeset="76649494" uid="7115748" user="Daaaaaaa"/>
+  <node id="6948436310" lat="35.6760955" lon="139.8071758" version="1" timestamp="2019-11-05T13:32:26Z" changeset="76649494" uid="7115748" user="Daaaaaaa"/>
+  <node id="6948436311" lat="35.6758981" lon="139.8098841" version="1" timestamp="2019-11-05T13:32:26Z" changeset="76649494" uid="7115748" user="Daaaaaaa"/>
+  <node id="6948436314" lat="35.6756559" lon="139.8109263" version="1" timestamp="2019-11-05T13:32:26Z" changeset="76649494" uid="7115748" user="Daaaaaaa"/>
+  <node id="6948436318" lat="35.6759099" lon="139.8099932" version="1" timestamp="2019-11-05T13:32:26Z" changeset="76649494" uid="7115748" user="Daaaaaaa"/>
+  <node id="6948436319" lat="35.6762441" lon="139.8099424" version="1" timestamp="2019-11-05T13:32:26Z" changeset="76649494" uid="7115748" user="Daaaaaaa"/>
+  <node id="6948436327" lat="35.6763204" lon="139.8106574" version="2" timestamp="2019-11-05T14:49:44Z" changeset="76654152" uid="7115748" user="Daaaaaaa"/>
+  <node id="6948436328" lat="35.6763320" lon="139.8111084" version="2" timestamp="2019-11-05T14:49:44Z" changeset="76654152" uid="7115748" user="Daaaaaaa"/>
+  <node id="6948661488" lat="35.6760815" lon="139.8068891" version="1" timestamp="2019-11-05T14:49:44Z" changeset="76654152" uid="7115748" user="Daaaaaaa"/>
+  <node id="6948661489" lat="35.6758180" lon="139.8068421" version="3" timestamp="2020-09-10T17:25:01Z" changeset="90715287" uid="3150532" user="dqn"/>
+  <node id="6952152225" lat="35.6754733" lon="139.8106065" version="1" timestamp="2019-11-06T16:32:33Z" changeset="76713210" uid="7115748" user="Daaaaaaa"/>
+  <node id="6958098775" lat="35.6752762" lon="139.8090103" version="1" timestamp="2019-11-08T16:20:05Z" changeset="76821624" uid="7115748" user="Daaaaaaa"/>
+  <node id="6958098776" lat="35.6752676" lon="139.8090202" version="1" timestamp="2019-11-08T16:20:05Z" changeset="76821624" uid="7115748" user="Daaaaaaa"/>
+  <node id="6958098777" lat="35.6752681" lon="139.8090291" version="1" timestamp="2019-11-08T16:20:05Z" changeset="76821624" uid="7115748" user="Daaaaaaa"/>
+  <node id="6958098778" lat="35.6752766" lon="139.8090374" version="1" timestamp="2019-11-08T16:20:05Z" changeset="76821624" uid="7115748" user="Daaaaaaa"/>
+  <node id="6958098779" lat="35.6753406" lon="139.8090329" version="1" timestamp="2019-11-08T16:20:05Z" changeset="76821624" uid="7115748" user="Daaaaaaa"/>
+  <node id="6958098780" lat="35.6753497" lon="139.8090225" version="1" timestamp="2019-11-08T16:20:05Z" changeset="76821624" uid="7115748" user="Daaaaaaa"/>
+  <node id="6958098783" lat="35.6757109" lon="139.8089512" version="1" timestamp="2019-11-08T16:20:05Z" changeset="76821624" uid="7115748" user="Daaaaaaa"/>
+  <node id="6958098784" lat="35.6756356" lon="139.8088085" version="1" timestamp="2019-11-08T16:20:05Z" changeset="76821624" uid="7115748" user="Daaaaaaa"/>
+  <node id="6958105385" lat="35.6756429" lon="139.8089542" version="1" timestamp="2019-11-08T16:20:05Z" changeset="76821624" uid="7115748" user="Daaaaaaa"/>
+  <node id="6958105386" lat="35.6757101" lon="139.8089279" version="1" timestamp="2019-11-08T16:20:05Z" changeset="76821624" uid="7115748" user="Daaaaaaa"/>
+  <node id="6958105387" lat="35.6756406" lon="139.8089467" version="1" timestamp="2019-11-08T16:20:05Z" changeset="76821624" uid="7115748" user="Daaaaaaa"/>
+  <node id="6958105388" lat="35.6756498" lon="139.8089570" version="1" timestamp="2019-11-08T16:20:05Z" changeset="76821624" uid="7115748" user="Daaaaaaa"/>
+  <node id="6958105389" lat="35.6757057" lon="139.8089539" version="1" timestamp="2019-11-08T16:20:05Z" changeset="76821624" uid="7115748" user="Daaaaaaa"/>
+  <node id="6958105390" lat="35.6757129" lon="139.8089432" version="1" timestamp="2019-11-08T16:20:05Z" changeset="76821624" uid="7115748" user="Daaaaaaa"/>
+  <node id="6958105391" lat="35.6757125" lon="139.8089341" version="1" timestamp="2019-11-08T16:20:05Z" changeset="76821624" uid="7115748" user="Daaaaaaa"/>
+  <node id="6958105392" lat="35.6757050" lon="139.8089253" version="1" timestamp="2019-11-08T16:20:05Z" changeset="76821624" uid="7115748" user="Daaaaaaa"/>
+  <node id="6958105393" lat="35.6756398" lon="139.8089289" version="1" timestamp="2019-11-08T16:20:05Z" changeset="76821624" uid="7115748" user="Daaaaaaa"/>
+  <node id="6958105394" lat="35.6753488" lon="139.8090038" version="1" timestamp="2019-11-08T16:20:05Z" changeset="76821624" uid="7115748" user="Daaaaaaa"/>
+  <node id="6978898087" lat="35.6752363" lon="139.8087716" version="1" timestamp="2019-11-15T06:46:23Z" changeset="77107077" uid="7115748" user="Daaaaaaa"/>
+  <node id="6978898088" lat="35.6752421" lon="139.8088952" version="1" timestamp="2019-11-15T06:46:23Z" changeset="77107077" uid="7115748" user="Daaaaaaa"/>
+  <node id="6978898089" lat="35.6752561" lon="139.8088853" version="1" timestamp="2019-11-15T06:46:23Z" changeset="77107077" uid="7115748" user="Daaaaaaa"/>
+  <node id="6978898090" lat="35.6750671" lon="139.8087367" version="1" timestamp="2019-11-15T06:46:23Z" changeset="77107077" uid="7115748" user="Daaaaaaa"/>
+  <node id="6978898091" lat="35.6747304" lon="139.8086299" version="1" timestamp="2019-11-15T06:46:23Z" changeset="77107077" uid="7115748" user="Daaaaaaa"/>
+  <node id="6978898092" lat="35.6752472" lon="139.8086995" version="1" timestamp="2019-11-15T06:46:23Z" changeset="77107077" uid="7115748" user="Daaaaaaa"/>
+  <node id="6978898093" lat="35.6757385" lon="139.8087379" version="1" timestamp="2019-11-15T06:46:23Z" changeset="77107077" uid="7115748" user="Daaaaaaa"/>
+  <node id="6978898094" lat="35.6763959" lon="139.8087097" version="1" timestamp="2019-11-15T06:46:23Z" changeset="77107077" uid="7115748" user="Daaaaaaa"/>
+  <node id="6978898095" lat="35.6769667" lon="139.8086523" version="1" timestamp="2019-11-15T06:46:23Z" changeset="77107077" uid="7115748" user="Daaaaaaa"/>
+  <node id="6978898096" lat="35.6769686" lon="139.8088232" version="1" timestamp="2019-11-15T06:46:23Z" changeset="77107077" uid="7115748" user="Daaaaaaa"/>
+  <node id="6978898097" lat="35.6747426" lon="139.8091043" version="1" timestamp="2019-11-15T06:46:23Z" changeset="77107077" uid="7115748" user="Daaaaaaa"/>
+  <node id="6978898098" lat="35.6750843" lon="139.8089524" version="1" timestamp="2019-11-15T06:46:23Z" changeset="77107077" uid="7115748" user="Daaaaaaa"/>
+  <node id="6978898099" lat="35.6752666" lon="139.8088687" version="1" timestamp="2019-11-15T06:46:23Z" changeset="77107077" uid="7115748" user="Daaaaaaa"/>
+  <node id="6978898100" lat="35.6752737" lon="139.8088508" version="1" timestamp="2019-11-15T06:46:23Z" changeset="77107077" uid="7115748" user="Daaaaaaa"/>
+  <node id="6978898101" lat="35.6752756" lon="139.8088310" version="1" timestamp="2019-11-15T06:46:23Z" changeset="77107077" uid="7115748" user="Daaaaaaa"/>
+  <node id="6978898102" lat="35.6752722" lon="139.8088115" version="1" timestamp="2019-11-15T06:46:23Z" changeset="77107077" uid="7115748" user="Daaaaaaa"/>
+  <node id="6978898103" lat="35.6752637" lon="139.8087945" version="1" timestamp="2019-11-15T06:46:23Z" changeset="77107077" uid="7115748" user="Daaaaaaa"/>
+  <node id="6978898104" lat="35.6752523" lon="139.8087801" version="1" timestamp="2019-11-15T06:46:23Z" changeset="77107077" uid="7115748" user="Daaaaaaa"/>
+  <node id="6978898105" lat="35.6750990" lon="139.8090286" version="1" timestamp="2019-11-15T06:46:23Z" changeset="77107077" uid="7115748" user="Daaaaaaa"/>
+  <node id="6978898106" lat="35.6747259" lon="139.8085480" version="1" timestamp="2019-11-15T06:46:23Z" changeset="77107077" uid="7115748" user="Daaaaaaa"/>
+  <node id="6978898107" lat="35.6763979" lon="139.8088316" version="1" timestamp="2019-11-15T06:46:23Z" changeset="77107077" uid="7115748" user="Daaaaaaa"/>
+  <node id="6978898108" lat="35.6757437" lon="139.8088738" version="1" timestamp="2019-11-15T06:46:23Z" changeset="77107077" uid="7115748" user="Daaaaaaa"/>
+  <node id="6978898109" lat="35.6747807" lon="139.8086504" version="1" timestamp="2019-11-15T06:46:23Z" changeset="77107077" uid="7115748" user="Daaaaaaa"/>
+  <node id="6978898110" lat="35.6748399" lon="139.8086742" version="1" timestamp="2019-11-15T06:46:23Z" changeset="77107077" uid="7115748" user="Daaaaaaa"/>
+  <node id="6978898111" lat="35.6749794" lon="139.8087165" version="1" timestamp="2019-11-15T06:46:23Z" changeset="77107077" uid="7115748" user="Daaaaaaa"/>
+  <node id="6978898112" lat="35.6749963" lon="139.8089826" version="1" timestamp="2019-11-15T06:46:23Z" changeset="77107077" uid="7115748" user="Daaaaaaa"/>
+  <node id="6978898113" lat="35.6748644" lon="139.8090390" version="1" timestamp="2019-11-15T06:46:23Z" changeset="77107077" uid="7115748" user="Daaaaaaa"/>
+  <node id="6978898114" lat="35.6747985" lon="139.8090704" version="1" timestamp="2019-11-15T06:46:23Z" changeset="77107077" uid="7115748" user="Daaaaaaa"/>
+  <node id="6978898115" lat="35.6748417" lon="139.8085907" version="1" timestamp="2019-11-15T06:46:23Z" changeset="77107077" uid="7115748" user="Daaaaaaa"/>
+  <node id="6978898116" lat="35.6749929" lon="139.8086370" version="1" timestamp="2019-11-15T06:46:23Z" changeset="77107077" uid="7115748" user="Daaaaaaa"/>
+  <node id="6978898117" lat="35.6750782" lon="139.8086615" version="1" timestamp="2019-11-15T06:46:23Z" changeset="77107077" uid="7115748" user="Daaaaaaa"/>
+  <node id="6978898118" lat="35.6748741" lon="139.8091194" version="1" timestamp="2019-11-15T06:46:23Z" changeset="77107077" uid="7115748" user="Daaaaaaa"/>
+  <node id="6978898119" lat="35.6752578" lon="139.8089791" version="1" timestamp="2019-11-15T06:46:23Z" changeset="77107077" uid="7115748" user="Daaaaaaa"/>
+  <node id="6978898120" lat="35.6750160" lon="139.8090584" version="1" timestamp="2019-11-15T06:46:23Z" changeset="77107077" uid="7115748" user="Daaaaaaa"/>
+  <node id="6978898121" lat="35.6753145" lon="139.8087078" version="1" timestamp="2019-11-15T06:46:23Z" changeset="77107077" uid="7115748" user="Daaaaaaa"/>
+  <node id="6978898122" lat="35.6755447" lon="139.8087315" version="1" timestamp="2019-11-15T06:46:23Z" changeset="77107077" uid="7115748" user="Daaaaaaa"/>
+  <node id="6978898123" lat="35.6755550" lon="139.8089092" version="1" timestamp="2019-11-15T06:46:23Z" changeset="77107077" uid="7115748" user="Daaaaaaa"/>
+  <node id="6978898124" lat="35.6753310" lon="139.8089568" version="1" timestamp="2019-11-15T06:46:23Z" changeset="77107077" uid="7115748" user="Daaaaaaa"/>
+  <node id="6978898125" lat="35.6760873" lon="139.8088446" version="1" timestamp="2019-11-15T06:46:23Z" changeset="77107077" uid="7115748" user="Daaaaaaa"/>
+  <node id="6978898126" lat="35.6760815" lon="139.8087303" version="1" timestamp="2019-11-15T06:46:23Z" changeset="77107077" uid="7115748" user="Daaaaaaa"/>
+  <node id="6978898127" lat="35.6766726" lon="139.8088214" version="1" timestamp="2019-11-15T06:46:23Z" changeset="77107077" uid="7115748" user="Daaaaaaa"/>
+  <node id="6978898128" lat="35.6766668" lon="139.8086907" version="1" timestamp="2019-11-15T06:46:23Z" changeset="77107077" uid="7115748" user="Daaaaaaa"/>
+  <node id="6980957117" lat="35.6748506" lon="139.8086345" version="1" timestamp="2019-11-15T18:17:11Z" changeset="77141753" uid="7115748" user="Daaaaaaa"/>
+  <node id="6980957118" lat="35.6749741" lon="139.8086727" version="1" timestamp="2019-11-15T18:17:11Z" changeset="77141753" uid="7115748" user="Daaaaaaa"/>
+  <node id="6980957119" lat="35.6750934" lon="139.8087048" version="1" timestamp="2019-11-15T18:17:11Z" changeset="77141753" uid="7115748" user="Daaaaaaa"/>
+  <node id="6980957120" lat="35.6750707" lon="139.8089923" version="1" timestamp="2019-11-15T18:17:11Z" changeset="77141753" uid="7115748" user="Daaaaaaa"/>
+  <node id="6980957121" lat="35.6749596" lon="139.8090353" version="1" timestamp="2019-11-15T18:17:11Z" changeset="77141753" uid="7115748" user="Daaaaaaa"/>
+  <node id="6980957122" lat="35.6748153" lon="139.8090990" version="1" timestamp="2019-11-15T18:17:11Z" changeset="77141753" uid="7115748" user="Daaaaaaa"/>
+  <node id="6980957123" lat="35.6751511" lon="139.8089630" version="1" timestamp="2019-11-15T18:17:11Z" changeset="77141753" uid="7115748" user="Daaaaaaa"/>
+  <node id="6980957124" lat="35.6753925" lon="139.8088215" version="1" timestamp="2019-11-15T18:17:11Z" changeset="77141753" uid="7115748" user="Daaaaaaa"/>
+  <node id="6980957126" lat="35.6753429" lon="139.8088617" version="1" timestamp="2019-11-15T18:17:11Z" changeset="77141753" uid="7115748" user="Daaaaaaa"/>
+  <node id="6982757453" lat="35.6769619" lon="139.8087347" version="1" timestamp="2019-11-16T14:18:42Z" changeset="77165867" uid="7115748" user="Daaaaaaa"/>
+  <node id="7057471098" lat="35.6756554" lon="139.8108931" version="3" timestamp="2020-01-20T13:07:37Z" changeset="79798823" uid="7115748" user="Daaaaaaa"/>
+  <node id="7124660091" lat="35.6772483" lon="139.8063976" version="1" timestamp="2020-01-11T17:04:01Z" changeset="79456492" uid="7115748" user="Daaaaaaa"/>
+  <node id="7124660094" lat="35.6773982" lon="139.8063770" version="5" timestamp="2024-10-01T02:48:19Z" changeset="157319650" uid="162387" user="maiki">
+    <tag k="crossing:markings" v="no"/>
+    <tag k="crossing:signals" v="no"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="7146506443" lat="35.6735296" lon="139.8102120" version="1" timestamp="2020-01-20T14:50:52Z" changeset="79803378" uid="7115748" user="Daaaaaaa"/>
+  <node id="7146506444" lat="35.6735165" lon="139.8101761" version="1" timestamp="2020-01-20T14:50:52Z" changeset="79803378" uid="7115748" user="Daaaaaaa"/>
+  <node id="7146506445" lat="35.6735016" lon="139.8101375" version="1" timestamp="2020-01-20T14:50:52Z" changeset="79803378" uid="7115748" user="Daaaaaaa"/>
+  <node id="7146506446" lat="35.6735400" lon="139.8102498" version="1" timestamp="2020-01-20T14:50:52Z" changeset="79803378" uid="7115748" user="Daaaaaaa"/>
+  <node id="9459406915" lat="35.6761492" lon="139.8072139" version="1" timestamp="2022-01-30T03:10:12Z" changeset="116765393" uid="2352862" user="Netzach"/>
+  <node id="9459406916" lat="35.6758512" lon="139.8071690" version="1" timestamp="2022-01-30T03:10:12Z" changeset="116765393" uid="2352862" user="Netzach"/>
+  <node id="9459411117" lat="35.6758452" lon="139.8068250" version="1" timestamp="2022-01-30T03:10:12Z" changeset="116765393" uid="2352862" user="Netzach"/>
+  <node id="9459411118" lat="35.6761426" lon="139.8068706" version="1" timestamp="2022-01-30T03:10:12Z" changeset="116765393" uid="2352862" user="Netzach"/>
+  <node id="11049525199" lat="35.6751931" lon="139.8086873" version="1" timestamp="2023-07-16T14:55:34Z" changeset="138582309" uid="16755483" user="Airfall"/>
+  <node id="11175893953" lat="35.6725867" lon="139.8096269" version="1" timestamp="2023-09-08T04:14:18Z" changeset="140966305" uid="20172565" user="kuruze"/>
+  <node id="11175893954" lat="35.6725322" lon="139.8099717" version="2" timestamp="2023-09-08T04:50:17Z" changeset="140967009" uid="20172565" user="kuruze"/>
+  <node id="11175893955" lat="35.6725525" lon="139.8098431" version="1" timestamp="2023-09-08T04:14:18Z" changeset="140966305" uid="20172565" user="kuruze"/>
+  <node id="11175918002" lat="35.6725849" lon="139.8099895" version="1" timestamp="2023-09-08T04:50:17Z" changeset="140967009" uid="20172565" user="kuruze"/>
+  <node id="11175918003" lat="35.6726524" lon="139.8096528" version="1" timestamp="2023-09-08T04:50:17Z" changeset="140967009" uid="20172565" user="kuruze"/>
+  <node id="11175918004" lat="35.6725833" lon="139.8096486" version="1" timestamp="2023-09-08T04:50:17Z" changeset="140967009" uid="20172565" user="kuruze"/>
+  <node id="11175943467" lat="35.6733071" lon="139.8100111" version="1" timestamp="2023-09-08T05:39:07Z" changeset="140968199" uid="20172565" user="kuruze"/>
+  <node id="11175943468" lat="35.6734140" lon="139.8101981" version="1" timestamp="2023-09-08T05:39:07Z" changeset="140968199" uid="20172565" user="kuruze"/>
+  <node id="13608654201" lat="35.6756681" lon="139.8105758" version="1" timestamp="2026-03-01T02:54:16Z" changeset="179193729" uid="22635317" user="graphite8191"/>
+  <node id="13608654202" lat="35.6754375" lon="139.8105471" version="1" timestamp="2026-03-01T02:54:16Z" changeset="179193729" uid="22635317" user="graphite8191"/>
+  <node id="13608654203" lat="35.6757085" lon="139.8105257" version="1" timestamp="2026-03-01T02:54:16Z" changeset="179193729" uid="22635317" user="graphite8191"/>
+  <node id="13608654205" lat="35.6754350" lon="139.8104046" version="1" timestamp="2026-03-01T02:54:16Z" changeset="179193729" uid="22635317" user="graphite8191"/>
+  <node id="13608654207" lat="35.6756805" lon="139.8105210" version="1" timestamp="2026-03-01T02:54:16Z" changeset="179193729" uid="22635317" user="graphite8191"/>
+  <node id="13608654208" lat="35.6756478" lon="139.8105216" version="1" timestamp="2026-03-01T02:54:16Z" changeset="179193729" uid="22635317" user="graphite8191"/>
+  <way id="33976871" version="12" timestamp="2023-02-02T03:44:53Z" changeset="131984090" uid="10380931" user="Zergling_man">
+    <nd ref="6980957124"/>
+    <nd ref="6958098784"/>
+    <nd ref="6982757453"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="木場公園大橋"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="168683411" version="4" timestamp="2019-09-20T12:17:09Z" changeset="74715904" uid="7548722" user="Unnown">
+    <nd ref="1799109045"/>
+    <nd ref="6811968198"/>
+    <nd ref="1799109022"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="bridge:name" v="崎川橋"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="layer" v="1"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="174022625" version="7" timestamp="2023-02-11T07:07:20Z" changeset="132391906" uid="15222002" user="エゾモモンガ">
+    <nd ref="1847701636"/>
+    <nd ref="4038586579"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="bridge:name" v="茂森橋"/>
+    <tag k="bridge:name:en" v="Shigemori-bashi Bridge"/>
+    <tag k="bridge:name:ja" v="茂森橋"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="葛西橋通り"/>
+    <tag k="name:en" v="Kasaibashi-dori"/>
+    <tag k="name:ja" v="葛西橋通り"/>
+    <tag k="name:ja_rm" v="Kasaibashi Dōri"/>
+    <tag k="ref" v="475"/>
+    <tag k="source" v="Bing 2012"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="174022634" version="3" timestamp="2016-08-13T19:38:47Z" changeset="41435132" uid="1714220" user="luschi">
+    <nd ref="1847701642"/>
+    <nd ref="1847701641"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="bridge:name" v="福寿橋 (Fukujyu-bashi Bridge)"/>
+    <tag k="bridge:name:en" v="Fukujyu-bashi Bridge"/>
+    <tag k="bridge:name:ja" v="福寿橋"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="layer" v="1"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="174022637" version="3" timestamp="2018-03-04T01:57:03Z" changeset="56861142" uid="2977369" user="塚越光紀">
+    <nd ref="1847701640"/>
+    <nd ref="1847701639"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="bridge:name" v="大栄橋 (Daiei-bashi Bridge)"/>
+    <tag k="bridge:name:en" v="Daiei-bashi Bridge"/>
+    <tag k="bridge:name:ja" v="大栄橋"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="layer" v="1"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="174022644" version="4" timestamp="2021-09-24T00:23:32Z" changeset="111623484" uid="1003241" user="yoshitk">
+    <nd ref="1847701627"/>
+    <nd ref="1847701628"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="bridge:name" v="大横橋 (Oyoko-bashi Bridge)"/>
+    <tag k="bridge:name:en" v="Oyoko-bashi Bridge"/>
+    <tag k="bridge:name:ja" v="大横橋"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="layer" v="1"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="174022647" version="3" timestamp="2021-09-24T00:23:32Z" changeset="111623484" uid="1003241" user="yoshitk">
+    <nd ref="1847701630"/>
+    <nd ref="1847701634"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="bridge:name" v="富士見橋 (Fujimi-bashi Bridge)"/>
+    <tag k="bridge:name:en" v="Fujimi-bashi Bridge"/>
+    <tag k="bridge:name:ja" v="富士見橋"/>
+    <tag k="highway" v="unclassified"/>
+  </way>
+  <way id="174022657" version="3" timestamp="2016-08-13T19:37:39Z" changeset="41435132" uid="1714220" user="luschi">
+    <nd ref="1847701644"/>
+    <nd ref="1847701643"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="bridge:name" v="三石橋 (Sangoku-bashi Bridge)"/>
+    <tag k="bridge:name:en" v="Sangoku-bashi Bridge"/>
+    <tag k="bridge:name:ja" v="三石橋"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="layer" v="1"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="174022670" version="4" timestamp="2020-01-20T14:50:52Z" changeset="79803378" uid="7115748" user="Daaaaaaa">
+    <nd ref="345569203"/>
+    <nd ref="1847701633"/>
+    <nd ref="1847701632"/>
+    <nd ref="345569204"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="bridge:name" v="豊木橋 (Toyoki-bashi Bridge)"/>
+    <tag k="bridge:name:en" v="Toyoki-bashi Bridge"/>
+    <tag k="bridge:name:ja" v="豊木橋"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="layer" v="1"/>
+  </way>
+  <way id="184315496" version="7" timestamp="2019-02-25T16:09:46Z" changeset="67553425" uid="3150532" user="dqn">
+    <nd ref="289946164"/>
+    <nd ref="4893410760"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="三ツ目通り"/>
+    <tag k="name:en" v="Mitsume-dori"/>
+    <tag k="name:es" v="Calle Mitsume"/>
+    <tag k="name:ja" v="三ツ目通り"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="319"/>
+  </way>
+  <way id="261322466" version="5" timestamp="2019-02-25T16:09:46Z" changeset="67553425" uid="3150532" user="dqn">
+    <nd ref="4893410748"/>
+    <nd ref="2367334393"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="三ツ目通り"/>
+    <tag k="name:en" v="Mitsume-dori"/>
+    <tag k="name:es" v="Calle Mitsume"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="319"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way id="420083582" version="5" timestamp="2025-12-31T09:48:37Z" changeset="176663830" uid="388809" user="市川ゆり子">
+    <nd ref="2367334375"/>
+    <nd ref="4200631488"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="bridge:name" v="茂森橋"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="葛西橋通り"/>
+    <tag k="name:en" v="Kasaibashi-dori"/>
+    <tag k="name:ja" v="葛西橋通り"/>
+    <tag k="name:ja-Hira" v="かさいばしどおり"/>
+    <tag k="name:ja_rm" v="Kasaibashi Dōri"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="475"/>
+    <tag k="source" v="Bing 2012"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="598428792" version="8" timestamp="2023-02-02T03:30:39Z" changeset="131984090" uid="10380931" user="Zergling_man">
+    <nd ref="6400941151"/>
+    <nd ref="6980957122"/>
+    <nd ref="6980957121"/>
+    <nd ref="6980957120"/>
+    <nd ref="6980957123"/>
+    <nd ref="6948432780"/>
+    <nd ref="6980957126"/>
+    <nd ref="6980957124"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="1"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="683394375" version="6" timestamp="2023-02-02T03:30:39Z" changeset="131984090" uid="10380931" user="Zergling_man">
+    <nd ref="6980957124"/>
+    <nd ref="6948432779"/>
+    <nd ref="6980957119"/>
+    <nd ref="6980957118"/>
+    <nd ref="6980957117"/>
+    <nd ref="6400941152"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="1"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="694734309" version="4" timestamp="2020-01-20T14:50:52Z" changeset="79803378" uid="7115748" user="Daaaaaaa">
+    <nd ref="7146506446"/>
+    <nd ref="7146506443"/>
+    <nd ref="7146506444"/>
+    <nd ref="7146506445"/>
+    <nd ref="6524650286"/>
+    <nd ref="6524646075"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="1"/>
+  </way>
+  <way id="704572344" version="6" timestamp="2023-02-02T03:29:23Z" changeset="131984090" uid="10380931" user="Zergling_man">
+    <nd ref="6980957126"/>
+    <nd ref="6616790798"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="1"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="708004637" version="5" timestamp="2024-10-01T02:48:48Z" changeset="157319660" uid="162387" user="maiki">
+    <nd ref="6652779849"/>
+    <nd ref="7124660094"/>
+    <nd ref="7124660091"/>
+    <nd ref="6652779848"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxweight:signed" v="no"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="Bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="708004639" version="2" timestamp="2024-10-01T02:47:31Z" changeset="157319603" uid="162387" user="maiki">
+    <nd ref="6652779850"/>
+    <nd ref="6652779851"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="footway"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="wood"/>
+  </way>
+  <way id="742189620" version="1" timestamp="2019-11-05T13:32:26Z" changeset="76649494" uid="7115748" user="Daaaaaaa">
+    <nd ref="6948436309"/>
+    <nd ref="6948436310"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="1"/>
+  </way>
+  <way id="742189621" version="1" timestamp="2019-11-05T13:32:26Z" changeset="76649494" uid="7115748" user="Daaaaaaa">
+    <nd ref="6948436305"/>
+    <nd ref="6948436311"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="1"/>
+  </way>
+  <way id="742189623" version="3" timestamp="2023-01-05T14:39:00Z" changeset="130909724" uid="167417" user="osm-sputnik">
+    <nd ref="5884379123"/>
+    <nd ref="7057471098"/>
+    <nd ref="6948436314"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="yes"/>
+  </way>
+  <way id="742189625" version="1" timestamp="2019-11-05T13:32:26Z" changeset="76649494" uid="7115748" user="Daaaaaaa">
+    <nd ref="6948436319"/>
+    <nd ref="6948436318"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="1"/>
+  </way>
+  <way id="742189627" version="1" timestamp="2019-11-05T13:32:26Z" changeset="76649494" uid="7115748" user="Daaaaaaa">
+    <nd ref="6948436328"/>
+    <nd ref="6948436327"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="1"/>
+  </way>
+  <way id="742212553" version="1" timestamp="2019-11-05T14:49:44Z" changeset="76654152" uid="7115748" user="Daaaaaaa">
+    <nd ref="6948661488"/>
+    <nd ref="6948661489"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="1"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="742634307" version="2" timestamp="2023-01-05T14:39:02Z" changeset="130909724" uid="167417" user="osm-sputnik">
+    <nd ref="6952152225"/>
+    <nd ref="6524646073"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="yes"/>
+  </way>
+  <way id="743360832" version="6" timestamp="2023-02-02T03:48:50Z" changeset="131984097" uid="10380931" user="Zergling_man">
+    <nd ref="6958105393"/>
+    <nd ref="6958105392"/>
+    <nd ref="6958105386"/>
+    <nd ref="6958105391"/>
+    <nd ref="6958105390"/>
+    <nd ref="6958098783"/>
+    <nd ref="6958105389"/>
+    <nd ref="6958105388"/>
+    <nd ref="6958105385"/>
+    <nd ref="6958105387"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="handrail" v="yes"/>
+    <tag k="highway" v="steps"/>
+    <tag k="incline" v="up"/>
+    <tag k="ramp" v="no"/>
+    <tag k="step_count" v="54"/>
+    <tag k="surface" v="concrete:plates"/>
+  </way>
+  <way id="743360834" version="2" timestamp="2023-02-02T03:49:24Z" changeset="131984090" uid="10380931" user="Zergling_man">
+    <nd ref="6958105387"/>
+    <nd ref="6958098784"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="1"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="743360835" version="6" timestamp="2023-02-02T03:29:19Z" changeset="131984097" uid="10380931" user="Zergling_man">
+    <nd ref="6616790798"/>
+    <nd ref="6958098780"/>
+    <nd ref="6616790795"/>
+    <nd ref="6958098779"/>
+    <nd ref="6958098778"/>
+    <nd ref="6616790796"/>
+    <nd ref="6958098777"/>
+    <nd ref="6958098776"/>
+    <nd ref="6616790797"/>
+    <nd ref="6958098775"/>
+    <nd ref="6958105394"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="handrail" v="yes"/>
+    <tag k="highway" v="steps"/>
+    <tag k="incline" v="down"/>
+    <tag k="ramp" v="no"/>
+    <tag k="step_count" v="46"/>
+    <tag k="surface" v="concrete:plates"/>
+  </way>
+  <way id="745579214" version="6" timestamp="2024-11-01T22:30:32Z" changeset="158639445" uid="162590" user="higa4">
+    <nd ref="6978898105"/>
+    <nd ref="6978898120"/>
+    <nd ref="6978898118"/>
+    <nd ref="1832715471"/>
+    <nd ref="6978898097"/>
+    <nd ref="6978898114"/>
+    <nd ref="6978898113"/>
+    <nd ref="6978898112"/>
+    <nd ref="6978898098"/>
+    <nd ref="6978898088"/>
+    <nd ref="6978898089"/>
+    <nd ref="6978898099"/>
+    <nd ref="6978898100"/>
+    <nd ref="6978898101"/>
+    <nd ref="6978898102"/>
+    <nd ref="6978898103"/>
+    <nd ref="6978898104"/>
+    <nd ref="6978898087"/>
+    <nd ref="6978898090"/>
+    <nd ref="6978898111"/>
+    <nd ref="6978898110"/>
+    <nd ref="6978898109"/>
+    <nd ref="6978898091"/>
+    <nd ref="6978898106"/>
+    <nd ref="6978898115"/>
+    <nd ref="6978898116"/>
+    <nd ref="6978898117"/>
+    <nd ref="11049525199"/>
+    <nd ref="6978898092"/>
+    <nd ref="6978898121"/>
+    <nd ref="6978898122"/>
+    <nd ref="6978898093"/>
+    <nd ref="6978898126"/>
+    <nd ref="6978898094"/>
+    <nd ref="6978898128"/>
+    <nd ref="6978898095"/>
+    <nd ref="6948432712"/>
+    <nd ref="6982757453"/>
+    <nd ref="6978898096"/>
+    <nd ref="6978898127"/>
+    <nd ref="6978898107"/>
+    <nd ref="6978898125"/>
+    <nd ref="6978898108"/>
+    <nd ref="6978898123"/>
+    <nd ref="6978898124"/>
+    <nd ref="6978898119"/>
+    <nd ref="6978898105"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="bridge:structure" v="cable-stayed"/>
+    <tag k="layer" v="1"/>
+    <tag k="man_made" v="bridge"/>
+    <tag k="name" v="木場公園大橋"/>
+    <tag k="name:en" v="Kibakoen Ohashi Bridge"/>
+    <tag k="wikidata" v="Q63268232"/>
+  </way>
+  <way id="1025991820" version="1" timestamp="2022-01-30T03:10:12Z" changeset="116765393" uid="2352862" user="Netzach">
+    <nd ref="9459411118"/>
+    <nd ref="9459411117"/>
+    <nd ref="9459406916"/>
+    <nd ref="9459406915"/>
+    <nd ref="9459411118"/>
+    <tag k="layer" v="1"/>
+    <tag k="man_made" v="bridge"/>
+    <tag k="name" v="末広橋"/>
+  </way>
+  <way id="1206032349" version="3" timestamp="2026-04-15T06:52:49Z" changeset="181352121" uid="3144324" user="Simon Richter">
+    <nd ref="11175893954"/>
+    <nd ref="11175893955"/>
+    <nd ref="11175918004"/>
+    <nd ref="11175893953"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="1"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="1206035934" version="2" timestamp="2026-04-15T06:52:53Z" changeset="181352121" uid="3144324" user="Simon Richter">
+    <nd ref="11175918002"/>
+    <nd ref="11175918003"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="1"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="1206041760" version="1" timestamp="2023-09-08T05:39:07Z" changeset="140968199" uid="20172565" user="kuruze">
+    <nd ref="11175943467"/>
+    <nd ref="11175943468"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="1"/>
+  </way>
+  <way id="1484184848" version="1" timestamp="2026-03-01T02:54:16Z" changeset="179193729" uid="22635317" user="graphite8191">
+    <nd ref="13608654201"/>
+    <nd ref="13608654202"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="footway"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="茂森橋際歩道橋"/>
+    <tag k="name:ja-Hira" v="しげもりばしぎわほどうきょう"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="1484184849" version="1" timestamp="2026-03-01T02:54:16Z" changeset="179193729" uid="22635317" user="graphite8191">
+    <nd ref="13608654203"/>
+    <nd ref="13608654201"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="handrail" v="yes"/>
+    <tag k="highway" v="steps"/>
+    <tag k="layer" v="1"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="tactile_paving" v="no"/>
+  </way>
+  <way id="1484184850" version="1" timestamp="2026-03-01T02:54:16Z" changeset="179193729" uid="22635317" user="graphite8191">
+    <nd ref="13608654203"/>
+    <nd ref="13608654207"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="handrail" v="yes"/>
+    <tag k="highway" v="steps"/>
+    <tag k="layer" v="1"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="tactile_paving" v="no"/>
+  </way>
+  <way id="1484184851" version="1" timestamp="2026-03-01T02:54:16Z" changeset="179193729" uid="22635317" user="graphite8191">
+    <nd ref="13608654205"/>
+    <nd ref="13608654202"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="handrail" v="yes"/>
+    <tag k="highway" v="steps"/>
+    <tag k="layer" v="1"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="tactile_paving" v="no"/>
+  </way>
+  <way id="1484184853" version="1" timestamp="2026-03-01T02:54:16Z" changeset="179193729" uid="22635317" user="graphite8191">
+    <nd ref="13608654207"/>
+    <nd ref="13608654208"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="handrail" v="yes"/>
+    <tag k="highway" v="steps"/>
+    <tag k="layer" v="1"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="tactile_paving" v="no"/>
+  </way>
+
+</osm>
